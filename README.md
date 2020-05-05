@@ -1,6 +1,10 @@
 # nhsx-contact-tracing-app
 
-Structure
+## Guidance on Appropriate Processes for Handling Sensitive Issues
+
+* https://github.com/timb-machine/nhsx-contact-tracing-app/blob/master/SECURITY.md
+
+## Structure
 
 * advocacy - non-technical analysis, press briefings etc
 * advocacy/hmg-briefing - content from HMG
