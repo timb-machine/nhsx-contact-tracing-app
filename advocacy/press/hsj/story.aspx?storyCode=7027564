@@ -1,0 +1,1448 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	
+<meta charset="utf-8" />
+
+<title>Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests | News | Health Service Journal</title>
+<meta name="description" content="The government’s coronavirus contact tracing app has so far failed the tests needed for it to gain approval to be included in the NHS app library, HSJ understands." />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="momentnowdate" content="2020-05-05 19:03:25.006"/>
+<meta name="momentlocale" content="en-gb"/>
+<meta name="momentlocaleformat" content="D MMMM YYYY"/>
+<meta name="momentrelative" content="false"/>
+<meta name="momentrelativeformat" content="YYYY,MM,DD"/>
+<meta name="momentrelativemorethan" content="10"/>
+	
+	<meta name="blockthis" content="blockGA" />
+<meta name="showwallpaper" content="true" />
+<meta name="navcode" content="5795" />
+<meta name="primarynavigation" content="Technology and innovation ,Topics" />
+<link rel="canonical" href="https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article" />
+<meta name="pubdate" content="Mon, 04 May 2020 14:34 GMT" />
+	<meta property="og:title" content="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article" />
+<meta property="og:site_name" content="Health Service Journal" />
+<meta property="og:description" content="The government's coronavirus contact tracing app has so far failed the tests needed for it to gain approval to be included in the NHS app library, HSJ understands." />
+<meta property="og:image:width" content="2000" />
+<meta property="og:image:height" content="2000" />
+<meta property="og:image" content="https://d3e6tmgg461bic.cloudfront.net/Pictures/2000x2000fit/7/0/1/3045701_cybersecurity_364871.jpg" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests" />
+<meta property="twitter:description" content="The government's coronavirus contact tracing app has so far failed the tests needed for it to gain approval to be included in the NHS app library, HSJ understands." />
+<meta property="twitter:image:src" content="https://d3e6tmgg461bic.cloudfront.net/Pictures/1120xAny/7/0/1/3045701_cybersecurity_364871.jpg" />
+
+	
+<link rel="icon" href="/magazine/dest/graphics/favicons/favicon-32x32.png" />
+<!--[if IE]><link rel="shortcut icon" href="/magazine/dest/graphics/favicons/favicon.ico" /><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/magazine/dest/graphics/favicons/apple-touch-icon-precomposed.png" />
+<meta name="msapplication-TileImage" content="/magazine/dest/graphics/favicons/mstile-144x144.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+	
+	<link href="/CSS/dest/core.css" rel="stylesheet"/>
+<link href="/Magazine/dest/main.css" rel="stylesheet"/>
+
+<link href="/Magazine/dest/print.css" rel="stylesheet" type="text/css" media="print" />
+
+	
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	
+<script>var newLang={"more":{"default":"Show more","searchtype":"Show more","searchdates":"Show more"},"less":{"default":"Show fewer","searchtype":"Show fewer","searchdates":"Show fewer"},"show":{"default":"show"},"hide":{"default":"hide"},"caption":{"show":"show caption","hide":"hide caption"},"carousel":{"play":"play slideshow","pause":"pause slideshow"}};</script>
+	
+	<script type="text/javascript">
+					var IPState = {
+					useripstate: false,
+					useripname: ''
+					}
+				</script>
+<script type="text/javascript">
+		window.dataLayer = window.dataLayer || [];
+		window.dataLayer.push({'StoryID':'7027564'});
+		window.dataLayer.push({'StoryFormatProperty':'N'});
+		window.dataLayer.push({'StoryCategories':'|Data/statistics|Information management/IT|Technology|Department of Health and Social Care (DHSC)|Free|ISLE OF WIGHT NHS TRUST|NHS Digital (HSCIC)|Technology and innovation|Topics|Sectors|Daily Insight extra stories 1|Breaking news|NHSX|Coronavirus|'});		
+		window.dataLayer.push({'StoryLayout':'Standard'});
+		window.dataLayer.push({'UserID':undefined});
+		window.dataLayer.push({'NavCode':'5795'});
+		window.dataLayer.push({'MicrositeNavCode':'-1'});
+		</script>
+<script type="text/javascript">
+//dataLayer array declaration
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({'loggedin':'False'});
+window.dataLayer.push({'accessStatus':'Granted'});
+window.dataLayer.push({'primaryNav':'|Main Navigation|Topics|Technology and innovation|'});
+window.dataLayer.push({'PublishDateTime':'04-05-2020 14:34:00'});
+
+var UserStateLoggedIn = 'False';
+var isSubscriber = 'False';
+
+
+</script>
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+
+<!-- DFP -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/119943522/hsj-main/footer', [1, 1], 'div-gpt-ad-1497272238054-0').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/header', [1, 1], 'div-gpt-ad-1497272238054-1').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/mpu1', [[300, 250], [300, 600]], 'div-gpt-ad-1497272238054-2').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/mpu2', [[300, 250], [300, 600]], 'div-gpt-ad-1497272238054-3').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/mpu3', [[300, 250], [300, 600]], 'div-gpt-ad-1497272238054-4').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/mpu4', [[300, 250], [300, 600]], 'div-gpt-ad-1497272238054-5').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/mpu5', [[300, 250], [300, 600]], 'div-gpt-ad-1497272238054-6').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/skins', [1, 1], 'div-gpt-ad-1497272238054-7').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/topbanner1', [[728, 90], [320,100], [970, 250], [970, 90], [320, 50], [728, 250]], 'div-gpt-ad-1497272238054-8').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/topbanner2', [[728, 90], [320,100], [970, 250], [970, 90], [320, 50], [728, 250]], 'div-gpt-ad-1497272238054-9').addService(googletag.pubads());
+    googletag.defineSlot('/119943522/hsj-main/topbanner3', [[728, 90], [320,100], [970, 250], [970, 90], [320, 50], [728, 250]], 'div-gpt-ad-1497272238054-10').addService(googletag.pubads());
+    googletag.pubads().setTargeting("loggedin","+ YES OR NO +");     //Logged in or not
+    googletag.pubads().setTargeting("subtype","+ ADD ARTICLE ID +");     //Subscriber Type
+    googletag.pubads().setTargeting("cat1","+ TOP CATEGORY +");     //Top Category Targeting Name
+    googletag.pubads().setTargeting("cat2","+ SECOND CATEGORY +");     //Secondary Category Targeting Name
+    googletag.pubads().setTargeting("gender","+ MALE OR FEMALE +");     //Male or Femalw Targeting
+    googletag.pubads().setTargeting("articleid","+ ADD ARTICLE ID +");     //Article ID targeting for specific pages
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!--End DFP-->
+
+<!-- Style Nav Red -->
+<style>
+  ul.main>li.nav-item.highlightnav {
+  background:#c81f25;  
+}
+ 
+  ul.main>li.nav-item.highlightnav a span {
+  color:#fff;      
+}    
+
+  ul.main>li.nav-item.highlightnav:hover {
+  background: #c81f25;
+}
+    
+  ul.main>li.nav-item.highlightnav:hover a span {
+  color:#fff;      
+}
+</style>
+<!-- End Style Nav Red -->
+
+
+<script type='text/javascript'>
+ 
+    var adCat = 'topics-technologyinnovation';
+     
+    var slotA_override = 'hsj/'+adCat+'_mpu1';
+    var slotB_override = 'hsj/'+adCat+'_mpu2';
+    var slotC_override = 'hsj/'+adCat+'_mpu3';
+    var slotD_override = 'hsj/'+adCat+'_mpu4';
+    var slotE_override = 'hsj/'+adCat+'_mpu5';
+    var mastLB_override = 'hsj/'+adCat+'_topbanner1';
+    var wallpaper_override = 'hsj/'+adCat+'_skins';
+    var attachment_override = 'hsj/'+adCat+'_attach';
+</script>
+<meta name="apple-itunes-app" content="app-id=1252574299"/> 
+
+
+<!-- Marketo munchkin tracking code -->
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('936-FRZ-719');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+
+
+<!-- DFP Code -->
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+
+<script type='text/javascript'>
+
+    function getDataLayerVal(keyVal) {
+        for (var i = 0; i < window.dataLayer.length; i++) {
+          if (dataLayer[i][keyVal] !== undefined) {
+            return dataLayer[i][keyVal];
+          }
+        }
+    }
+
+    var showwallpaper;
+    if(document.querySelector('meta[name="showwallpaper"]')) {
+        showwallpaper = document.querySelector('meta[name="showwallpaper"]').content;
+    }
+    
+    var googleAccountId = '119943522'; //HSJ: 119943522  TEST: 51386726
+    
+    var slotA = 'ros_mpu1';
+    var slotB = 'ros_mpu2';
+    var slotC = 'ros_mpu3';
+    var slotD = 'ros_mpu4';
+    var slotE = 'ros_mpu5';
+    //var slotF = 'AdvertF';
+    var mastLB = 'ros_topbanner1';
+    //var mastLBUNav = 'dfp_leaderboard_under_nav';
+    var attachment = 'ros_attachmentad';
+    var wallpaper = 'ros_skins';
+
+//document.addEventListener('DOMContentLoaded', function() {
+//window.addEventListener('load', function() {
+
+    if (typeof slotA_override != 'undefined') { slotA = slotA_override };
+    if (typeof slotB_override != 'undefined') { slotB = slotB_override };
+    if (typeof slotC_override != 'undefined') { slotC = slotC_override };
+    if (typeof slotD_override != 'undefined') { slotD = slotD_override };
+    if (typeof slotE_override != 'undefined') { slotE = slotE_override };
+    //if (typeof slotF_override != 'undefined') { slotF = slotF_override };
+    if (typeof mastLB_override != 'undefined') { mastLB = mastLB_override };
+    //if (typeof mastLBUNav_override != 'undefined') { mastLBUNav = mastLBUNav_override  };
+    if (typeof attachment_override != 'undefined') { attachment = attachment_override  };
+    if (typeof wallpaper_override != 'undefined') { wallpaper = wallpaper_override };
+
+    
+    googletag.cmd.push(function() {
+
+        // Define a size mapping object. The first parameter to addSize is
+        // a viewport size, while the second is a list of allowed ad sizes.
+        var mapping = googletag.sizeMapping().
+        // 320, 0
+        addSize([320, 0], [300, 50]).
+        // 480, 0
+        addSize([480, 0], [300, 75]).
+        // 768, 0
+        addSize([768, 0], [300, 250]).
+        // 1024, 0
+        addSize([1024, 0], [300, 350]).build();
+
+        var mapMPU = googletag.sizeMapping().
+        // 320, 0
+        addSize([320, 0], [[300, 50],[300,75],[320,50],[300,250]]).
+        // 768, 0
+        addSize([768, 0], [[300, 250]]).
+        // 1024, 0
+        addSize([1024, 0], [[300, 250],[300,600]]).build();
+        //addSize([1024, 0], [[300, 250],[300,50]]).build();
+
+        var mapLB = googletag.sizeMapping().
+        // 320, 0
+        addSize([320, 0], [[300,50],[300,75],[320,50],[320,100]]).
+        //// 601, 0
+        addSize([601, 0], [[468,60]]).
+        // 768, 0
+        addSize([768, 0], [[468,60],[728,90]]).
+        // 1024, 0
+        addSize([1024, 0], [[468, 60],[728,90],[970,90],[970,250]]).build();
+
+        var mapLBUnderNav = googletag.sizeMapping().
+        addSize([0, 0], []).
+        // 1024, 0
+        addSize([1050, 0], [[468, 60],[728,90],[970,90],[970,250]]).build();
+
+        var mapWallpaper = googletag.sizeMapping().
+        addSize([0, 0], []).
+        // 1220, 0
+        addSize([1220, 0], [1,1]).build();
+
+        googletag.defineSlot('/'+googleAccountId+'/'+slotA, [300, 250], 'div-gpt-ad-A').defineSizeMapping(mapMPU).addService(googletag.pubads());
+        googletag.defineSlot('/'+googleAccountId+'/'+slotB, [300, 250], 'div-gpt-ad-B').defineSizeMapping(mapMPU).addService(googletag.pubads());
+        googletag.defineSlot('/'+googleAccountId+'/'+slotC, [300, 250], 'div-gpt-ad-C').defineSizeMapping(mapMPU).addService(googletag.pubads());
+        googletag.defineSlot('/'+googleAccountId+'/'+slotD, [300, 250], 'div-gpt-ad-D').defineSizeMapping(mapMPU).addService(googletag.pubads());
+        googletag.defineSlot('/'+googleAccountId+'/'+slotE, [300, 250], 'div-gpt-ad-E').defineSizeMapping(mapMPU).addService(googletag.pubads());
+        //googletag.defineSlot('/'+googleAccountId+'/'+slotF, [300, 250], 'div-gpt-ad-F').defineSizeMapping(mapMPU).addService(googletag.pubads());
+        googletag.defineSlot('/'+googleAccountId+'/'+mastLB, [728, 90], 'div-gpt-ad-MastLB').defineSizeMapping(mapLB).addService(googletag.pubads());
+        //googletag.defineSlot('/'+googleAccountId+'/'+mastLBUNav, [970, 250], 'div-gpt-ad-MastLBUNav').defineSizeMapping(mapLBUnderNav).addService(googletag.pubads());
+        googletag.defineSlot('/'+googleAccountId+'/'+attachment, [300, 250], 'div-gpt-ad-Attach').defineSizeMapping(mapMPU).addService(googletag.pubads());
+
+
+        if (document.querySelector('#div-gpt-ad-Wallpaper') && showwallpaper) {
+            var wallpaperSlot = googletag.defineOutOfPageSlot('/'+googleAccountId+'/'+wallpaper, 'div-gpt-ad-Wallpaper').defineSizeMapping(mapWallpaper).addService(googletag.pubads()).setTargeting('url', document.location.pathname);
+            googletag.pubads().addEventListener("slotRenderEnded",function(a){a.slot.getSlotElementId()!=wallpaperSlot.getSlotElementId()||a.isEmpty||(document.querySelector(".wallpaper-ad[data-site-width-1024]")&&(document.body.className+=" site-width-1024"),"true"===showwallpaper&&(document.body.className+=" wallpaper-applied"))});
+        };
+
+        getDataLayerVal ('NavCode') ? googletag.pubads().setTargeting('navcode', getDataLayerVal('NavCode')) : '';
+        getDataLayerVal('StoryID') ? googletag.pubads().setTargeting('storycode', getDataLayerVal('StoryID')) : '';
+
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+
+      
+
+    });
+
+                                                    
+window.addEventListener('message', receiveMessage, false);
+function receiveMessage(event) {
+    if(event.data == 'wallpaper-fireplace') document.body.className+=" wallpaper-fireplace";
+    if(document.body.className.match('wallpaper-fireplace')) {
+        var mastHeight = document.querySelector('#masthead').offsetHeight,
+            wallpaperElement = document.querySelector('.wallpaper-ad').getElementsByTagName('div')[0];
+        wallpaperElement.style.top = mastHeight + 'px'
+    }
+}
+</script>
+
+
+<script type="text/javascript"> _linkedin_partner_id = "614537"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=614537&fmt=gif" /> </noscript>
+
+
+
+
+
+<!-- <script type="text/javascript">
+    var addthis_config = {
+        pubid: 'hsjcouk'
+    }
+</script> -->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=hsjcouk"></script> 
+
+
+	
+	<!-- Page hiding snippet (recommended) -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-NXL6':true});
+</script>
+
+<!-- Abacus Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJWVWZW');</script>
+<!-- End Google Tag Manager -->
+
+<!--HSJ Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXL6');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<!-- Start Google Site Verification -->
+<meta name="google-site-verification" content="sokRoTrDKUVe_Hm0UA7oALToTJYWCTC_PsZhrL8WrCU" />
+<!-- End Google Site Verification -->
+
+</head>
+
+<body id="story" class="M1-master js-disabled ">
+	<!-- Abacus Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WJWVWZW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!-- HSJ Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXL6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+	
+<!--[if lte IE 10]>
+<link rel="stylesheet" href="/CSS/dest/notsupported.css">
+<div class="notSupported">
+	<div class="sleeve">
+		<span id="logo" class="vector-icon i-brand-logo i-brand-logo-dims"></span>
+		<h2>
+			Your browser is not supported
+		</h2>
+		<p>
+			Sorry but it looks as if your browser is out of date. To get the best experience using our site we recommend that you upgrade or switch browsers.
+		</p>
+		<p class="buttonContainer">
+			<a class="button" href="https://www.google.co.uk/webhp?ion=1&espv=2&ie=UTF-8#q=update+my+browser" target="_blank">Find a solution</a>
+		</p>
+	</div>
+</div>
+<![endif]-->
+	<script type="text/javascript">document.body.className = document.body.className.replace('js-disabled', ''); document.cookie = "_js=1; path=/";</script>
+	
+	<div id="wrapper">
+		
+<ul id="skiplinks"><li><a href="#wrapper_sleeve">Skip to main content</a></li><li><a href="#mainnav">Skip to navigation</a></li></ul>
+		
+<header id="masthead" class="masthead">
+	<div class="htmlContent">
+  <div style="background-color:#363739; padding-top:4px; padding-bottom:4px; padding-left:4px; width:100%"><a href="https://www.wilmingtonhealthcare.com"><img style="height:30px;" class="" src="https://www.hsj.co.uk/pictures/web/y/t/z/wilmingtonlogoabacuspart1_626773.png" alt="Wilmington Healthcare Events"><img style="height:30px;" class="" src="https://www.hsj.co.uk/pictures/web/y/t/z/wilmingtonlogoabacuspart2_296827.png" alt="Wilmington Healthcare Events"></a></div>
+<div id='div-gpt-ad-Wallpaper' class="wallpaper-ad adslot" data-site-width-1024></div>
+
+</div>
+	
+	<div class="leaderboard">
+<div class="ad">
+<div id='div-gpt-ad-MastLB' class='adslot'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-MastLB'); });
+     </script>
+</div>
+</div>        
+</div>
+
+
+	<div class="mast container full" role="banner" data-multi-toggle-menu>
+		<div class="inner-sleeve" data-menu-open-pushed>
+			<div class="mastheadLogo">
+    <a href="/">
+        <span class="logoIcon">
+            <span class="assistive">Return to home page</span>
+        </span>
+    </a>
+</div>
+<div id="print_logo">
+    <img src="/magazine/dest/graphics/logo/print_logo.png" alt="HSJ logo" />
+</div>
+<!--
+<div class="mastheadMobileLogo">
+    <a href="/">
+        
+            <span src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/z/h/k/HSJlogomob.png" alt="HSJ"class="assistive">HSJ</span>
+        
+    </a>
+</div>
+-->
+
+<div class="mastheadMobileLogo">
+    <a href="/">
+        <span class="logoIcon" src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/z/h/k/HSJlogomob.png" alt="HSJ">
+            <span class="assistive">HSJ</span>
+        </span>
+    </a>
+</div>
+
+
+			<div class="mastheadPromo">
+<img src="https://d3e6tmgg461bic.cloudfront.net/pictures/480xAny/P/web/r/b/l/hsj_rebecca_dsf0047_703470.png" />
+        <span>Rebecca Thomas</span>
+        <h3><a href="7027556.article">Mental Health Matters: Trusts see surge in acutely ill patients</a></h3>
+    </div>
+
+			<div class="mastControls">
+				<nav data-multi-toggle-item="" class="mastNav loggedout hide"><span class="toggleIcon"><a href="#mastnav" data-toggle-button=""><span class="assistive">Mast navigation</span></a></span><ul id="mastnav" data-toggle-element=""><li><a href="https://subs.hsj.co.uk/register?promo_name=NavRegister&amp;promo_id=UserNav&amp;promo_creative=RegLink&amp;promo_position=UserNav" class="NAV_REG">Register</a></li><li><a href="https://www.hsj.co.uk/sign-in">Sign In</a></li><li><a href="https://www.hsj.co.uk/why-subscribe?promo_name=LogOutNavSub&amp;promo_id=My_Acc_Log_Out&amp;promo_creative=Btn&amp;promo_position=LogOutNav">Subscribe</a></li></ul></nav>
+				<div class="mastheadSearch hide" data-multi-toggle-item="">
+  <span class="toggleIcon">
+    <a href="#search" data-toggle-button="">
+      <span class="assistive">Search our site</span>
+    </a>
+  </span>
+  <form action="https://www.hsj.co.uk/searchresults" method="get" id="mastsearch" data-toggle-element="">
+    <fieldset>
+      <div>
+        <label for="search">Search our site</label>
+        <input type="text" id="search" value="" name="qkeyword" class="text" placeholder="Search our site" />
+        <button class="mastSearch" type="submit">Search</button>
+      </div>
+    </fieldset>
+  </form>
+</div>
+				
+
+<div class="menuToggle">
+	<span class="toggleIcon"><a href="#mobilemenu" data-menu-toggle-button=""><span class="assistive">Menu</span></a></span>
+</div>
+			</div>
+		</div>
+	</div>
+	<div class="menuContainer">
+		<div class="mobileMenu" id="mobilemenu">
+  <div class="sleeve">
+    <a class="menuClose" href="#wrapper">
+      <span>Close<span class="assistive"> menu</span></span>
+    </a>
+    <ul class="main">
+      <li class="hasChildren home-icon">
+        <a aria-expanded="false" href="https://www.hsj.co.uk/">
+          <span>Home</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav home-icon">
+            <a href="https://www.hsj.co.uk/">
+              <span>Home</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/home/daily-insight">
+              <span>Daily Insight</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/HSJ-Expert-Briefing">
+              <span>Expert Briefings</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/home/news">
+              <span>News</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/home/hsj-insight">
+              <span>HSJ Insight</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/membership">
+              <span>HSJ Membership</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/home/hsj-health-check-podcast">
+              <span>HSJ Health Check podcast</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="">
+        <a href="https://www.hsj.co.uk/coronavirus">
+          <span>Coronavirus</span>
+        </a>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/sectors" aria-expanded="false">
+          <span>Sectors</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/sectors">
+              <span>Sectors</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/commissioning">
+              <span>Commissioning</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/acute-care">
+              <span>Acute care</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/primary-care">
+              <span>Primary care</span>
+            </a>
+          </li>
+          <li class="break">
+            <a href="https://www.hsj.co.uk/sectors/specialist-care">
+              <span>Specialist care</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/community-services">
+              <span>Community services</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/mental-health">
+              <span>Mental health</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/social-care">
+              <span>Social care</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/sectors/emergency-care">
+              <span>Emergency care</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/topics" aria-expanded="false">
+          <span>Topics</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/topics">
+              <span>Topics</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/finance-and-efficiency">
+              <span>Finance and efficiency</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/quality-and-performance">
+              <span>Quality and performance</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.hsj.co.uk/topics/workforce" aria-expanded="false">
+              <span>Workforce</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.hsj.co.uk/topics/workforce">
+                  <span>Workforce</span>
+                </a>
+              </li>
+              <li class="break">
+                <a href="https://www.hsj.co.uk/topics/workforce/people-moves">
+                  <span>People Moves</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/policy-and-regulation">
+              <span>Policy and regulation</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/service-design">
+              <span>Service design</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/technology-and-innovation">
+              <span>Technology and innovation</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/patient-safety">
+              <span>Patient safety</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/hsj-local" aria-expanded="false">
+          <span>HSJ Local</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/hsj-local">
+              <span>HSJ Local</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-local/commissioners">
+              <span>Commissioners</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-local/providers">
+              <span>Providers</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-local/regions">
+              <span>Regions</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/comment" aria-expanded="false">
+          <span>Comment</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/comment">
+              <span>Comment</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/comment/the-bedpan">
+              <span>The Bedpan</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/hsj-knowledge" aria-expanded="false">
+          <span>HSJ Knowledge</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/hsj-knowledge">
+              <span>HSJ Knowledge</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/hsj-partners">
+              <span>HSJ Partners</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/covid-19-resources">
+              <span>Covid-19 Resources</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/commissions-and-inquiries" aria-expanded="false">
+              <span>Commissions and inquiries</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.hsj.co.uk/hsj-knowledge/commissions-and-inquiries">
+                  <span>Commissions and inquiries</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.hsj.co.uk/hsj-knowledge/commissions-and-inquiries/non-clinical-workforce">
+                  <span>Non-clinical workforce</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/top-leader-lists">
+              <span>Top leader lists</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/roundtables">
+              <span>Roundtables</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/supplement-archive">
+              <span>Supplement Archive</span>
+            </a>
+          </li>
+          <li class="break">
+            <a href="https://www.hsj.co.uk/hsj-knowledge/hsj-webinars">
+              <span>HSJ webinars</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/partnership-awards/winners-of-the-2019-hsj-partnership-awards-announced/7024698.article">
+              <span>HSJ Healthcare Partnership Awards</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>Channels and networks</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>Channels and networks</span>
+              </li>
+              <li class="">
+                <a href="https://www.hsj.co.uk/topics/leadership/insight-and-influence">
+                  <span>Insight and influence</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/events/" aria-expanded="false">
+          <span>Events</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/events/">
+              <span>Events</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/Clinical-Policy-Series">
+              <span>Clinical Policy Series</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="http://www.hsjjobs.com/" aria-expanded="false">
+          <span>Jobs</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="http://www.hsjjobs.com/">
+              <span>Jobs</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="http://www.hsjjobs.com/">
+              <span>Search HSJjobs</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/jobs/leadership-qanda">
+              <span>Leadership Q&A</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/topics/workforce/people-moves">
+              <span>People Moves</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.hsj.co.uk/jobs/courses">
+              <span>Courses</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.hsj.co.uk/products-and-services" aria-expanded="false">
+          <span>Products & Services</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.hsj.co.uk/products-and-services">
+              <span>Products & Services</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>Products & Services</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>Products & Services</span>
+              </li>
+              <li class="">
+                <a href="https://www.hsj.co.uk/why-subscribe">
+                  <span>News Subscription Services</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.hsjintelligence.co.uk/">
+                  <span>HSJ Intelligence - Insight for NHS Suppliers</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://solutions.hsj.co.uk/">
+                  <span>HSJ Solutions - NHS Best Practice Database</span>
+                </a>
+              </li>
+              <li class="break">
+                <a href="https://www.hsj.co.uk/info/information/marketing-and-advertising-solutions">
+                  <span>Marketing & Advertising Solutions</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>About Us</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>About Us</span>
+              </li>
+              <li class="">
+                <a href="https://www.hsj.co.uk/info/information/contact-hsj">
+                  <span>Contact Us</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.hsj.co.uk/info/information/hsj-app">
+                  <span>HSJ App</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.hsj.co.uk/why-subscribe">
+                  <span>Why Subscribe</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="navSubscribe">
+        <a href="https://www.hsj.co.uk/why-subscribe?promo_name=NavBarSubLogOut&amp;promo_id=NavBar&amp;promo_creative=BlueBtn&amp;promo_position=NavMenu">
+          <span>Subscribe</span>
+        </a>
+      </li>
+      <li class="">
+        <a href="https://www.hsj.co.uk/clinical-policy-series">
+          <span>Clinical Policy Series</span>
+        </a>
+      </li>
+    </ul>
+    
+    
+  </div>
+</div>
+<div class="mobileMenuClose"></div>
+		<div id="mainnav" class="desktopNavigation container" data-menu-open-pushed=""><div class="dropdown vanityPanel"><div class="inner-sleeve"></div></div><div class="inner-sleeve"><ul class="main preJS"><li class="home-icon hasChildren oneSubNav"><a href="https://www.hsj.co.uk/"><span>Home</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/home/daily-insight"><span>Daily Insight</span></a></li><li class=""><a href="https://www.hsj.co.uk/HSJ-Expert-Briefing"><span>Expert Briefings</span></a></li><li class=""><a href="https://www.hsj.co.uk/home/news"><span>News</span></a></li><li class=""><a href="https://www.hsj.co.uk/home/hsj-insight"><span>HSJ Insight</span></a></li><li class=""><a href="https://www.hsj.co.uk/membership"><span>HSJ Membership</span></a></li><li class=""><a href="https://www.hsj.co.uk/home/hsj-health-check-podcast"><span>HSJ Health Check podcast</span></a></li></ul></li><li class="promotedStory"><a href="/daily-insight/daily-insight-safe-but-unnecessarily-secluded/7027579.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/7/2/1/3045721_HSJ-daily-insight-logo.jpg" alt="Hsj daily insight logo" /></div><div class="captionBlock"><span class="title">Daily Insight: Safe but unnecessarily secluded</span></div></a></li><li class="promotedStory"><a href="/daily-insight/daily-insight-acutes-impressed-but-did-the-discharge-plan-excel/7027570.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/7/0/3/3045703_HSJ-daily-insight-logo.jpg" alt="Hsj daily insight logo" /></div><div class="captionBlock"><span class="title">Daily Insight: Acutes impressed but did the discharge plan Excel?</span></div></a></li><li class="promotedStory"><a href="/daily-insight/daily-insight-out-for-the-count/7027549.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/6/3/3045663_HSJ-daily-insight-logo.jpg" alt="Hsj daily insight logo" /></div><div class="captionBlock"><span class="title">Daily Insight: Out for the count</span></div></a></li></ul></div></div></li><li><a href="https://www.hsj.co.uk/coronavirus"><span>Coronavirus</span></a></li><li class="hasChildren twoSubNav"><a href="https://www.hsj.co.uk/sectors"><span>Sectors</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/sectors/commissioning"><span>Commissioning</span></a></li><li class=""><a href="https://www.hsj.co.uk/sectors/acute-care"><span>Acute care</span></a></li><li class=""><a href="https://www.hsj.co.uk/sectors/primary-care"><span>Primary care</span></a></li><li class="break"><a href="https://www.hsj.co.uk/sectors/specialist-care"><span>Specialist care</span></a></li></ul></li><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/sectors/community-services"><span>Community services</span></a></li><li class=""><a href="https://www.hsj.co.uk/sectors/mental-health"><span>Mental health</span></a></li><li class=""><a href="https://www.hsj.co.uk/sectors/social-care"><span>Social care</span></a></li><li class=""><a href="https://www.hsj.co.uk/sectors/emergency-care"><span>Emergency care</span></a></li></ul></li><li class="promotedStory"><a href="/coronavirus/younger-female-nhs-workers-may-face-greater-risk-of-death-from-coronavirus/7027560.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/8/1/3045681_Workforce.jpg" alt="Workforce" /></div><div class="captionBlock"><span class="title">Younger female NHS workers may face greater risk of death from coronavirus</span></div></a></li><li class="promotedStory"><a href="/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/7/0/1/3045701_cybersecurity_364871.jpg" alt="Cyber security" /></div><div class="captionBlock"><span class="title">Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests</span></div></a></li></ul></div></div></li><li class="current hasChildren twoSubNav"><a href="https://www.hsj.co.uk/topics"><span>Topics</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/topics/finance-and-efficiency"><span>Finance and efficiency</span></a></li><li class=""><a href="https://www.hsj.co.uk/topics/quality-and-performance"><span>Quality and performance</span></a></li><li class=""><a href="https://www.hsj.co.uk/topics/workforce"><span>Workforce</span></a><ul><li class="break"><a href="https://www.hsj.co.uk/topics/workforce/people-moves"><span>People Moves</span></a></li></ul></li></ul></li><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/topics/policy-and-regulation"><span>Policy and regulation</span></a></li><li class=""><a href="https://www.hsj.co.uk/topics/service-design"><span>Service design</span></a></li><li class=""><a href="https://www.hsj.co.uk/topics/technology-and-innovation"><span>Technology and innovation</span></a></li><li class=""><a href="https://www.hsj.co.uk/topics/patient-safety"><span>Patient safety</span></a></li></ul></li><li class="promotedStory"><a href="/coronavirus/younger-female-nhs-workers-may-face-greater-risk-of-death-from-coronavirus/7027560.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/8/1/3045681_Workforce.jpg" alt="Workforce" /></div><div class="captionBlock"><span class="title">Younger female NHS workers may face greater risk of death from coronavirus</span></div></a></li><li class="promotedStory"><a href="/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/7/0/1/3045701_cybersecurity_364871.jpg" alt="Cyber security" /></div><div class="captionBlock"><span class="title">Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests</span></div></a></li></ul></div></div></li><li class="hasChildren oneSubNav"><a href="https://www.hsj.co.uk/hsj-local"><span>HSJ Local</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/hsj-local/commissioners"><span>Commissioners</span></a></li><li class=""><a href="https://www.hsj.co.uk/hsj-local/providers"><span>Providers</span></a></li><li class=""><a href="https://www.hsj.co.uk/hsj-local/regions"><span>Regions</span></a></li></ul></li><li class="promotedStory"><a href="/workforce/trust-loses-appeal-against-tribunal-which-strongly-criticised-ceos-evidence/7027553.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/7/1/3045671_444218015_555219.jpg" alt="444218-015" /></div><div class="captionBlock"><span class="title">Trust loses appeal against tribunal which strongly criticised CEO’s evidence</span></div></a></li><li class="promotedStory"><a href="/coronavirus/senior-trust-director-dies-after-contracting-covid-19/7027558.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/7/9/3045679_img94joktmu74655_699681_crop.jpg" alt="img94joktmu74655" /></div><div class="captionBlock"><span class="title">Senior trust director dies after contracting covid-19</span></div></a></li><li class="promotedStory"><a href="/sheffield-health-and-social-care-nhs-foundation-trust/cqc-recommends-inadequate-trust-goes-into-special-measures/7027538.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/4/2/3045642_sheffield-city-centre-2015.jpg" alt="sheffield city centre 2015" /></div><div class="captionBlock"><span class="title">CQC recommends ‘inadequate’ trust goes into special measures</span></div></a></li></ul></div></div></li><li class="hasChildren oneSubNav"><a href="https://www.hsj.co.uk/comment"><span>Comment</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/comment/the-bedpan"><span>The Bedpan</span></a></li></ul></li><li class="promotedStory"><a href="/integration/will-covid-19-be-remembered-as-the-catalyst-for-system-working/7027573.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/7/1/9/3045719_williampett3x2_135664.jpg" alt="william pett 3x2" /></div><div class="captionBlock"><span class="title">Will covid-19 be remembered as the catalyst for system-working?</span></div></a></li><li class="promotedStory"><a href="/coronavirus/younger-female-nhs-workers-may-face-greater-risk-of-death-from-coronavirus/7027560.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/8/1/3045681_Workforce.jpg" alt="Workforce" /></div><div class="captionBlock"><span class="title">Younger female NHS workers may face greater risk of death from coronavirus</span></div></a></li><li class="promotedStory"><a href="/policy-and-regulation/cowpers-cut-the-peoples-chat-show-host/7027559.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/8/0/3045680_Andy-Cowper.jpg" alt="Andy Cowper" /></div><div class="captionBlock"><span class="title">Cowper’s Cut: The People’s Chat Show Host</span></div></a></li></ul></div></div></li><li class="hasChildren twoSubNav"><a href="https://www.hsj.co.uk/hsj-knowledge"><span>HSJ Knowledge</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/hsj-partners"><span>HSJ Partners</span></a></li><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/covid-19-resources"><span>Covid-19 Resources</span></a></li><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/commissions-and-inquiries"><span>Commissions and inquiries</span></a><ul><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/commissions-and-inquiries/non-clinical-workforce"><span>Non-clinical workforce</span></a></li></ul></li><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/top-leader-lists"><span>Top leader lists</span></a></li><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/roundtables"><span>Roundtables</span></a></li><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/supplement-archive"><span>Supplement Archive</span></a></li><li class="break"><a href="https://www.hsj.co.uk/hsj-knowledge/hsj-webinars"><span>HSJ webinars</span></a></li></ul></li><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/partnership-awards/winners-of-the-2019-hsj-partnership-awards-announced/7024698.article"><span>HSJ Healthcare Partnership Awards</span></a></li><li class=""><span>Channels and networks</span><ul><li class=""><a href="https://www.hsj.co.uk/topics/leadership/insight-and-influence"><span>Insight and influence</span></a></li></ul></li></ul></li><li class="promotedStory"><a href="/leadership-qanda/leadership-qanda-northamptonshire-healthcare-ft-and-leicestershire-partnership-trust/7027546.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/6/6/0/3045660_angelahillery3x2_301649.jpg" alt="Angela Hillery 3x2" /></div><div class="captionBlock"><span class="title">Leadership Q&A: Northamptonshire Healthcare FT and Leicestershire Partnership Trust</span></div></a></li><li class="promotedStory"><a href="/technology-and-innovation/open-data-the-challenges-and-opportunities-for-the-nhs/7027114.article" class="image"><div class="image"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" class="lazyload" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/274x183/8/2/5/3044825_datanetworkpuzzle_133317.jpg" alt="data network puzzle" /></div><div class="captionBlock"><span class="title">Open data – the challenges and opportunities for the NHS</span></div></a></li></ul></div></div></li><li class="hasChildren oneSubNav"><a href="https://www.hsj.co.uk/events/"><span>Events</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="https://www.hsj.co.uk/Clinical-Policy-Series"><span>Clinical Policy Series</span></a></li></ul></li></ul></div></div></li><li class="hasChildren oneSubNav"><a href="http://www.hsjjobs.com/"><span>Jobs</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><a href="http://www.hsjjobs.com/"><span>Search HSJjobs</span></a></li><li class=""><a href="https://www.hsj.co.uk/jobs/leadership-qanda"><span>Leadership Q&A</span></a></li><li class=""><a href="https://www.hsj.co.uk/topics/workforce/people-moves"><span>People Moves</span></a></li><li class=""><a href="https://www.hsj.co.uk/jobs/courses"><span>Courses</span></a></li></ul></li><li class="htmlBlock"><div><div class="column">
+<h2><a href="http://www.hsjjobs.com/">Find your next career<br> move with HSJ</a></h2>
+<a href="http://www.hsjjobs.com/">
+    <img src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/i/c/h/CV-illustration-small.png" alt="cv illustration" />
+    </a>
+<h4><a href="http://www.hsjjobs.com/" style="font-size: 22px;line-height: 24px;">Search vacancies, upload your CV and get jobs by email</a></h4>
+    </div>
+<div class="column2">
+<h2><a href="https://www.hsj.co.uk/hsj-recruitment">Discover our job<br> advertising opportunities</a></h2>
+<a href="https://www.hsj.co.uk/hsj-recruitment">
+    <img style="max-width:274px !important" src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/f/y/h/HSJ-Jobs-300x200.PNG" alt="HSJ Jobs Adverts" />
+    </a>
+<h4><a href="https://www.hsj.co.uk/hsj-recruitment" style="font-size: 22px;line-height: 24px;">Advertise standard listings to <br>leadership packages and more.</a></h4>
+    </div></div></li></ul></div></div></li><li class="hasChildren twoSubNav"><a href="https://www.hsj.co.uk/products-and-services"><span>Products & Services</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="subnav"><ul><li class=""><span>Products & Services</span><ul><li class=""><a href="https://www.hsj.co.uk/why-subscribe"><span>News Subscription Services</span></a></li><li class=""><a href="https://www.hsjintelligence.co.uk/"><span>HSJ Intelligence - Insight for NHS Suppliers</span></a></li><li class=""><a href="https://solutions.hsj.co.uk/"><span>HSJ Solutions - NHS Best Practice Database</span></a></li><li class="break"><a href="https://www.hsj.co.uk/info/information/marketing-and-advertising-solutions"><span>Marketing & Advertising Solutions</span></a></li></ul></li></ul></li><li class="subnav"><ul><li class=""><span>About Us</span><ul><li class=""><a href="https://www.hsj.co.uk/info/information/contact-hsj"><span>Contact Us</span></a></li><li class=""><a href="https://www.hsj.co.uk/info/information/hsj-app"><span>HSJ App</span></a></li><li class=""><a href="https://www.hsj.co.uk/why-subscribe"><span>Why Subscribe</span></a></li></ul></li></ul></li></ul></div></div></li><li class="navSubscribe hasChildren"><a href="https://www.hsj.co.uk/why-subscribe?promo_name=NavBarSubLogOut&amp;promo_id=NavBar&amp;promo_creative=BlueBtn&amp;promo_position=NavMenu"><span>Subscribe</span></a><div class="dropdown"><div class="inner-sleeve"><ul><li class="htmlBlock"><div><div class="column">
+<h2><a href="https://www.hsj.co.uk/why-subscribe" style="font-size: 22px;line-height:">Individual Access</a></h2>
+<a href="https://www.hsj.co.uk/why-subscribe">
+   <img style="max-width:274px !important" alt="Indi sub v2" src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/m/k/m/indisubv2_60134.jpg" />
+    </a>
+<h5><a href="https://www.hsj.co.uk/why-subscribe" style="font-size: 18px;line-height:">Get unrestricted access to breaking news and exclusive insight that can support you in your role in healthcare</a>	
+    </div>
+<div class="column">
+<h2><a href="https://www.hsj.co.uk/teams" style="font-size: 22px;line-height:">Team/Group Access</a></h2>
+<a href="https://www.hsj.co.uk/teams">
+    <img style="max-width:274px !important" alt="HSJ Mockup" src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/y/h/c/23746hsjhomepageimage_760547.jpg"/>
+    </a>
+<h5><a href="https://www.hsj.co.uk/teams" style="font-size: 18px;line-height:">Provide your teams with the information they need to lead your strategy and initiatives forward </a>	
+    </div>
+	<div class="column">
+<h2><a href="https://www.hsj.co.uk/membership" style="font-size: 22px;line-height:">HSJ Membership</a></h2>
+<a href="https://www.hsj.co.uk/membership">
+    <img style="max-width:274px !important" alt="HSJ Membership" src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/j/v/n/hsjmembership_738490.png"/>
+    </a>
+<h5><a href="https://www.hsj.co.uk/membership" style="font-size: 18px;line-height:">Find out about our advanced subscription package designed for NHS organisations</a>	
+    </div></div></li></ul></div></div></li><li><a href="https://www.hsj.co.uk/clinical-policy-series"><span>Clinical Policy Series</span></a></li><li class="more hide"><a href="#mobilemenu" data-menu-toggle-button="" aria-expanded="false"><span>More<span class="assistive"> navigation items</span></span></a></li></ul></div></div><div class="desktopNavigationSpace"></div>
+	</div>
+</header>
+
+
+<!-- /51386726/dfp_leaderboard_under_nav -->
+
+<!--
+<div class="ad-style1 showMenuPushed">
+    <div class="sleeve">
+        <div id='div-gpt-ad-MastLBUNav' class='adslot'></div>
+    </div>
+</div>
+-->
+		<div id="wrapper_sleeve" data-menu-open-pushed>
+			
+	<div class="storyLayout standard"></div>
+	<div class="headerWrapper">
+		
+		
+
+
+
+
+
+
+		
+		<div class="container titleByline">
+			<div class="inner-sleeve">
+				<div class="storyPrimaryNav"><a href="https://www.hsj.co.uk/topics/technology-and-innovation">Technology and innovation</a></div>
+				
+				<div class="story_title">
+  <h1>Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests</h1>
+</div>
+<p class="byline meta">
+  <span class="author">By <a href="/jasmine-rapson/3008154.bio" rel="author">Jasmine Rapson</a></span><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-05-04T14:34:00&quot;,&quot;format&quot;: &quot;D MMMM YYYY&quot;}">2020-05-04T14:34:00+01:00</span></p>
+			</div>
+		</div>
+	</div>
+	
+
+
+
+	
+	
+
+			<div id="columns" class="container">
+				<div id="colwrapper" class="inner-sleeve">
+					<div id="colmain" role="main">
+						<div id="content">
+							<div id="content_sleeve">
+								
+	<div class="contentWrapper">
+		<div class="storyContentWrapper">
+			<div class="pageOptions">
+  <ul class="pageOptions_right">
+    <li aria-live="polite"><a href="#commentsJump" class="commentButton scrollTo"><div class="commentCount">9<span class="commentText"> Comments</span></div>
+        <div class="commentIcon">
+        </div></a></li>
+    <li class=" last" aria-live="polite" data-cache-bust="true" data-ajax-load-content="" data-url="/0/7027564/bookmark">
+    </li>
+  </ul>
+  <ul>   <li>
+      <a  data-facebook-share="true" data-share-url='https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article' data-share-title="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests"  href="javascript:void(0)" class="facebook" title="Share this on Facebook"></a>
+    </li>
+         <li>
+      <a data-twitter-share="true" data-share-url='https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article' data-share-title="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests" href="javascript:void(0)" class="twitter" title="Share this on Twitter"></a>
+    </li>
+    <li>
+      <a data-linkedin-share="true" data-share-url='https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article' data-share-title="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests"  href="javascript:void(0)" class="linkedin" title="Share this on Linked in"></a>
+    </li><li><a href="mailto:?subject=Exclusive: %E2%80%98Wobbly%E2%80%99 tracing app %E2%80%98failed%E2%80%99 clinical safety and cyber security tests&amp;body=https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article" class="email" title="Email this article"></a></li>
+  </ul>
+</div>
+			<div class="articleWrapper">
+				<div class="articleContent">
+					
+					<div class="standfirst"><ul>
+<li>NHSX’s new contact tracing app so far failed tests needed to be included on NHS app store </li>
+<li>Technology to be trialled on Isle of Wight this week ahead of national rollout</li>
+<li>Concerns that public trust could be lost if privacy concerns not taken seriously</li>
+<li>DHSC said it had not ‘failed’ and would go through assessment again after piloting</li>
+</ul>
+<p>The government’s coronavirus contact tracing app has so far failed the tests needed to be included in the NHS app library, <em>HSJ</em> understands.</p></div><div class="storytext"><p>The app is being trialled on the Isle of Wight this week, ahead of a national rollout later this month.&nbsp;Senior NHS sources told&nbsp;<em>HSJ</em> it&nbsp;had thus far failed all of the tests required for inclusion in the app library, including cyber security, performance and clinical safety.</p>
+<p>There are also concerns at high levels about how users’ privacy will be protected once they log that they have coronavirus symptoms, and become “traceable”, and how this information will be used.</p>
+<p>Senior figures told <em>HSJ</em> that it had been hard to assess the app because the government was “going about it in a kind of a hamfisted way. They haven’t got clear versions, so it’s been impossible to get fixed code base from them for NHS Digital to test. They keep changing it all over the place”.&nbsp;</p>
+<p><em>HSJ</em>’s source described the app as “a bit wobbly”, but added&nbsp;that it was not a “big disaster” the app will not be included in the official NHS store at this stage, because it is at an early development stage. However, they also expressed concern about whether it will be able to pass in the near future.</p>
+<p>The NHS Apps Library showcases dozens of approved apps which are assessed against a range of NHS standards. Products are assessed against national standards, regulation and industry best practice before they are approved for the library. Developers are asked questions on areas such as clinical safety, data protection and security, depending on the complexity of the technology.</p>
+<p>Once the Isle of Wight trial is complete, the app will be referred back to NHS Digital, which runs the app store, for further assessment.&nbsp;During the government’s daily covid-19 briefing yesterday, cabinet minister Michael Gove said it was hoped that more than half of the 80,000 households on the Isle of Wight would download the app.</p>
+<p>The app will use Bluetooth technology to register a “contact” when people come within 6ft of each other for at least 15 minutes. If someone develops symptoms of coronavirus they inform the app and an alert will be sent to other people they have been in close contact with.</p>
+<p>Concerns regarding the app’s privacy and information governance have been discussed nationally. Senior NHS sources have raised concerns that the app could risk public trust if privacy protection is overlooked, particularly when people using the app log themselves as having symptoms and therefore become traceable.&nbsp;</p>
+<p>A senior NHS national source told <em>HSJ</em>: “The&nbsp;real problem is the government initially started saying it was a ‘privacy-preserving highly anonymous app’, but it quite clearly isn’t going to be…&nbsp;When you use the app and you’re not [covid-19] positive in the early stages, you’re just exchanging signals between two machines… But the second you say, ‘actually I’m positive’, that has to go back up to the government server, where it starts to track you versus other people.”</p>
+<p>A DHSC spokesman stressed there was not a plan for the app to track people’s location, for example with GPS, but to monitor who they have been near to, with Bluetooth.</p>
+<p>The spokesman said:<strong>&nbsp;</strong>“The NHS covid-19 app has not failed any clinical assessments and NHS Digital has been clear it will go through the normal assessment and approval process following the Isle of Wight roll-out.</p>
+<p>“Privacy and security has been paramount throughout the app’s development, and we have worked in partnership with the National Cyber Security Centre throughout.&nbsp;The app uses low-energy Bluetooth, not GPS, and therefore it does not track people’s locations or record their locations.”</p>
+<p>A spokesman for NHSX said the National Data Guardian’s panel had been consulted on the plans and the data collected by the app would only be used for NHS care, evaluation and research. An independent assurance board involving experts in mobile apps, data governance and clinical safety has also been set up to monitor the production of the app.</p>
+<p>An NHS Digital spokesman said apps were not normally assessed for the app store at this “beta” stage and that, although it had been asked to carry out assessments and approval processes already, further reviews would take place after the piloting.</p>
+<p>The spokesman said: ”The NHS Apps Library doesn’t normally assess apps that are in private beta. Apps usually come through to us for assessment later in the process when they have been proven through pilots and some degree of operational use. The CCT App is currently being piloted, as widely reported in the media, and will doubtless evolve as a result of the lessons learned during piloting.</p>
+<p>“We have been asked by NHSX to put the CCT App through all the normal assessments and approvals required prior to promoting an app to the NHS Apps Library. We’re at an early stage of this work and expect them to submit the app for full assessment when they reach public beta.”</p></div><div class="storyMeta"><h3>Source</h3><p>Information supplied to HSJ </p></div><div class="storyMeta"><h3>Source Date</h3><p>May 20</p></div>
+				</div>
+			</div>
+			
+			<div class="htmlContent">
+				
+			</div>
+		</div>
+		<div class="topics"><div class="sleeve"><span class="topicsLabel"></span><h2>Topics</h2><ul class="topicsList"><li><a href="/coronavirus/17913.subject">Coronavirus</a></li><li><a href="/data/statistics/212.subject">Data/statistics</a></li><li><a href="/department-of-health-and-social-care-dhsc/13194.subject">Department of Health and Social Care (DHSC)</a></li><li><a href="/information-management/it/242.subject">Information management/IT</a></li><li><a href="/isle-of-wight-nhs-trust/14347.subject">ISLE OF WIGHT NHS TRUST</a></li><li><a href="/nhs-digital-hscic/15219.subject">NHS Digital (HSCIC)</a></li><li><a href="/nhsx/17909.subject">NHSX</a></li><li><a href="/technology/296.subject">Technology</a></li><li><a href="/technology-and-innovation/15555.subject">Technology and innovation</a></li></ul></div></div>
+	
+		
+	
+		
+
+
+
+		<div class="pageOptions">
+  <ul class="pageOptions_right">
+    <li aria-live="polite"><a href="#commentsJump" class="commentButton scrollTo"><div class="commentCount">9<span class="commentText"> Comments</span></div>
+        <div class="commentIcon">
+        </div></a></li>
+    <li class=" last" aria-live="polite" data-cache-bust="true" data-ajax-load-content="" data-url="/0/7027564/bookmark">
+    </li>
+  </ul>
+  <ul>   <li>
+      <a  data-facebook-share="true" data-share-url='https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article' data-share-title="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests"  href="javascript:void(0)" class="facebook" title="Share this on Facebook"></a>
+    </li>
+         <li>
+      <a data-twitter-share="true" data-share-url='https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article' data-share-title="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests" href="javascript:void(0)" class="twitter" title="Share this on Twitter"></a>
+    </li>
+    <li>
+      <a data-linkedin-share="true" data-share-url='https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article' data-share-title="Exclusive: ‘Wobbly’ tracing app ‘failed’ clinical safety and cyber security tests"  href="javascript:void(0)" class="linkedin" title="Share this on Linked in"></a>
+    </li><li><a href="mailto:?subject=Exclusive: %E2%80%98Wobbly%E2%80%99 tracing app %E2%80%98failed%E2%80%99 clinical safety and cyber security tests&amp;body=https://www.hsj.co.uk/technology-and-innovation/exclusive-wobbly-tracing-app-failed-clinical-safety-and-cyber-security-tests/7027564.article" class="email" title="Email this article"></a></li>
+  </ul>
+</div>
+	</div>
+	
+
+							</div>
+						</div>
+					</div>
+					<div id="rightcolumn" class="fixedrightcolumn rightcolumn">
+						<div id="rightcolumn_sleeve">
+							
+	
+
+<!-- 
+    BELOW NOT SUPPORT
+	Instructions for implementation depending on right or bottom.
+	If this in the bottom position then we might need to wrap the code with 
+	`
+	<div class="container">
+		<div class="inner-sleeve">
+			// taxanomy-list to go here
+		</div>
+	</div>
+	`
+-->
+
+
+
+
+							
+
+<div data-mpu1-reflow></div>
+							<div id="rhcreflow-tabletlandscape"></div>
+							<div id="rhcreflow-desktop">
+								<div data-reflow-content="" data-ajax-load-content="" data-url="/ajax/most?rhs=1"></div>
+							</div>
+							<iframe src="https://www.hsjjobs.com/widget/jobs/;i=5" id="mdgxWidgetiFrame" style="width: 100%; border: 0; height: 400px; background: 0" frameBorder="0"></iframe>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container bottomAdContainer">
+				<div class="inner-sleeve">
+					<div class="bottomAd">
+						
+					</div>
+				</div>
+			</div>
+
+			
+	<div class="container relatedVideos">
+		<div class="inner-sleeve">
+			<div id="videosreflow-tabletportrait"></div>
+			<div id="videosreflow-mobile"></div>
+		</div>
+	</div>
+	
+
+
+
+
+
+			
+     
+	<div class="container relatedArticles">
+		<div class="inner-sleeve">
+			<div class="extras relatedarticles"><div class="relatedarticles_sleeve"><div class="extras_heading"><h3>Related articles</h3></div><div class="extrasStory listBlocks"><div class="contentWrapper loadMoreItems" data-load-more-ajax=""><ul data-load-more-context=""><li class=""><a href="https://www.hsj.co.uk/integration/will-covid-19-be-remembered-as-the-catalyst-for-system-working/7027573.article" class="image"><img alt="william pett 3x2" class="lazyload" sizes="(max-width:767px) 100px, (max-width: 1179px) 220px, 280px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67//7/1/9/3045719_williampett3x2_135664.jpg" data-srcset="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67/7/1/9/3045719_williampett3x2_135664.jpg 100w,https://d3e6tmgg461bic.cloudfront.net/Pictures/172x115/7/1/9/3045719_williampett3x2_135664.jpg 172w,https://d3e6tmgg461bic.cloudfront.net/Pictures/220x148/7/1/9/3045719_williampett3x2_135664.jpg 220w,https://d3e6tmgg461bic.cloudfront.net/Pictures/280x188/7/1/9/3045719_williampett3x2_135664.jpg 280w" /></a><div class="storyDetails"><a href="https://www.hsj.co.uk/24.type" class="storyType">Comment</a><h3><a href="https://www.hsj.co.uk/integration/will-covid-19-be-remembered-as-the-catalyst-for-system-working/7027573.article">Will covid-19 be remembered as the catalyst for system-working?</a></h3><p class="meta"><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-05-05T15:25:00Z&quot;}">2020-05-05T15:25:00Z</span></p><p>William Pett reflects on the opportunity that covid-19 may have created for the future of systems and the national drive for ‘system by default’. </p></div></li><li class=""><a href="https://www.hsj.co.uk/coronavirus/nhs-faces-extremely-difficult-winter-vallance/7027576.article" class="image"><img alt="Sir Patrick Vallance" class="lazyload" sizes="(max-width:767px) 100px, (max-width: 1179px) 220px, 280px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67//7/1/6/3045716_sirpatrickvallance_342229.jpg" data-srcset="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67/7/1/6/3045716_sirpatrickvallance_342229.jpg 100w,https://d3e6tmgg461bic.cloudfront.net/Pictures/172x115/7/1/6/3045716_sirpatrickvallance_342229.jpg 172w,https://d3e6tmgg461bic.cloudfront.net/Pictures/220x148/7/1/6/3045716_sirpatrickvallance_342229.jpg 220w,https://d3e6tmgg461bic.cloudfront.net/Pictures/280x188/7/1/6/3045716_sirpatrickvallance_342229.jpg 280w" /></a><div class="storyDetails"><a href="https://www.hsj.co.uk/15.type" class="storyType">News</a><h3><a href="https://www.hsj.co.uk/coronavirus/nhs-faces-extremely-difficult-winter-vallance/7027576.article">NHS faces 'extremely difficult' winter - Vallance</a></h3><p class="meta"><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-05-05T12:07:00Z&quot;}">2020-05-05T12:07:00Z</span></p><p>The UK should be able to avoid a second peak of covid-19 infections but this coming winter will be “extremely difficult” for the NHS, the Government’s chief scientific adviser has said. </p></div></li><li class=""><a href="https://www.hsj.co.uk/coronavirus/100000-people-incorrectly-told-they-needed-to-self-isolate-because-of-coronavirus/7027575.article" class="image"><img alt="mental health Elderly man with a walking stick looking outside" class="lazyload" sizes="(max-width:767px) 100px, (max-width: 1179px) 220px, 280px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67//7/1/5/3045715_Elderly-man-with-a-walking-stick-looking-outside.jpg" data-srcset="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67/7/1/5/3045715_Elderly-man-with-a-walking-stick-looking-outside.jpg 100w,https://d3e6tmgg461bic.cloudfront.net/Pictures/172x115/7/1/5/3045715_Elderly-man-with-a-walking-stick-looking-outside.jpg 172w,https://d3e6tmgg461bic.cloudfront.net/Pictures/220x148/7/1/5/3045715_Elderly-man-with-a-walking-stick-looking-outside.jpg 220w,https://d3e6tmgg461bic.cloudfront.net/Pictures/280x188/7/1/5/3045715_Elderly-man-with-a-walking-stick-looking-outside.jpg 280w" /></a><div class="storyDetails"><a href="https://www.hsj.co.uk/15.type" class="storyType">News</a><h3><a href="https://www.hsj.co.uk/coronavirus/100000-people-incorrectly-told-they-needed-to-self-isolate-because-of-coronavirus/7027575.article">100,000 people incorrectly told they needed to self-isolate because of coronavirus</a></h3><p class="meta"><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-05-05T11:41:00Z&quot;}">2020-05-05T11:41:00Z</span></p><p>Over 100,000 people have been incorrectly informed that they were ”extremely vulnerable” to coronavirus and needed to self-isolate until 30 June, HSJ has discovered. </p></div></li></ul><div class="loadMoreButtonWrapper" data-load-more-button-wrapper=""><button type="button" class="button" data-load-more-button="" data-items-offset="3" data-items-to-load="10" data-loading-more-text="Loading more articles" data-ajax-url="https://www.hsj.co.uk/7027564/related?navcode=0&amp;sr=1">
+										Load more articles
+									</button></div></div></div><div class="fixedrightcolumn rightcolumn"><div class="ad">
+<!-- /119943522/hsj-main/mpu3 -->
+<div id='div-gpt-ad-C' class='adslot'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-C'); });
+    </script>
+</div>
+</div></div></div></div>
+
+		</div>
+	</div>
+
+        
+	<div class="container commentContainer">
+		<div class="inner-sleeve">
+			<div class=" extras">
+				<a id="commentsJump" class="scrollTarget"></a><div id="commentsHead"><div class="extras_heading"><h3><span>9</span> Readers' comments</h3></div></div>
+
+				<div class="extrasStory">
+					<div class="contentWrapper">
+						<div id="comments_form" class="formbox"><div class="formbox_sleeve"><div class="commentWarningWrapper">
+    <div class="commentWarningLeft">
+        <span class="commentAvatar"></span>
+        <span class="commentWarningText">You're not signed in.</span>
+    </div>
+    <div class="commentWarningRight">
+        <h3>Only registered users can comment on this article.</h3>
+            <a class="popup signIn button" href="/sign-in">Sign in</a>
+            <a class="button ad-append-return" href="https://subs.hsj.co.uk/register?returl=https%3a%2f%2fhsj.co.uk">Register</a>
+    </div>
+</div></div></div>
+<div id="ajaxCommentsList" aria-live="polite" data-cache-bust="true" data-ajax-load-content="" data-url="/0/7027564/commentlist?cachetoken=1&amp;fh=1&amp;sort="></div>
+
+					</div>
+				</div>
+				<div class="fixedrightcolumn rightcolumn"><div class="ad">
+<!-- /119943522/hsj-main/mpu4 -->
+<div id='div-gpt-ad-D' class='adslot'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-D'); });
+    </script>
+</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+
+        
+	<div class="container primaryArticles">
+		<div class="inner-sleeve">
+			<div class="extras relatedarticles"><div class="relatedarticles_sleeve"><div class="extras_heading"><h3>More Technology and innovation</h3></div><div class="extrasStory listBlocks"><div class="contentWrapper loadMoreItems" data-load-more-ajax=""><ul data-load-more-context=""><li class=""><div class="storyDetails"><a href="https://www.hsj.co.uk/24.type" class="storyType">Comment</a><h3><a href="https://www.hsj.co.uk/technology-and-innovation/testing-and-contact-tracing-a-role-for-local-leaders/7027567.article">Testing and contact tracing: a role for local leaders</a></h3><p class="meta"><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-05-05T08:38:00Z&quot;}">2020-05-05T08:38:00Z</span></p><p>Local authorities must be at the heart of contact tracing because covid-19 is best understood as a pattern of local outbreaks rather than a national pandemic. By Sir Chris Ham and Robin Tuddenham. </p></div></li><li class=""><a href="https://www.hsj.co.uk/technology-and-innovation/hancock-grants-gchq-powers-over-nhs-it-systems/7027528.article" class="image"><img alt="magnifying glass" class="lazyload" sizes="(max-width:767px) 100px, (max-width: 1179px) 220px, 280px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67//6/2/0/3045620_magnifying_glass.jpg" data-srcset="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67/6/2/0/3045620_magnifying_glass.jpg 100w,https://d3e6tmgg461bic.cloudfront.net/Pictures/172x115/6/2/0/3045620_magnifying_glass.jpg 172w,https://d3e6tmgg461bic.cloudfront.net/Pictures/220x148/6/2/0/3045620_magnifying_glass.jpg 220w,https://d3e6tmgg461bic.cloudfront.net/Pictures/280x188/6/2/0/3045620_magnifying_glass.jpg 280w" /></a><div class="storyDetails"><a href="https://www.hsj.co.uk/15.type" class="storyType">News</a><h3><a href="https://www.hsj.co.uk/technology-and-innovation/hancock-grants-gchq-powers-over-nhs-it-systems/7027528.article">Hancock grants GCHQ powers over NHS IT systems</a></h3><p class="meta"><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-04-29T11:58:00Z&quot;}">2020-04-29T11:58:00Z</span></p><p>The NHS must hand over information from its IT systems to the UK’s intelligence and security authority during the covid-19 pandemic after the agency was granted extra powers by Matt Hancock, HSJ  can reveal. </p></div></li><li class=""><a href="https://www.hsj.co.uk/technology-and-innovation/nhs-111-gets-new-queuing-system-to-handle-coronavirus-surge/7027513.article" class="image"><img alt="Ambulance call" class="lazyload" sizes="(max-width:767px) 100px, (max-width: 1179px) 220px, 280px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67//6/0/2/3045602_ambulancecall_953675.jpg" data-srcset="https://d3e6tmgg461bic.cloudfront.net/Pictures/100x67/6/0/2/3045602_ambulancecall_953675.jpg 100w,https://d3e6tmgg461bic.cloudfront.net/Pictures/172x115/6/0/2/3045602_ambulancecall_953675.jpg 172w,https://d3e6tmgg461bic.cloudfront.net/Pictures/220x148/6/0/2/3045602_ambulancecall_953675.jpg 220w,https://d3e6tmgg461bic.cloudfront.net/Pictures/280x188/6/0/2/3045602_ambulancecall_953675.jpg 280w" /></a><div class="storyDetails"><a href="https://www.hsj.co.uk/15.type" class="storyType">News</a><h3><a href="https://www.hsj.co.uk/technology-and-innovation/nhs-111-gets-new-queuing-system-to-handle-coronavirus-surge/7027513.article">NHS 111 gets new queuing system to handle coronavirus surge</a></h3><p class="meta"><span class="date" data-date-timezone="{&quot;publishdate&quot;: &quot;2020-04-29T08:58:00Z&quot;}">2020-04-29T08:58:00Z</span></p><p>An overflow system has been added to NHS 111 to help deal with the “huge increase” in calls during the coronavirus pandemic. </p></div></li></ul><div class="loadMoreButtonWrapper" data-load-more-button-wrapper=""><button type="button" class="button" data-load-more-button="" data-items-offset="4" data-items-to-load="10" data-loading-more-text="Loading more articles" data-ajax-url="https://www.hsj.co.uk/7027564/primary?navcode=5795&amp;exclude=,7027573,7027576,7027575">
+										Load more articles
+									</button></div></div></div><div class="fixedrightcolumn rightcolumn"><div class="ad">
+<!-- /119943522/hsj-main/mpu5 -->
+<div id='div-gpt-ad-E' class='adslot'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-E'); });
+    </script>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+
+     <div class="container"><div class="inner-sleeve"><div id="rhcreflow-tabletportrait"></div><div id="rhcreflow-mobile"></div></div></div><div id="mobile-drop-zone"></div>
+
+			
+			
+
+<div class="footer_ad">
+	<div class="footer_ad_strip">
+		<div class="ad">
+			
+		</div>
+	</div>
+</div>
+			
+<div id="footer" class="footer" role="contentinfo">
+	<div class="container footerTopNavPageText">
+		<div class="inner-sleeve">
+			<div class="nav topNav"><ul><li class="first"><a href="https://www.hsj.co.uk/marketing-solutions">Advertise</a></li><li class=""><a href="https://www.hsj.co.uk/events">Awards</a></li><li class=""><a href="https://www.hsj.co.uk/events">Events</a></li><li class=""><a href="https://www.hsj.co.uk/contact-us">Contact Us</a></li><li class=""><a href="https://www.hsj.co.uk/download-the-app">Download the app</a></li><li class=""><a href="https://www.hsj.co.uk/hsj-knowledge/hsj-partners">HSJ Partners</a></li><li class=""><a href="https://www.hsj.co.uk/membership">Membership</a></li><li class="last"><a href="https://www.hsj.co.uk/why-subscribe">Subscribe</a></li></ul></div><!--    <div class="subspromo" style="overflow:hidden;">
+ <h2 id="">Explore more of the things you love</h2>
+    <div class="subsTop">
+       
+        <ul class="app-badge-container">
+        <li class="app-badge-ios">
+            <a href="https://itunes.apple.com/gb/app/hsj-health-service-journal/id901845176?mt=8&uo=4">
+                <span class="vector-icon i-app-badge-ios-small i-app-badge-ios-small-dims"></span>
+                <span class="vector-icon i-app-badge-ios-large i-app-badge-ios-large-dims"></span>
+            </a>
+        </li>
+        <li class="app-badge-play">
+            <a href="https://play.google.com/store/apps/details?id=abacus.hsj">
+                <span class="vector-icon i-app-badge-play-small i-app-badge-play-small-dims"></span>
+                <span class="vector-icon i-app-badge-play-large i-app-badge-play-large-dims"></span>
+            </a>
+        </li>
+    </ul>
+    </div>
+        <div class="colRight">
+        <img src="https://d3e6tmgg461bic.cloudfront.net/pictures/web/h/d/s/packshot-hsj.png" alt="core access small">
+    </div>
+    <div class="colLeft">
+        <p><strong>Take out a print and online or online only subscription to get immediate access to:</strong></p>
+
+        <ul class="subpromo">
+            <li>Expert analysis and comment</li>
+            <li>Unlimited access to in-depth articles and premium content</li>
+            <li>Full access to all our online archive</li>
+        </ul>
+         <a class="button register" target="_blank" href="https://account.webvisioncloud.com/subscribe">Subscribe Now</a>
+
+    </div>
+    
+   
+</div>
+ -->
+
+<div class="footerSocial">
+    <span class="footerSocialText">Connect with HSJ</span>
+    <ul>
+        <li class="footerSocialFacebook">
+            <a href="https://www.facebook.com/HSJ.community" title="Connect with us on Facebook" target="_blank"></a>
+        </li>
+        <li class="footerSocialTwitter">
+            <a href="http://www.twitter.com/hsjnews" title="Connect with us on Twitter" target="_blank"></a>
+        </li>
+        <li class="footerSocialLinkedin">
+            <a href="https://www.linkedin.com/showcase/28643630" title="Connect with us on Linked in" target="_blank"></a>
+        </li>
+        <li class="footerSocialEmail">
+            <a href="mailto:hsjnews@wilmingtonhealthcare.com" title="Email us"></a>
+        </li>
+        <li class="footerSocialYoutube">
+            <a href="https://www.youtube.com/channel/UC2M-cBWlcz0Te4xGqWyXf7A" title="Connect with us on Youtube" target="_blank"></a>
+        </li>
+       <!-- <li class="footerSocialVimeo">
+            <a href="#" title="Connect with us on Vimeo"></a>
+        </li>-->
+        <!-- <li class="footerSocialGoogle">
+            <a href="#" title="Connect with us on Google"></a>
+        </li>-->
+        <!--  <li class="footerSocialPinterest">
+            <a href="#" title="Connect with us on Pinterest"></a>
+        </li>
+        <li class="footerSocialInstagram">
+            <a href="#" title="Connect with us on Instagram"></a>
+        </li>-->
+    </ul>
+</div>
+
+		</div>
+	</div>
+	<div class="container bottomNav"><div class="inner-sleeve"><ul><li class="first"><a href="https://www.hsj.co.uk/a-z-of-subjects">A-Z of subjects</a></li><li><a href="https://d1qotm6w854ck0.cloudfront.net/Uploads/m/h/o/HSJ-TCs-June-2017.pdf">Terms and conditions</a></li><li><a href="https://wilmingtonhealthcare.com/privacy-policy/" class="newWindow">Privacy Policy</a></li><li><a href="https://www.hsj.co.uk/subscriptions-faq">Subscriptions FAQ</a></li><li class="last"><a href="https://www.wilmingtonplc.com/">© 2018 Wilmington plc</a></li></ul></div></div>		
+	<div class="bottom">
+		<div class="container footerBottomNavPageText">
+			<div class="inner-sleeve">
+				<p class="footerInfo"> HSJ is part of Wilmington Healthcare Limited, Beechwood House, 2-3 Commercial Way, Christy Close, Southfields, Essex, SS15 6EF. Company number 2530185.
+c/o Wilmington plc, 5th Floor, 10 Whitechapel High Street, London E1 8QS. Registered in England and Wales. Company registration 30158470</p>
+				<p class="webvision">Site powered by <a href="http://www.abacusemedia.com/webvisioncloud">Webvision Cloud</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+	<script src='/Javascript/libraries/Modernizr/modernizr.js' defer></script>
+<script src='/Javascript/dist/app.js' defer></script>
+<script src='/Magazine/dest/javascript/client.js' defer></script>
+
+	
+	<!---getsitecontrol--->
+
+<script>
+  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/192892/script.js');
+</script>
+<script>
+	_gscq.push(['targeting','loggedIn', UserStateLoggedIn]);
+	_gscq.push(['targeting','subscriber', isSubscriber]);
+</script>
+
+<!---endgetsitecontrol--->
+
+</body>
+
+</html>
