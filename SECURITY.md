@@ -6,6 +6,8 @@ Please remember that you will be bound by relevant local and international legis
 
 * http://www.legislation.gov.uk/ukpga/1990/18/contents
 
+This is particularly relevant when interacting with any backend services which are not running directly on your phone, which you will not own and won't in all likelihood have any aithority to enumerate.
+
 The operators of this repository are not responsible for your actions or any consequences thereof.
 
 ## Reporting a Vulnerability
