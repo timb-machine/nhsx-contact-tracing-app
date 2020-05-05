@@ -22,7 +22,7 @@
 * implementation/android - review of Android implementation
 * opensource-research - any other useful content in the public domain
 
-Suggest we use the issue tracker to document dominent themes and link the the folder contents as appropriate.
+Suggest we use the issue tracker to document dominant themes and link the the folder contents as appropriate.
 
 -- 
 @timb-machine
