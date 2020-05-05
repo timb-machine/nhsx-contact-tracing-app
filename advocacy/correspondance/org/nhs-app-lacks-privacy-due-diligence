@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Open Rights Group
+ - NHS app lacks privacy “due diligence”</title>
+<meta name="description" content="" />
+<base href="https://www.openrightsgroup.org/" />
+<meta name="robots" content="index" />
+
+<link rel="dns-prefetch" href="https://bug.openrightsgroup.org/">
+<meta name="keywords" content="" />
+<meta property="og:site_name" content="Open Rights Group" /> 
+<meta property="og:type" content="article">  
+<meta property="article:author" content="https://www.openrightsgroup.org">
+<meta property="og:locale" content="en_GB" />
+<meta property="og:title" name="twitter:title" content="NHS app lacks privacy “due diligence”">
+<meta name="twitter:site" content="@OpenRightsGroup">
+<meta name="twitter:site:id" content="15028398">
+<meta property="og:url" name="twitter:url" content="https://www.openrightsgroup.org/press/releases/2020/nhs-app-lacks-privacy-due-diligence"> 
+<meta property="og:description" name="twitter:description" content="Open Rights Group's lawyers, AWO, have written to Matt Hancock and NHSX to demand immediate confirmation that they will conduct a full and adequate Data Protection Impact Assessment, consult with the ICO and publish the results."> 
+<meta name="twitter:card" content="summary">  
+<meta property="og:image" content="https://www.openrightsgroup.org/assets/files/logos/org_logo_square.png" />
+<!--default-->
+<link rel="shortcut icon" href="/assets/site/org/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/assets/site/org/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="stylesheet" type="text/css" href="/assets/site/org/fonts/Lato/stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="/assets/site/org/css/core.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/assets/site/org/css/leaflet.css" />
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/assets/site/org/css/leaflet.ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/assets/site/org/css/site.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/assets/site/org/css/gelstudios.css" />
+<!-- styles for responsive embeds from http://embedresponsively.com/ -->
+<style>
+    .embed-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    
+    .embed-container iframe,
+    .embed-container object,
+    .embed-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<!--end styles for responsive embeds-->
+
+<script src="/assets/site/org/js/jquery-1.8.3.min.js"></script>
+<script src="/assets/site/org/js/easing.min.js"></script>
+<script src="/assets/site/org/js/fancybox.min.js"></script>
+<script src="/assets/site/org/js/selectnav.js"></script>
+<script src="/assets/site/org/js/twitter.js"></script>
+<script src="/assets/site/org/js/leaflet.js"></script>
+<script src="/assets/site/org/js/jquery.bxslider.min.js"></script>
+<script src="/assets/site/org/js/script.js"></script>
+<meta property="fb:admins" content="73607375435" />
+<meta name="google-site-verification" content="Kpg1VryaITAQsbNwXtULi9ay_pg_htJaIS7hBseU5Bo" />
+
+<style>
+    .bookmarkThisShare> img {
+        width: 44px;
+    }
+</style>
+</head>
+
+<body>
+	<div class="header">
+	<div class="container">
+		<div class="nine columns logo">
+			<a href="https://www.openrightsgroup.org/">
+				<img src="/assets/site/org/images/logo.svg">
+			</a>
+		</div>
+		<div class="seven columns top_links">
+			<a href="https://action.openrightsgroup.org/sign-up-for-org-email-updates">
+				<span class="whiteBlock">
+					<h3>Sign up for emails</h3>
+				</span>
+			</a>
+			<a href="https://www.openrightsgroup.org/join/">
+				<span class="redBlock">
+					<h3>Donate / join</h3>
+				</span>
+			</a>
+		</div>
+
+
+		<div class="sixteen columns menu">
+			<ul id="nav"><li class="first"><a href="campaigns/" title="Campaigns" >Campaigns</a></li>
+<li><a href="blog/" title="Blog" >Blog</a></li>
+<li><a href="legal/" title="Legal" >Legal</a></li>
+<li><a href="policy/" title="Policy" >Policy</a></li>
+<li><a href="tech-projects" title="Tech Tools" >Tech Tools</a></li>
+<li><a href="events/" title="Events" >Events</a></li>
+<li><a href="groups/" title="Local Groups" >Local Groups</a></li>
+<li><a href="https://scotland.openrightsgroup.org" title="Scotland" >Scotland</a></li>
+<li class="last"><a href="about/" title="About" >About</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+	<div class="content page">
+		<div class="container">
+			<div class="sixteen columns">
+
+				
+
+				<div class="info">
+					<span class="date" datetime="2020-05-05T12:27:00Z">May 05, 2020</span>
+				</div>
+				
+				<h2>NHS app lacks privacy “due diligence”</h2>   
+
+				<p><i>Open Rights Group's lawyers, AWO, have written to Matt Hancock and NHSX to demand immediate confirmation that they will conduct a full and adequate Data Protection Impact Assessment, consult with the ICO and publish the results.</i></p>
+
+
+				<hr />
+
+					<p>It was confirmed to Parliament on Monday that this risk assessment had not yet been completed, nor had the ICO had sight of it. [1]</p>
+<p>NHSX is deploying its App in public this week, effectively without completing their data protection privacy obligations. The public and NHSX are therefore unable to judge if it is safe to use, what risks are involved or what has been done to mitigate those risks. We have asked NHSX to clarify those points.</p>
+<p>Jim Killock, Executive Director of the Open Rights Group said:</p>
+<p>“The NHSX has not done its homework. We are worried that NHSX will not have fully addressed the many privacy risks that come with building a massive database of personal contact events.</p>
+<p>“The NHS have chosen to use a very intrusive solution to ‘contact tracing‘ so must be especially careful about the risk management. They have failed to consult with the ICO on those risks, and have not published information about them, in advance of public trials.</p>
+<p>"We have made this formal legal demand to ascertain what the risks and mitigations are, before the App is rolled out to the entire British public.</p>
+<p>“If we find that sufficient mitigations are not place, we will consider further legal action.”</p>
+<p>ORG wrote to Matthew Gould, Chief Executive of NHSX on Friday 1 May about these matters, to which NHSX did not reply, and has followed up with a formal legal request for the documents today.</p>
+<p>A formal legal opinion published on Monday shows that it will be hard for the NHSX to meet basic requirements of lawfulness due to the highly intrusive method of contact tracing they have chosen. [5]</p>
+<p>Donations to the legal work <a href="https://action.openrightsgroup.org/demand-nhsx-spell-out-privacy-risks">can be made here</a>.</p>
+<p>ENDS</p>
+<p><strong>Contact</strong></p>
+<p>Jim Killock 07894498127 / &#x70;&#114;&#101;&#115;&#115;@&#111;&#x70;&#x65;&#110;&#114;&#x69;&#103;&#x68;&#116;&#115;&#x67;&#114;&#x6f;&#117;&#x70;&#46;&#x6f;&#x72;&#103;</p>
+<p><strong>Notes</strong></p>
+<p>1 Elizabeth Denham on Monday 4 May confirmed to Parliament at the Join Committee on Human Rights that she had not received the Data Protection Impact Assessment, and that she consdired it a legal duty that she be consulted. This would be necessary where mitigations to 'high risks' could not be fully delivered. <a href="https://committees.parliament.uk/event/906/formal-meeting-oral-evidence-session/">https://committees.parliament.uk/event/906/formal-meeting-oral-evidence-session/</a></p>
+<p>2 Contact tracing apps create risks of many kinds, many of which cannot be fully mitigated.</p>
+<p>3 The Government has committed to publishing the Data Protection Impact Assessment but has given no timescale, and has made no comment on consultation with the ICO.</p>
+<p>4 Open Rights Group’s successful legal record includes interventions in the Watson case on the Data Retention Directive, taking the government to the ECHR over the use of bulk communications data for espionage and challenging the 'immigration exemption' in data protection. We are also challenging data sharing in UK Adtech, which is subject of an ongoing investigation at the ICO.</p>
+<p>5 COVID-19 &amp; Tech responses: Legal opinion Matthew Ryder QC, Edward Craven, Gayatri Sarathy &amp; Ravi Naik <a href="https://www.awo.agency/covid-19-legal-opinion.pdf">https://www.awo.agency/covid-19-legal-opinion.pdf</a></p>
+				<div class="tags">
+					<ul>
+						 
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</div>
+		<div class="whiteContent">
+			<div class="container">
+				<div class="one-third column">
+					<h3><a href="https://www.openrightsgroup.org/blog/" style="color: #BF2026">Blog</a></h3>
+					<ul>
+<li><a href="https://www.openrightsgroup.org/blog/2020/time-for-a-coronavirus-safeguards-bill" title="Time for a Coronavirus Safeguards Bill">Time for a Coronavirus Safeguards Bill</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2020/contact-tracing-apps-and-vulnerable-migrants" title="Contact tracing apps & vulnerable migrants: key concerns">Contact tracing apps & vulnerable migrants: key concerns</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2020/contact-tracing-can-be-done-without-mapping-the-populations-contacts" title="Contact tracing and immunity passports must respect privacy">Contact tracing and immunity passports must respect privacy</a></li>
+<li><a href="https://www.openrightsgroup.org/blog/2020/contact-tracing-and-immunity-passports-questions-for-the-government" title="Contact tracing and immunity passports: questions for the government">Contact tracing and immunity passports: questions for the government</a></li>
+					</ul>
+				</div>
+				<div class="one-third column">
+<h3><a href="https://www.openrightsgroup.org/events/" style="color: #BF2026">Events</a></h3>
+					<ul>
+<!-- <li>Scotland: <a href="https://scotland.openrightsgroup.org/blog/2020/05/04/scotlands-different-path-on-contact-tracing-is-to-be-welcomed,-but-questions-remain/" title="Scotland's different path on contact tracing is to be welcomed, but questions remain">Scotland's different path on contact tracing is to be welcomed, but questions remain</a></li>
+<li>Scotland: <a href="https://scotland.openrightsgroup.org/policy/2020/03/23/defamation-and-malicious-publications-bill-justice-committee-response/" title="Defamation and Malicious Publications Bill - Justice Committee Response">Defamation and Malicious Publications Bill - Justice Committee Response</a></li>
+<li>Scotland: <a href="https://scotland.openrightsgroup.org/policy/2020/03/09/scottish-biometrics-commissioner-stage-3-debate-briefing/" title="Scottish Biometrics Commissioner Stage 3 Debate briefing">Scottish Biometrics Commissioner Stage 3 Debate briefing</a></li>
+<li>Scotland: <a href="https://scotland.openrightsgroup.org/blog/2020/02/06/scottish-biometrics-commissioner-receives-committee-boost/" title="Scottish Biometrics Commissioner receives Committee boost">Scottish Biometrics Commissioner receives Committee boost</a></li>-->
+<li> <a href="https://www.openrightsgroup.org/events/2020/online-event-digital-privacy-and-contact-tracing" title="ONLINE EVENT: Digital privacy & contact tracing">ONLINE EVENT: Digital privacy & contact tracing</a></li>
+
+<li> <a href="https://www.openrightsgroup.org/events/2020/weekly-online-discussion-covid19-data,-and-democracy" title="ONLINE EVENT: Covid-19, data & democracy">ONLINE EVENT: Covid-19, data & democracy</a></li>
+
+<li> <a href="https://scotland.openrightsgroup.org/meet-ups/org-glasgow:-democracy-in-peril" title="ONLINE EVENT: ORG Glasgow - Democracy in Peril">ONLINE EVENT: ORG Glasgow - Democracy in Peril</a></li>
+
+<li> <a href="https://www.openrightsgroup.org/events/2020/weekly-covid-19-discussion-palantir,-the-nhs,-open-tech-and-more" title="ONLINE EVENT: Palantir, the NHS, open tech & more">ONLINE EVENT: Palantir, the NHS, open tech & more</a></li>
+  
+					</ul>
+				</div>
+				<div class="one-third column">
+					<h3><a href="https://www.openrightsgroup.org/press/" style="color: #BF2026">Press</a></h3>
+					<ul>
+<li><a href="https://www.openrightsgroup.org/press/releases/2020/nhs-app-lacks-privacy-due-diligence" title="NHS app lacks privacy “due diligence”">NHS app lacks privacy “due diligence”</a></li>
+<li><a href="https://www.openrightsgroup.org/press/releases/2020/nhs-app-may-suffer-basic-usability-issues" title="NHS app may suffer basic usability issues">NHS app may suffer basic usability issues</a></li>
+<li><a href="https://www.openrightsgroup.org/press/releases/2020/please-explain-how-nhs-app-will-work,-asks-open-rights-group" title="Please explain how NHS app will work, asks Open Rights Group">Please explain how NHS app will work, asks Open Rights Group</a></li>
+<li><a href="https://www.openrightsgroup.org/press/releases/2020/nhs-must-explain-role-of-surveillance-company" title="NHS Must Explain Role Of Surveillance Company">NHS Must Explain Role Of Surveillance Company</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+<div class="footer">
+	<div class="container">
+		<div class="two columns">Search</div>
+		<div class="fourteen search columns" style="
+	    margin-bottom: 15px !important;">
+		<form action="https://duckduckgo.com/">
+    <input type="text" name="q" maxlength="255" placeholder="Search&hellip;"/>
+    <input type="hidden" name="sites" value="openrightsgroup.org">
+    <input type="hidden" name="kp" value="-2"/>
+    <button type="submit" id="submit" name="sa" value="Search">
+        <img src="/assets/site/org/images/mag.svg" alt="Search" title="Search">
+    </button>
+</form>
+		</div>
+		<div class="two columns" style="
+	    clear: left;
+	">Who</div>
+		<div class="fourteen columns">
+			<p>Open Rights Group exists to preserve and promote your rights in the digital age. We are funded by thousands of people like you. We are based in London and Edinburgh, United Kingdom. Open Rights is a non-profit company limited by Guarantee, registered in England
+				and Wales no. <a href="http://data.companieshouse.gov.uk/doc/company/05581537" rel="noreferrer">05581537</a>.</p>
+		</div>
+		<div class="two columns">Phone & Address</div>
+		<div class="fourteen columns">
+  <p><a href="tel:+442070961079">+442070961079</a>
+    <br>Free Word Centre, 60 Farringdon Rd, Farringdon, London, EC1R 3GA</p>
+		</div>
+
+		<div class="two columns">Site</div>
+		<div class="fourteen columns footerLinks">
+			<p class="caps">
+				<a href="https://www.openrightsgroup.org/ourwork/">About</a> /
+				<a href="https://www.openrightsgroup.org/jobs/">Jobs</a> /
+				<a href="https://www.openrightsgroup.org/contact/">Contact</a> /
+				<a href="https://www.openrightsgroup.org/press/">Press</a> /
+				<a href="https://www.openrightsgroup.org/privacy/">Privacy</a> /
+				<a href="https://www.openrightsgroup.org/licence/">Licence</a>
+			</p>
+		</div>
+
+		<div class="two columns">ORG</div>
+		<div class="fourteen columns">
+			<p class="caps">
+				<a href="https://www.openrightsgroup.org/join/">Join</a> /
+				<a href="https://www.openrightsgroup.org/donate/">Donate</a> /
+				<a href="https://www.openrightsgroup.org/blog/">Blog</a> /
+				<a href="https://openrightsgroup.spreadshirt.net/" rel="noreferrer">Shop</a> / <a href="https://www.openrightsgroup.org/press/">Press</a> / <a href="https://www.openrightsgroup.org/events/">Events</a> /
+				<a href="https://wiki.openrightsgroup.org/wiki/Main_Page">Wiki</a>
+			</p>
+		</div>
+
+		<div class="two columns">Projects</div>
+		<div class="fourteen columns">
+			<p class="caps">
+				<a href="https://www.openrightsgroup.org/issues/government-surveillance">Government Surveillance</a> / <a href="https://www.openrightsgroup.org/issues/copyright-reform">Copyright</a> /
+				<a
+				href="https://www.openrightsgroup.org/issues/data-protection">Data protection</a> / <a href="https://www.openrightsgroup.org/issues/opendata">Open Data</a> / <a href="https://www.openrightsgroup.org/issues/web-blocking">Web Blocking</a>
+			</p>
+		</div>
+
+
+		<div class="two columns">Connect</div>
+		<div class="fourteen columns connect">
+			<a href="https://www.facebook.com/openrightsgroup">
+				<img src="/assets/images/site/icons/social/svg/facebook.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://twitter.com/openrightsgroup">
+				<img src="/assets/images/site/icons/social/svg/twitter.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://www.flickr.com/photos/tags/openrightsgroup/">
+				<img src="/assets/images/site/icons/social/svg/flickr.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://www.youtube.com/openrightsgroup">
+				<img src="/assets/images/site/icons/social/svg/youtube.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://www.linkedin.com/groups/Open-Rights-Group-133233">
+				<img src="/assets/images/site/icons/social/svg/linkedin.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://www.meetup.com/ORG-London/">
+				<img src="/assets/images/site/icons/social/svg/meetup.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://www.openrightsgroup.org/feed/">
+				<img src="/assets/images/site/icons/social/svg/rss.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://soundcloud.com/openrightsgroup">
+				<img src="/assets/images/site/icons/social/svg/soundcloud.svg" alt="" title="" width="28" height="28">
+			</a>
+			<a href="https://openrightsgroup.tumblr.com">
+<img src="/assets/images/site/icons/social/svg/tumblr.svg" alt="" title="Tumblr" width="28" height="28">
+			</a>
+			</a>
+			<a href="https://github.com/OpenRightsGroup">
+<img src="/assets/images/site/icons/social/svg/github.svg" alt="" title="Github" width="28" height="28">
+			</a>
+		</div>
+
+		<div class="sixteen columns right copyright">
+			<p>© 2005 - 2017, free to reuse except where stated. <a href="/licence">Credits</a></p>
+			<img src="/assets/site/org/images/ccBadge.jpg" class="ccBadge">
+		</div>
+	</div>
+</div>
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://bug.openrightsgroup.org/piwik/" : "https://bug.openrightsgroup.org/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.disableCookies();
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="https://bug.openrightsgroup.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+	
+
+</body>
+
+</html>
