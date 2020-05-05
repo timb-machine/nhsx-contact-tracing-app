@@ -1,0 +1,9 @@
+[submodule "alternate-implementations/opentrace/opentrace-android"]
+	path = alternate-implementations/opentrace/opentrace-android
+	url = https://github.com/opentrace-community/opentrace-android
+[submodule "alternate-implementations/opentrace/opentrace-ios"]
+	path = alternate-implementations/opentrace/opentrace-ios
+	url = https://github.com/opentrace-community/opentrace-ios
+[submodule "alternate-implementations/au/COVIDSafe_1.0.11.apk"]
+	path = alternate-implementations/au/COVIDSafe_1.0.11.apk
+	url = https://git.sr.ht/~ghuntley/COVIDSafe_1.0.11.apk
