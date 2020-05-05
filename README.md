@@ -12,7 +12,7 @@ Structure
 * design/use-cases - review of use cases
 * design/use-cases/security - review of security use cases
 * design/use-cases/privacy - review of privacy use cases
-* design/use-cases/accessibility - review of accessobility use cases
+* design/use-cases/accessibility - review of accessibility use cases
 * implementation - review of implementation
 * implementation/ios - review of iOS implementation
 * implementation/android - review of Android implementation
