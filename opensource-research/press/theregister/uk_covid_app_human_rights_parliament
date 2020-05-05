@@ -1,0 +1,961 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    
+    <title>UK COVID-19 contact-tracing app data may be kept for 'research' after crisis ends, MPs told • The Register</title>
+    <meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:0">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
+    
+    <meta property="og:image" content="https://regmedia.co.uk/2020/04/28/shutterstock_coronavirus_app.jpg"/>
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/" />
+    <meta property="og:title" content="UK COVID-19 contact-tracing app data may be kept for 'research' after crisis ends, MPs told" />
+    <meta property="og:description" content="Want to opt out of that part? No chance, says NHSX chief" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@TheRegister">
+    <meta name="news_keywords" content="Nhs, Coronavirus">
+<script type="application/ld+json">
+{
+"@context":"http://schema.org",
+"@type":"NewsArticle",
+"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/"},
+"headline":"UK COVID-19 contact-tracing app data may be kept for 'research' after crisis ends, MPs told",
+"datePublished":"2020-05-04T16:16:04Z",
+"dateModified":"2020-05-04T20:23:48Z",
+"image":{"@type":"ImageObject","url":"https://regmedia.co.uk/2020/04/28/shutterstock_coronavirus_app.jpg","width":"1000","height":"562"},
+"author":{"@type":"Person","name":"Gareth Corfield"},
+"publisher":{"@type":"Organization","name":"The Register","url":"https://www.theregister.co.uk/","logo":{"@type":"ImageObject","url":"https://www.theregister.co.uk/design_picker/1fea2ae01c5036112a295123c3cc9c56eb28836a/graphics/std/red_logo_sans_strapline.png","width":330,"height":55}}
+}
+</script>
+    <script>
+      var RegZoot = {  };
+      var RegCC = [  ];
+      var RegPageType = 'Story';
+      var RegTruePageType = 'www story';
+    </script>
+    <link rel="canonical" href="https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/"><link rel="amphtml" href="https://www.theregister.co.uk/AMP/2020/05/04/uk_covid_app_human_rights_parliament/"><script>
+        var RegArticle={id:208417,pf:0,af:0,bms:0,cat:'news',ec:[],kw:[['nhs','Nhs'],['coronavirus','Coronavirus']],short_url:'https://reg.cx/2ZxP',cp:0,noads:[],author:'Gareth Corfield',vid:0}
+    </script>
+    <link rel=stylesheet type="text/css" href="/css_picker/default/19ed967793faf5090ae2998b042bda59812435e7/scaffolding.css">
+<link rel=stylesheet type="text/css" href="/css_picker/default/19ed967793faf5090ae2998b042bda59812435e7/design.css">
+
+    <style>
+        #sec-security, #m-sec-security,
+        #sub-sec-none a {
+          font-weight: bold;
+        }
+    </style>
+
+    
+    <link rel=alternate type="application/atom+xml" href="/headlines.atom" title="The Register: whole site">
+    <link rel=alternate type="application/atom+xml" href="/security/headlines.atom" title="The Register: Security section">
+
+    
+    <script>
+var RegCR = true;
+</script>
+
+    <script src="/design_picker/b19ee647b8555e2ae04148876250a1ef9dca337b/javascript/_.js"></script>
+    <script async onerror="gpt_js_errored()" src="//securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        if (RegCBWT()) {
+            var nir = document.createElement('script');
+            nir.type = 'text/javascript';
+            nir.async = false;
+            nir.src = "https://nir.theregister.co.uk/?g=vk&amp;g=c&amp;g=sa&amp;g=vvfc&amp;s=c/sec.front&amp;s=vk/nhs&amp;s=vk/coronavirus&amp;s=vvfc/3e52be4a142ef61e2ae040955d2c1df8&amp;s=vvfc/3e52be4a142ef61e2ae040955d2c1df8&amp;s=vvfc/3e52be4a142ef61e2ae040955d2c1df8";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(nir, s);
+        }
+        Reg__adct = 's-async';
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function() {
+            init_gpt('reg_security/front');
+        });
+    </script>
+    <link rel=search href="https://search.theregister.co.uk/">
+    <link rel=search type="application/opensearchdescription+xml" title="El Reg Search" href="/Design/page/search.osd">
+    <link rel="apple-touch-icon" sizes="180x180" href="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/favicons/favicon-32x32.png">
+<link rel="manifest" href="/design_picker/6e3385376d6492f20e9eb3afd7c84900985f2128/graphics/favicons/site.webmanifest">
+<link rel="mask-icon" href="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/favicons/safari-pinned-tab.svg" color="#ff0000">
+<link rel="SHORTCUT ICON" href="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#ff0000">
+<meta name="msapplication-config" content="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ff0000">
+
+
+    
+</head>
+<body  data-pagetype='Story' data-pagenum=0><div class="RegCTBWF_wrapper">
+    <!--[if lte IE 8]> <div class="lte_ie8"> <![endif]-->
+    <div id="RegCTBWF">
+        <input type="checkbox" id="all_show_regfc_custom" style="display:none">
+        <div>
+            <p class="hide_regcf_custom">
+                Oh no, you're thinking, yet another cookie pop-up.
+                Well, sorry, it's the law. We measure how many people read us,
+                and ensure you see relevant ads, by storing cookies on your device.
+                If you're cool with that, hit &ldquo;Accept all Cookies&rdquo;.
+                For more info and to customise your settings, hit
+                &ldquo;Customise Settings&rdquo;.
+            </p>
+            <h5 class="show_regcf_custom">Review and manage your consent</h5>
+            <p class="show_regcf_custom">
+                Here's an overview of our use of cookies, similar technologies and
+                how to manage them.
+                You can also change your choices at any time, by hitting the
+                &ldquo;Your Consent Options&rdquo; link on the site's footer.
+            </p>
+            <form id="RegCTBWFAC" action="/CBW/custom" class="show_regcf_custom" method="POST">
+                <h5>Manage Cookie Preferences</h5>
+                <ul>
+                    <li>
+                        <label>
+                            <input type="checkbox" disabled="disabled" checked="checked" name="necessary" value="necessary">
+                            <strong>Necessary</strong>. <strong>Always active</strong>
+                        </label>
+                        <label for="accordion_necessary" class="accordion_toggler">Read more<img width="7" height="10" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/arrow_down_grey.svg" class="accordion_arrow"></label>
+                        <div class="accordion">
+                            <input type="checkbox" id="accordion_necessary">
+                            <p class="accordion_info">
+                                These cookies are strictly necessary so that you can navigate the site as normal and use all features. Without these cookies we cannot provide you with the service that you expect.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="tailored_ads" value="tailored_ads">
+                            <strong>Tailored Advertising</strong>.
+                        </label>
+                        <label for="accordion_advertising_tailored_ads" class="accordion_toggler">Read more<img width="7" height="10" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/arrow_down_grey.svg" class="accordion_arrow"></label>
+                        <div class="accordion">
+                            <input type="checkbox" id="accordion_advertising_tailored_ads">
+                            <p class="accordion_info">
+                                These cookies are used to make advertising messages more relevant to you.
+                                They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="analytics" value="analytics">
+                            <strong>Analytics</strong>.
+                        </label>
+                        <label for="accordion_analytics" class="accordion_toggler">Read more<img width="7" height="10" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/arrow_down_grey.svg" class="accordion_arrow"></label>
+                        <div class="accordion">
+                            <input type="checkbox" id="accordion_analytics">
+                            <p class="accordion_info">
+                                These cookies collect information in aggregate form to help us understand how our websites are being used.
+                                They allow us to count visits and traffic sources so that we can measure and improve the performance of our sites. If people say no to these cookies, we do not know how many people have visited and we cannot monitor performance.
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+                See also our
+                <a href="https://www.theregister.co.uk/Profile/cookies/">Cookie policy</a>
+                and
+                <a href="https://www.theregister.co.uk/about/company/privacy/">Privacy policy</a>.
+                <input type="submit" value="Accept Selected" class="reg_btn_primary" name="accept" id="RegCTBWFBAC">
+            </form>
+        </div>
+        <span class="hide_regcf_custom">
+            <label class="reg_btn_tertiary" id="RegCTBWFBSC" for="all_show_regfc_custom">Customise Settings</label>
+        </span>
+        <form id="RegCTBWFAA" action="/CBW/all" method="POST" class="hide_regcf_custom">
+            <input type="submit" value="Accept All Cookies" name="accept" class="reg_btn_primary" id="RegCTBWFBAA">
+        </form>
+        <div class="toast"></div>
+    </div>
+    <!--[if lte IE 8]> </div> <![endif]-->
+</div>
+<script>
+var RegCTBW = {
+    'OnSuccessSubmit' : function () {
+        $('#RegCTBWF').slideUp();
+    },
+    'OnErrorSubmit'   : function () {
+        $('#RegCTBWF .toast').html('<p class="error">Something went wrong with the submission.  Please <a onclick="event.preventDefault();$(\'#RegCTBWF .toast\').hide();" href="#">try again</a>.</p>');
+        $('#RegCTBWF .toast').show();
+    }
+}
+$('#RegCTBWF form input[type="submit"]').on('click', function(evt) {
+    var form = $(this).parent('form');
+    var data = {};
+    var urlPrefix = '';
+    if (document.location.hostname.match('[.]theregister[.](co[.]uk|com)$'))
+        urlPrefix = document.location.protocol + '//' + document.location.hostname;
+    $(form).find('input[type="checkbox"]').each(function(i,e) {
+        if (!$(e).prop('disabled') && $(e).prop('checked')) {
+            data[ e.name ] = e.name;
+        }
+    });
+    $.ajax({
+        type: 'POST',
+        url: urlPrefix + $(this).parent('form').attr('action'),
+        data: data,
+        dataType: 'json',
+        error: function () {
+            RegCTBW['OnErrorSubmit']();
+        },
+        success: function() {
+            RegCTBW['OnSuccessSubmit']();
+        }
+    });
+    evt.preventDefault();
+});
+</script>
+
+<div id="page">
+        <div id=ad-kite class=adu>
+        <script>
+            googletag.cmd.push( function() {
+                googletag.display('ad-kite');
+            });
+        </script>
+    </div>
+
+        <div id="masthead">
+        <a href="https://www.theregister.co.uk/" id=logo>
+            <picture>
+                <source srcset="/design_picker/fa16d26efb42e6ba1052f1d387470f643c5aa18d/graphics/std/reg_logo_no_strapline.svg" media="(max-width: 799px)">
+                <source srcset="/design_picker/fa16d26efb42e6ba1052f1d387470f643c5aa18d/graphics/std/reg_logo.svg" media="(min-width: 800px)">
+                <img src="/design_picker/fa16d26efb42e6ba1052f1d387470f643c5aa18d/graphics/std/reg_logo.svg" width=330 height=63 alt="The Register® — Biting the hand that feeds IT">
+            </picture>
+        </a>
+            <div id=site_nav_mobile class=static>
+        <div id=mobile_menu_toggle>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <nav id=top_nav_mobile class=dcl>
+        <form id=search_form_mobile action="https://search.theregister.co.uk/" method=GET>
+            <img class="white_search_icon" width="18" height="18" alt="search" src="/design_picker/c00f80f04b0eaf0123d821f6c9488fc1cb55fd0a/graphics/icons/search.svg">
+            <input type=text name=q id=mobile_q placeholder="Search site">
+        </form>
+        <a id="mob_user_link" href="https://account.theregister.co.uk/register/" aria-label="Your Account">
+            <span id="mob_user_icon" class="user_login_icon"></span>
+            <span id="mob_user_text">Sign in</span>
+        </a>
+<a href="/Tag/coronavirus/" id=m-sec-tag-coronavirus data-nav=".tag_coronavirus_nav" data-name="Coronavirus">Coronavirus</a>
+<a href="/data_centre/" id=m-sec-data-centre data-nav=".data_cent_nav" data-name="Data Centre">Data Centre</a>
+<a href="/software/" id=m-sec-software data-nav=".software_nav" data-name="Software">Software</a>
+<a href="/security/" id=m-sec-security data-nav=".sec_nav" data-name="Security">Security</a>
+<a href="/devops/" id=m-sec-devops data-nav=".devops_nav" data-name="DevOps">DevOps</a>
+<a href="/business/" id=m-sec-business data-nav=".bus_nav" data-name="Business">Business</a>
+<a href="/personal_tech/" id=m-sec-personal_tech data-nav=".pers_nav" data-name="Personal Tech">Personal Tech</a>
+<a href="/science/" id=m-sec-science data-nav=".sci_nav" data-name="Science">Science</a>
+<a href="/emergent_tech/" id=m-sec-emergent-tech data-nav=".emer_nav" data-name="Emergent Tech">Emergent Tech</a>
+<a href="/bootnotes/" id=m-sec-bootnotes data-nav=".bootnotes_nav" data-name="Bootnotes">Bootnotes</a>
+<div id="m-sub-sec-bofh"><a href="/data_centre/bofh/" data-name="Bofh" title="The Home of the Mighty BOFH">BOFH</a></div>
+    </nav>
+
+    </div>
+        <div id=site_nav class=static>
+        <nav id=top_nav class=dcl>
+            <a href="https://www.theregister.co.uk/" class=nav_vulture data-name="Home">
+                <img width="21" height="17" alt="Home" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/vulture.svg">
+            </a>
+            <a href="/Tag/coronavirus" id=sec-tag-coronavirus data-nav=".tag_coronavirus_nav" data-name="Coronavirus">Coronavirus</a>
+            <a href="/data_centre/" id=sec-data-centre data-nav=".data_cent_nav" data-name="Data Centre">Data Centre</a>
+            <a href="/software/" id=sec-software data-nav=".software_nav" data-name="Software">Software</a>
+            <a href="/security/" id=sec-security data-nav=".sec_nav" data-name="Security">Security</a>
+            <a href="/devops/" id=sec-devops data-nav=".devops_nav" data-name="DevOps">DevOps</a>
+            <a href="/business/" id=sec-business data-nav=".bus_nav" data-name="Business">Business</a>
+            <a href="/personal_tech/" id=sec-personal_tech data-nav=".pers_nav" data-name="Personal Tech">Personal Tech</a>
+            <a href="/science/" id=sec-science data-nav=".sci_nav" data-name="Science">Science</a>
+            <a href="/emergent_tech/" id=sec-emergent-tech data-nav=".emer_nav" data-name="Emergent Tech">Emergent Tech</a>
+            <a href="/bootnotes/" id=sec-bootnotes data-nav=".bootnotes_nav" data-name="Bootnotes">Bootnotes</a>
+            <a href="https://search.theregister.co.uk/" class=nav_search data-name="Search">
+                <img class="black_search_icon" width="18" height="18" alt="search" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/search.svg">
+            </a>
+            <a id="user_icon" class="user_login_icon" href="https://account.theregister.co.uk/register/" title="Your Account" aria-label="Your Account"></a>
+        </nav>
+        <div id=nav_pop>
+            <div class=data_cent_nav>
+                <ul class="sub_nav alt_colour dcl">
+                    <li id=sub-sec-servers><a href="/data_centre/servers/" data-name="Servers" title="Enterprise server news, analysis and opinion">Servers</a></li>
+                    <li id=sub-sec-hpc><a href="/data_centre/hpc/" data-name="HPC" title="High Performance Computing news, analysis and opinion">HPC</a></li>
+                    <li id=sub-sec-cloud><a href="/data_centre/cloud/" data-name="Cloud" title="Cloud news, analysis and opinion">Cloud</a></li>
+                    <li id=sub-sec-storage><a href="/data_centre/storage/" data-name="Storage" title="Enterprise Storage news, analysis and opinion">Storage</a></li>
+                    <li id=sub-sec-networks><a href="/data_centre/networks/" data-name="Networks" title="Networks news, analysis and opinion">Networks</a></li>
+                    <li id=sub-sec-virtualization><a href="/data_centre/virtualization/" data-name="Virtualisation" title="Virtualization news, analysis and opinion">Virtualization</a></li>
+                    <li id=sub-sec-bofh><a href="/data_centre/bofh/" data-name="Bofh" title="The Home of the Mighty BOFH">BOFH</a></li>
+                </ul>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/lenovo_unified_storage/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2019/05/17/cloud_shutterstock.jpg"><h5>On building a unified storage architecture for edge computing</h5></a>
+                    <a class="story_link" href="/2020/05/05/phil_davis_aws/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2019/09/24/aws_shutterstock.jpg"><h5>Phil your boots: HPE's former no 2 in command Davis to run AWS in Asia Pacific, Japan</h5></a>
+                    <a class="story_link" href="/2020/05/05/sap_sells_its_digital_interconnect/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/05/shutterstock_sap.jpg"><h5>SAP discards Ace of Sybase: Digital Interconnect unit sold for $250 million</h5></a>
+                    <a class="story_link" href="/2020/05/05/co_registry_contract/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2016/05/09/fire_89734983534456456.jpg"><h5>Colombian tech minister quits, heads off to overseas job as aborted .co contract sale triggers in-depth probe</h5></a>
+                </div>
+            </div>
+            <div class=software_nav>
+                <div class=sub_nav></div>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/steven_sinofsky_malware_memories/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2015/01/27/sinofsky.jpg"><h5>Ex-Microsoft Office chief reflects on early malware and the 'global attack on the new Windows PC infrastructure'</h5></a>
+                    <a class="story_link" href="/2020/05/05/sba_rpa_ban/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2018/02/15/typing_robot.jpg"><h5>US small biz loan system bans software robots. The lesson? Make sure IT knows about any automation projects</h5></a>
+                    <a class="story_link" href="/2020/05/05/windows_10x_repurposed_for_single_screens/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2019/10/03/wonderbar.jpg"><h5>Microsoft puts dual-screen devices and Windows 10X in the too-hard basket</h5></a>
+                    <a class="story_link" href="/2020/05/05/salesforce_contact_tracing_as_a_service/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/05/contact_tracing_shutterstock.jpg"><h5>Contact-tracing is basically CRM so we think we've got it sorted, says Salesforce</h5></a>
+                </div>
+            </div>
+            <div class=sec_nav>
+                <div class=sub_nav></div>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/godaddy_ssh_login_details_compromised/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2016/05/12/patching_983324.jpg"><h5>GoDaddy hack: Miscreant goes AWOL with 28,000 users' SSH login creds after vandalizing server-side file</h5></a>
+                    <a class="story_link" href="/2020/05/05/logmein_password_survey/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/05/shutterstock_begging.jpg"><h5>We beg, implore and beseech thee. Stop reusing the same damn password everywhere</h5></a>
+                    <a class="story_link" href="/2020/05/05/iloveyou_20_years/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2017/04/20/jack_russell_in_love_photo_via_shutterstock.jpg"><h5>It has been 20 years since cybercrims woke up to social engineering with an intriguing little email titled 'ILOVEYOU'</h5></a>
+                    <a class="story_link" href="/2020/05/05/salt_vuln_digicert/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2015/05/07/security_345456.jpg"><h5>More Salt in their wounds: DigiCert hit as hackers wriggle through (patched) holes in buggy config tool</h5></a>
+                </div>
+            </div>
+            <div class=devops_nav>
+                <div class=sub_nav></div>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/vmware_tanzu_application_service/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/05/vmware-tanzu.jpg"><h5>VMware's Tanzu Application Service for Kubernetes hits beta, will take some time to get production-ready</h5></a>
+                    <a class="story_link" href="/2020/05/05/keep_your_developers_safe/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2015/11/18/cloud_89736487353434564.jpg"><h5>Tune in and watch online tomorrow: How to keep your developers safe in the cloud</h5></a>
+                    <a class="story_link" href="/2020/04/30/couchbase_percona_kubernetes/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/04/30/shutterstock_couchbase_santa_clara.jpg"><h5>Couchbase goes cuckoo for Kubernetes with v2.0 release of Autonomous Operator</h5></a>
+                    <a class="story_link" href="/2020/04/29/abby_kearns_joins_puppet_as_cto/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/04/29/abbykearns.jpg"><h5>Ex-Cloud Foundry boss to pull strings at Puppet as CTO, says open-source software 'evolves faster, is more mature'</h5></a>
+                </div>
+            </div>
+            <div class=bus_nav>
+                <ul class="sub_nav alt_colour dcl">
+                    <li id=sub-sec-policy><a href="/business/policy/" data-name="Policy" title="Policy News, analysis and opinion">Policy</a></li>
+                    <li id=sub-sec-channel><a href="/business/channel/" data-name="The Channel" title="The Channel news, analysis and opinion">The Channel</a></li>
+                </ul>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/imagination_asset_stripping/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2016/05/11/logs_and_axe.jpg"><h5>Ex-Imagination Technologies boss tells UK Foreign Affairs Committee: Britain needs to stop overseas asset stripping</h5></a>
+                    <a class="story_link" href="/2020/05/04/contractors_take_advantage_of_ir35_delay/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2016/11/30/tax.jpg"><h5>UK IT contractors slipping back into old ways of working now IR35 tax reforms delayed</h5></a>
+                    <a class="story_link" href="/2020/05/04/silver_lake_jio_platforms_investment/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/jio_india_shutterstock_editorial_only.jpg"><h5>India’s colosso-carrier Jio sells a thin slice of itself to private equiteer Silver Lake</h5></a>
+                    <a class="story_link" href="/2020/05/01/amazon_security_line_settlement/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2017/08/17/shutterstock_bag_search.jpg"><h5>Amazon settles for $11m with workers in unpaid bag-search wait lawsuit</h5></a>
+                </div>
+            </div>
+            <div class=pers_nav>
+                <div class=sub_nav></div>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/04/apple_broadcom_caltech/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/shutterstock_macbook_air.jpg"><h5>Caltech to Apple, Broadcom: You know that $1.1bn you owe for ripping off Wi-Fi patents? Double it, hotshots</h5></a>
+                    <a class="story_link" href="/2020/05/04/macbook_pro_apple_escape_keyboard/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/mba13.jpg"><h5>That awful Butterfly has finally fluttered off: Apple touts 13-inch MacBook Pro with proper keyboard, Escape key</h5></a>
+                    <a class="story_link" href="/2020/05/04/taotronics_soundsurge_85_noise_cancelling_headphones/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/01/dscf1042.jpg"><h5>What does £55 get you in the noise-cancelling headphones world? Something like the Taotronics SoundSurge 85</h5></a>
+                    <a class="story_link" href="/2020/05/04/google_rebuts_australian_content_charging_plan/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/search_australia_shutterstock_editorial_only.jpg"><h5>Google Australia says government pulled pin on content-for-cash talks, hands in its homework anyway</h5></a>
+                </div>
+            </div>
+            <div class=sci_nav>
+                <ul class="sub_nav alt_colour dcl">
+                    <li id=sub-sec-geek><a href="/science/geeks_guide/" data-name="Geeks Guide" title="Geek's Guide to Britain">Geek's Guide</a></li>
+                </ul>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/04/nasa_sls_artemis_engine_orders/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/nasa_space_launch_system_first_stage.jpg"><h5>NASA signs deals to put a rocket under Artemis flights until 2029</h5></a>
+                    <a class="story_link" href="/2020/05/01/nasa_spacex_astronauts/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/01/nasa_bob_doug.jpg"><h5>Bye, Russia: NASA wheels out astronauts, describes plan for first all-American manned launch into orbit since 2011</h5></a>
+                    <a class="story_link" href="/2020/05/01/lunar_lander/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2019/05/10/blueorigin-bluemoon-lander-reveal.jpg"><h5>Bezos to the Moon: Blue Origin joins SpaceX and Dynetics in a three-horse lunar lander race</h5></a>
+                    <a class="story_link" href="/2020/05/01/xmm-newton/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/04/29/xmm-newton.jpg"><h5>The ultimate 4-wheel-drive: How ESA's keeping XMM-Newton alive after 20 years and beyond</h5></a>
+                </div>
+            </div>
+            <div class=emer_nav>
+                <ul class="sub_nav alt_colour dcl">
+                    <li id=sub-sec-artificial-intelligence><a href="/emergent_tech/artificial_intelligence/" data-name="Artificial Intelligence" title="Artificial Intelligence">Artificial Intelligence</a></li>
+                    <li id=sub-sec-internet-of-things><a href="/emergent_tech/internet_of_things/" data-name="Internet of Things" title="Internet of Things">Internet of Things</a></li>
+                </ul>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/cut_paste_ar_photoshop/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/smartphone_camera.jpg"><h5>Proof-of-concept open-source app can cut'n'paste from reality straight into Photoshop using a neural network</h5></a>
+                    <a class="story_link" href="/2020/05/04/latvian_drone_breaks_free/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/shutterstock_riga_plane.jpg"><h5>Latvian drone wrests control from human overlords and shuts down entire nation's skies</h5></a>
+                    <a class="story_link" href="/2020/05/04/intel_expected_to_acquire_israeli/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2019/06/25/shutterstock_bus.jpg"><h5>You like to Moovit? Intel snaps up Israeli mobility startup for rumoured $1bn as part of expensive mobility push</h5></a>
+                    <a class="story_link" href="/2020/05/04/ai_roundup_010520/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/04/shutterstock_mark_zuckerbeg.jpg"><h5>Facebook's mega-chatbot has 'a persona, discusses nearly any topic, shows empathy.' Perfect for CEO version 2</h5></a>
+                </div>
+            </div>
+            <div class=bootnotes_nav>
+                <ul class="sub_nav alt_colour dcl">
+                    <li id=sub-sec-stob><a href="/bootnotes/stob/" data-name="Verity Stob" title="Verity Stob">Verity Stob</a></li>
+                </ul>
+                <div class=story_row>
+                    <a class="story_link" href="/2020/05/05/mini_musk/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2018/02/21/baby_shutterstock.jpg"><h5>Baby Diesel? Little d'Artagnan? There is another child of Musk in the world</h5></a>
+                    <a class="story_link" href="/2020/05/04/saleforce_benioff/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2016/10/25/marc-benioff.jpg"><h5>Salesforce chief Marc Benioff gets clear view of pandemic, 'new balance' from guru pal</h5></a>
+                    <a class="story_link" href="/2020/05/02/uks_ncsc_whitelist_blacklist/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2020/05/01/shutterstock_equality.jpg"><h5>As Brit cyber-spies drop 'whitelist' and 'blacklist', tech boss says: If you’re thinking about getting in touch saying this is political correctness gone mad, don’t bother</h5></a>
+                    <a class="story_link" href="/2020/05/01/ministry_defence_mail_online_amazon_traffic/"><img src="https://regmedia.co.uk/2016/04/14/dl.gif" alt="" width=198 height=131 data-delay_url="https://regmedia.co.uk/2015/05/20/raf_chinook.jpg"><h5>Browse mode: We're not goofing off on the Sidebar of Shame and online shopping sites, says UK's Ministry of Defence</h5></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id=page_overlay_side></div>
+
+    
+    <div id=ad-condor class=adu>
+        <script>
+            googletag.cmd.push( function() {
+                googletag.display('ad-condor');
+            });
+        </script>
+        <noscript>
+            <a href="https://pubads.g.doubleclick.net/gampad/jump?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250&amp;tile=2&amp;c=2XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0" target="_blank">
+                <img src="https://pubads.g.doubleclick.net/gampad/ad?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250&amp;tile=2&amp;c=2XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0" alt="">
+            </a>
+        </noscript>
+    </div>
+
+
+
+
+
+
+    <div id=main-col><div id="article-wrapper">
+        
+        
+        <div id="crumb_trail">
+            <h4 class="dcl">
+                <a class="has_lateral_ornaments pascal_comment" href="/security/" aria-label="Security">Security</a>
+            </h4>
+        </div>
+        <div id="article" >
+
+            <div class="article_head">
+                <h1>UK COVID-19 contact-tracing app data may be kept for 'research' after crisis ends, MPs told</h1>
+                
+                <h2>Want to opt out of that part? No chance, says NHSX chief</h2>
+                
+
+                
+                <div class="byline_and_share">
+                    <div class="byline">
+                        
+                            By <a href="/Author/Gareth-Corfield" title="Read more by this author" class="alt_colour dcl">Gareth Corfield</a>
+                        
+                        <span class="dateline">
+                            4&nbsp;May&nbsp;2020&nbsp;at&nbsp;16:16
+                        </span>
+                        
+                    </div>
+                    <div class="comments_share">
+                        
+                            <a href="https://forums.theregister.co.uk/forum/all/2020/05/04/uk_covid_app_human_rights_parliament/" class="reg_comments">                                    <span class="count">158</span>
+                                    <img width="17" height="15" src="/design_picker/029b461aa66d73b1e8cb351f99212507d4da660c/graphics/icon/rect_comment_bubble_white.svg" alt="Reg comments">                            </a>                        <a href="#" class="share_toggle">SHARE <span>&#9660;</span></a>
+                    </div>
+                </div>
+                
+    <div class="social_btns top_article alt_colour dcl">
+        <a href="https://www.reddit.com/submit?url=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/&title=UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told" target=_blank class=reddit_btn>
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/reddit.svg" alt="reddit">
+            </div>
+        </a>
+        <a href="https://twitter.com/share?text=UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told&amp;url=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/&amp;via=theregister" class=twit target="_blank">
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg" alt="Twitter">
+            </div>
+        </a>
+        <a class=faceb_dialog href="https://www.facebook.com/dialog/feed?app_id=727516617265205&display=popup&amp;link=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/" target="_blank">
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg" alt="Facebook">
+            </div>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/&amp;title=UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told&amp;summary=Want%20to%20opt%20out%20of%20that%20part%3F%20No%20chance%2C%20says%20NHSX%20chief" class=linkedin_social target="_blank">
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin_alt.svg" alt="linkedin">
+            </div>
+        </a>
+    </div>
+
+                
+
+            </div>
+            <div id="body">
+                
+                <p>Britons will not be able to ask NHS admins to delete their COVID-19 contact-tracking data from government servers, digital arm NHSX's chief exec Matthew Gould admitted to MPs this afternoon.</p>
+                <p>Gould also told Parliament's Human Rights Committee that data harvested from Britons through NHSX's COVID-19 contact tracing app would be "pseudonymised" - and appeared to leave the door open for that data to be sold on for "research".</p>
+                <p>The government's contact-tracing app will be rolled out in Britain this week. A demo seen by <i>The Register</i> showed its basic consumer-facing functions. Key to those is a big green button that the user presses to send 28 days' worth of contact data to the NHS.</p>
+                <div class="CaptionedImage Center"><a href="https://regmedia.co.uk/2020/05/04/nhsx_covid_app_screenshot.jpg" target="_blank"><img src="https://regmedia.co.uk/2020/05/04/nhsx_covid_app_screenshot.jpg" alt="Screenshot of the NHSX covid-19 contact tracing app" title="Screenshot of the NHSX covid-19 contact tracing app" height="400" width="204"/></a>
+<p class="text_center">Screenshot of the NHSX COVID-19 contact tracing app</p>
+</div>
+                <p>Written by tech arm NHSX, Britain's contact-tracing app breaks with international convention by <a target="_blank" href="https://www.theregister.co.uk/2020/04/28/uk_coronavirus_google_apple_api/">opting for a centralised model</a> of data collection: all the contact-tracing data is kept under one roof in one central government database.</p>
+                <p>In response to questions from Scottish Nationalist MP Joanna Cherry this afternoon, Gould told MPs: "The data can be deleted for as long as it's on your own device. Once uploaded all the data will be deleted or fully anonymised with the law, so it can be used for research purposes."</p>
+                <p>De-anonymising such data was successfully demonstrated in 2015, <a target="_blank" href="https://www.theregister.co.uk/2015/10/02/s_korean_anonymised_health_data_sharing_a_breach_in_waiting/">as we reported at the time</a>.</p>
+                <p>Although Gould said the NHSX app would auto-delete contact data that isn't uploaded to government servers, he did explain:</p>
+                <div class="blockextract">
+
+<p>If data has been shared by choice with the NHS, then it can be retained for research in the public interest or by the NHS for planning and delivering services, obviously in line with the law and on the basis of the necessary approvals by law.</p>
+</div>
+                <p><i>The Register</i> understands the app has been completed and function tested, with the previously announced Isle of Wight trial to begin in the latter part of this week.</p>
+                <p>Addressing the same committee, Information Commissioner Elizabeth Denham repeated to MPs that her office "was not signing off on an app." Despite being closely questioned on her reverse-ferret from <a target="_blank" href="https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/blog-combatting-covid-19-through-data-some-considerations-for-privacy/">earlier declarations</a> that "the starting point for contact tracing should be decentralised systems", she said this afternoon that she wanted the ICO to be a "critical friend" to NHSX.</p>
+                <p>Denham added that if enough people complained about the app, NHSX had given the Information Commissioner's Office its permission to "perform a voluntary audit on the app and systems – when appropriate to do so." She shrugged: "The functionality of the app is up to government to decide… it's not for me to decide, it's for me to advise on how to mitigate some of these potential risks."</p>
+                <h3 class="crosshead">
+  <span>It looks all right to us, says GCHQ offshoot</span>
+</h3>
+                <p>The National Cyber Security Centre was also wheeled out to defend NHSX, with top techie Ian Levy telling the world in a <a target="_blank" rel="nofollow" href="https://www.ncsc.gov.uk/blog-post/security-behind-nhs-contact-tracing-app">blog post</a> late this afternoon that there's nothing to worry about because smart folk have put the hours in to ensure it's reasonably secure.</p>
+                <p>He went into a full description of how the pseudonymisation in the app works, starting with the 128-bit unique user ID generated after installation:</p>
+                <div class="blockextract">
+
+<p>Every day, your device generates a random elliptic curve key pair and encrypts your installation ID (and some other administrative stuff like time periods) with it in a way that only the NHS server can recover, giving you a daily, random-looking, encrypted 'blob'. Now, your phone advertises a contact service over Bluetooth Low Energy (BLE) – the same mechanism that your phone uses to talk to your step tracker or smart watch. When another app user comes close enough to be seen over BLE, the devices connect to each other's contact service and exchange a package containing their current encrypted blobs, the time and the transmission power used for the BLE connection, all signed using the device authentication key.</p>
+</div>
+                <p>Whenever your phone comes near another app user's phone, "date and time, package received over BLE, sampled signal strength, total duration of encounter" are "securely stored" on your own mobile device. You then donk the big green button to send all that data to the NHS for research.</p>
+                <p>Should you fall victim to COVID-19, and tell the app you're ill, "the app will upload the anonymous record of your proximity events to the NHS server. From each of the encrypted blobs recorded, the server can recover the fixed but anonymous installation ID for each device you were near."</p>
+                <p>Thanks to the large output variations between different Bluetooth Low Energy chipsets in different handsets, that data is used – along with the phone model identifier collected by the app – to work out a rough proxy for distance.</p>
+                <p>Levy ended his very readable blog post (available on the NCSC website) by exhorting Britons to "please install the app, and use it". <i>El Reg</i> suspects, quite aside from the public health questions, that its go-live date will be a key moment for seeing just how much trust the public has in the government and civil service of the day. ®</p>
+                
+                <p class="wptl btm">
+                    <span>Sponsored: </span>
+                    <a href="https://go.theregister.co.uk/tl/1935/-8579/choosing-a-low-code-vendor?td=wptl1935">Choosing A Low-Code Vendor</a>
+                </p>
+                <script>
+                    RegWpTl = [
+                        '<a href="https://go.theregister.co.uk/tl/1910/-8373/practical-tips-for-office-365-tenant-to-tenant-migration?td=wptl1910">Practical tips for Office 365 tenant-to-tenant migration<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1923/-8508/set-up-your-hybrid-cloud-right?td=wptl1923">Webcast: Set up your hybrid cloud right<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1922/-8451/build-the-next-generation-of-your-business-in-the-public-cloud?td=wptl1922">Webcast: Build the next generation of your business in the public cloud<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1935/-8553/legacy-modernization-finding-your-way-with-low-code?td=wptl1935">Legacy Modernization: Finding Your Way With Low-Code<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1935/-8579/choosing-a-low-code-vendor?td=wptl1935">Choosing A Low-Code Vendor<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1935/-8554/forrester-build-a-digital-experience-portfolio?td=wptl1935">Forrester Build a Digital Experience Portfolio<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1935/-8578/how-to-build-your-digital-experience-portfolio?td=wptl1935">How to Build Your Digital Experience Portfolio<\/a>',
+                        '<a href="https://go.theregister.co.uk/tl/1935/-8552/how-to-accelerate-brilliant-digital-experiences-with-low-code?td=wptl1935">How To Accelerate Brilliant Digital Experiences With Low-Code<\/a>'
+                    ];
+                </script>
+            </div>
+
+            
+            <div id=article_body_btm>
+                <div id="tips_or_corrections">
+                    <a href="mailto:corrections@theregister.co.uk?subject=%5Bcorrection%5D%20UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told&amp;body=re:%20http%3A%2F%2Fwww.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/"
+                        title="Spotted an error or have a tip? Let us know.">
+                        Tips and corrections
+                    </a>
+                </div>
+                
+                <div class="comments large">
+                    <a class="reg_btn count" title="View comments on this article" href="https://forums.theregister.co.uk/forum/all/2020/05/04/uk_covid_app_human_rights_parliament/">
+                        <span>158</span>
+                        Comments
+                    </a>
+                </div>
+            
+            </div>
+                    </div>
+
+        <div id=tags>
+            <ul>
+                <li>
+                    <strong>MORE</strong>
+                </li>
+                <li>
+                    <a href="/Tag/nhs">Nhs</a>
+                </li>
+                <li>
+                    <a href="/Tag/coronavirus">Coronavirus</a>
+                </li>
+            </ul>
+        </div>
+
+
+        
+    <div class="social_btns bot_article alt_colour dcl">
+        <a href="https://www.reddit.com/submit?url=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/&title=UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told" target=_blank class=reddit_btn>
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/reddit.svg" alt="reddit">
+            </div>
+        </a>
+        <a href="https://twitter.com/share?text=UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told&amp;url=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/&amp;via=theregister" class=twit target="_blank">
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg" alt="Twitter">
+            </div>
+        </a>
+        <a class=faceb_dialog href="https://www.facebook.com/dialog/feed?app_id=727516617265205&display=popup&amp;link=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/" target="_blank">
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg" alt="Facebook">
+            </div>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/&amp;title=UK%20COVID-19%20contact-tracing%20app%20data%20may%20be%20kept%20for%20%27research%27%20after%20crisis%20ends%2C%20MPs%20told&amp;summary=Want%20to%20opt%20out%20of%20that%20part%3F%20No%20chance%2C%20says%20NHSX%20chief" class=linkedin_social target="_blank">
+            <div class=circ>
+                <img width=18 height=18 src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin_alt.svg" alt="linkedin">
+            </div>
+        </a>
+    </div>
+
+
+        
+            <script type="text/javascript">show_article_signup_ml();</script>
+        
+
+    </div></div>
+
+    <div id=right-col>
+                            <div id=ad-eagle class=adu>
+                        <script>
+                            googletag.cmd.push( function() {
+                                googletag.display('ad-eagle');
+                            });
+                        </script>
+                        <noscript>
+                            <a href="https://pubads.g.doubleclick.net/gampad/jump?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250%7C300x252%7C300x600&amp;tile=3&amp;c=33XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0" target="_blank">
+                                <img src="https://pubads.g.doubleclick.net/gampad/ad?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250%7C300x252%7C300x600&amp;tile=3&amp;c=33XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0" alt="">
+                            </a>
+                        </noscript>
+                    </div>
+
+<div id=hot>
+    <h3 class="has_lateral_ornaments c_comment">Most Read</h3>
+    <ol>
+        <li>
+            <a href="/2020/05/05/uk_coronavirus_app/">
+                            <img src="https://regmedia.co.uk/2020/04/02/shutterstock_hygiene.jpg?x=200&amp;y=200&amp;crop=1" alt="covid-19 coronavirus" width=90 height=90>
+                <h4>UK finds itself almost alone with centralized virus contact-tracing app that probably won't work well, asks for your location, may be illegal
+                </h4>
+            </a>
+        </li>
+        <li>
+            <a href="/2020/05/04/uk_covid_app_human_rights_parliament/">
+                            <img src="https://regmedia.co.uk/2020/04/28/shutterstock_coronavirus_app.jpg?x=200&amp;y=200&amp;crop=1" alt="Someone in a mask using a COVID-19 coronavirus contact-tracing app" width=90 height=90>
+                <h4>UK COVID-19 contact-tracing app data may be kept for 'research' after crisis ends, MPs told
+                </h4>
+            </a>
+        </li>
+        <li>
+            <a href="/2020/05/04/who_me/">
+                            <img src="https://regmedia.co.uk/2015/06/18/atm_teaser_648.jpg?x=200&amp;y=200&amp;crop=1" alt="atm_teaser_648" width=90 height=90>
+                <h4>Britain has no idea how close it came to ATMs flooding the streets with free money thanks to some crap code, 1970s style
+                </h4>
+            </a>
+        </li>
+        <li>
+            <a href="/2020/05/04/latvian_drone_breaks_free/">
+                            <img src="https://regmedia.co.uk/2020/05/04/shutterstock_riga_plane.jpg?x=200&amp;y=200&amp;crop=1" alt="Riga, Latvia - March 19, 2020  a courier plane lands at a partially closed Riga International Airport" width=90 height=90>
+                <h4>Latvian drone wrests control from human overlords and shuts down entire nation's skies
+                </h4>
+            </a>
+        </li>
+        <li>
+            <a href="/2020/05/04/nasa_sls_artemis_engine_orders/">
+                            <img src="https://regmedia.co.uk/2020/05/04/nasa_space_launch_system_first_stage.jpg?x=200&amp;y=200&amp;crop=1" alt="NASA Space Launch System first stage" width=90 height=90>
+                <h4>NASA signs deals to put a rocket under Artemis flights until 2029
+                </h4>
+            </a>
+        </li>
+    </ol>
+</div>
+<a id="story_rhs_ml_signup" href="https://account.theregister.co.uk/register/?product=thereg_weekly_newsletter&utm_medium=site&utm_source=article&utm_campaign=story_rhs_ml_signup">
+    <h4>SUBSCRIBE TO OUR WEEKLY TECH NEWSLETTER</h4>
+    <span aria-hidden="true" class="reg_btn_secondary subscribe_newsletter_button">SUBSCRIBE</span>
+    <img class="half_vulture16bits" alt="" width="83" height="65" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/vulture_16bits_half.svg">
+</a>
+        <div id=ad-falcon class=adu>
+            <script>
+                googletag.cmd.push( function() {
+                    googletag.display('ad-falcon');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x100%7C300x250%7C300x251&amp;tile=4&amp;c=44XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0" target="_blank">
+                    <img src="https://pubads.g.doubleclick.net/gampad/ad?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x100%7C300x250%7C300x251&amp;tile=4&amp;c=44XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0" alt="">
+                </a>
+            </noscript>
+        </div>
+
+
+    </div><hr id=story_section_break>
+    <div id=boot>
+        
+        <div id=ad-hawk class=adu>
+            <script>
+                googletag.cmd.push( function() {
+                    googletag.display('ad-hawk');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250%7C300x50&amp;tile=6&amp;c=66XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D6%26raptor%3Dhawk%26pos%3Dbtm%26test%3D0" target="_blank">
+                    <img src="https://pubads.g.doubleclick.net/gampad/ad?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250%7C300x50&amp;tile=6&amp;c=66XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D6%26raptor%3Dhawk%26pos%3Dbtm%26test%3D0" alt="">
+                </a>
+            </noscript>
+        </div>
+
+    </div>
+
+<div id=story-bot-col>
+        <div id="read_more_on">
+            <h3 class="has_lateral_ornaments c_comment">Keep Reading</h3>
+            <div class=stories><div class="story">
+                    <a href="/2020/03/19/nhs_websites_zero_rated_uk_mobile_networks/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2015/09/23/iphone_hand.jpg?x=198&amp;y=131&amp;crop=1" alt="" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>NHS websites will no longer burn up your mobile data allowance, say Brit telcos</h4>
+                            <div class=standfirst>
+                                Coronavirus advice to become free to view even if you're out of credit
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2020/04/22/flippin_dell_texan_giant_wins/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2018/09/19/michael_dell_analyst_preso.jpg?x=198&amp;y=131&amp;crop=1" alt="Michael Dell" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>Flippin' Dell! Texan giant wins single seat on £1bn direct NHS tech framework</h4>
+                            <div class=standfirst>
+                                Two-year deal penned by English hospital trust
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2020/01/29/ransomware_in_the_nhs_survey/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2016/09/26/nhs_hosptial_photo_by_marbury_via_shutterstock.jpg?x=198&amp;y=131&amp;crop=1" alt="NHS hosptial photo, by Marbury via Shutterstock" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>Only 6 ransomware attacks on the UK's NHS since WannaCry worm hit in 2017 – report</h4>
+                            <div class=standfirst>
+                                209 incidents since 2014, say Freedom of Information figures
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2019/09/06/know_what_the_nhs_really_needs_influencers/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2019/09/06/shutterstock_surgery_selfie.jpg?x=198&amp;y=131&amp;crop=1" alt="surgeon takes selfie with patient" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>You know what the NHS really needs? Influencers, right guys? #blessed</h4>
+                            <div class=standfirst>
+                                Hey nurses, it's not like you've got anything else to do
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2019/12/09/amazons_alexa_nhs_contract_released/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2017/01/17/heart_monitor.jpg?x=198&amp;y=131&amp;crop=1" alt="" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>Worldwide, perpetual, irrevocable and royalty-free: Amazon's Alexa NHS contract released</h4>
+                            <div class=standfirst>
+                                But it's all anonymised data so who cares, right?
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2020/04/29/academics_open_letter_nhs_coronavirus_app/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2020/04/29/shutterstock_contact_tracing.jpg?x=198&amp;y=131&amp;crop=1" alt="An illustration of a contact tracing app" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>Academics demand answers from NHS over potential data timebomb ticking inside new UK contact-tracing app</h4>
+                            <div class=standfirst>
+                                Slurp everyone's details and you create a hugely valuable hacker target
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2019/12/06/deepmind_founder_shifts_to_google/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2016/10/19/robot_typing.jpg?x=198&amp;y=131&amp;crop=1" alt="" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>DeepMind founder behind NHS data slurp to be beamed up to Google mothership</h4>
+                            <div class=standfirst>
+                                Great job, now let's do some applied AI with the big boys
+                            </div>
+                        </div>
+                    </a>
+                </div><div class="story">
+                    <a href="/2019/12/24/nhs_england_transparent_database/">
+                        <div class="story_grid_img">
+                            <img src="https://regmedia.co.uk/2016/01/11/afraid_of_the_dark_image_via_shutterstock.jpg?x=198&amp;y=131&amp;crop=1" alt="Afraid of the dark, image via Shutterstock" width=198 height=131>
+                        </div>
+                        <div class=title_standfirst>
+                            <h4>Senior health tech pros warn NHS England: Be transparent with mass database trawl or face public backlash</h4>
+                            <div class=standfirst>
+                                Son of Care.Data? Remember what happened to that first initiative. It didn't end well
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+
+
+    
+        <div id=whitepapers>
+            <h3>
+                <a href="https://whitepapers.theregister.co.uk/" class="dcl has_lateral_ornaments c_comment">Tech Resources</a>
+            </h3>
+
+            <a class=story href="https://whitepapers.theregister.co.uk/paper/view/8474/security-features-of-connect-for-anthos?td=s-uu">
+                <img src="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png" alt="" width=55 height=55>
+                <h4>Security Features of Connect for Anthos</h4>
+                <div class=standfirst>
+                    This document explains the security measures built into Connect for Anthos customers who are interested in ensuring the security of their GKE On-Prem user clusters.
+                </div>
+            </a>
+
+            <a class=story href="https://whitepapers.theregister.co.uk/paper/view/8326/supporting-the-switch?td=s-uu">
+                <img src="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png" alt="" width=55 height=55>
+                <h4>Supporting the Switch</h4>
+                <div class=standfirst>
+                    NetSuite spoke to senior IT executives about their technology evaluations to discover how cloud-based ERP systems support and accelerate growing organisations.
+                </div>
+            </a>
+
+            <a class=story href="https://whitepapers.theregister.co.uk/paper/view/8572/does-your-data-protection-really-protect-your-data?td=s-uu">
+                <img src="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png" alt="" width=55 height=55>
+                <h4>Does Your Data Protection Really Protect Your Data?</h4>
+                <div class=standfirst>
+                    How well does your data protection strategy measure up to these challenges? These questions can help you assess your vulnerability.
+                </div>
+            </a>
+
+            <a class=story href="https://whitepapers.theregister.co.uk/paper/view/8680/simplifying-hybrid-cloud?td=s-uu">
+                <img src="/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png" alt="" width=55 height=55>
+                <h4>Simplifying Hybrid Cloud</h4>
+                <div class=standfirst>
+                    Data has become key to many businesses’ operations. Yet, while the use and volume of data has increased exponentially, databases have not adapted at the same pace.
+                </div>
+            </a>
+        </div>
+
+    
+    <div class="OUTBRAIN" data-src="https://www.theregister.co.uk/2020/05/04/uk_covid_app_human_rights_parliament/" data-widget-id="GS_1" data-ob-template="Theregister_201806030243"></div>
+    <script>
+        if (RegCBWT()) {
+            $('<hr>').insertBefore('#story-bot-col .OUTBRAIN');
+            var outB = document.createElement('script');
+            outB.type = 'text/javascript';
+            outB.async = true;
+            outB.src = 'https://widgets.outbrain.com/outbrain.js';
+            $(outB).insertAfter('#story-bot-col .OUTBRAIN');
+            $('<hr>').insertAfter('#story-bot-col .OUTBRAIN');
+        }
+    </script>
+    
+
+            <div id=ad-owl class=adu>
+            <script>
+                googletag.cmd.push( function() {
+                    googletag.display('ad-owl');
+                });
+            </script>
+            <noscript>
+                <a href="https://pubads.g.doubleclick.net/gampad/jump?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250%7C300x50&amp;tile=5&amp;c=55XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D5%26raptor%3Dowl%26pos%3Dbtm%26test%3D0" target="_blank">
+                    <img src="https://pubads.g.doubleclick.net/gampad/ad?co=1&amp;iu=/6978/reg_security/front&amp;sz=300x250%7C300x50&amp;tile=5&amp;c=55XrGs7aO@BW2uuo1XanmOhwAAAJg&amp;t=ct%3Dns%26unitnum%3D5%26raptor%3Dowl%26pos%3Dbtm%26test%3D0" alt="">
+                </a>
+            </noscript>
+        </div>
+
+
+</div>
+    <div id=footer><div class=foot_wrapper>
+
+        <div class="left_block">
+            <div class="foot_list alt_colour dcl">
+                <h4>ABOUT US<img width="7" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg" class="expand_arrow"></h4>
+                <ul>
+                    <li><a href="https://www.theregister.co.uk/Profile/about_the_register/">Who we are</a></li>
+                    <li><a href="https://www.theregister.co.uk/about/company/website/">Under the hood</a></li>
+                    <li><a href="https://www.theregister.co.uk/about/company/contact/">Contact us</a></li>
+                    <li><a target=_blank href="https://situationpublishing.com/home/contact-us/">Advertise with us</a></li>
+                </ul>
+            </div>
+
+            <div class="foot_list more_us alt_colour dcl">
+                <h4>MORE CONTENT<img width="7" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg" class="expand_arrow"></h4>
+                <ul>
+                    <li><a href="https://www.theregister.co.uk/Week/">Latest News</a></li>
+                    <li><a href="https://www.theregister.co.uk/Popular/">Popular Stories</a></li>
+                    <li><a href="https://forums.theregister.co.uk/">Forums</a></li>
+                    <li><a href="https://whitepapers.theregister.co.uk/">Whitepapers</a></li>
+                    <li><a href="https://whitepapers.theregister.co.uk/events/list">Webinars</a></li>
+                </ul>
+            </div>
+
+            <div class="foot_list what_else alt_colour dcl">
+                <h4>SITUATION PUBLISHING<img width="7" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg" class="expand_arrow"></h4>
+                <ul>
+                    <li><a href="https://www.nextplatform.com/">The Next Platform</a></li>
+                    <li><a href="https://devclass.com/">DevClass</a></li>
+                    <li><a href="https://blocksandfiles.com/">Blocks and Files</a></li>
+                    <li><a href="https://continuouslifecycle.london/">Continuous Lifecycle London</a></li>
+                    <li><a href="http://www.mcubed.london/">M-cubed</a></li>
+                </ul>
+            </div>
+
+            <div class="reg_foot">
+                <a href="https://situationpublishing.com/" id="sitpub_logo">
+                    <img width="132" height="51" alt="Situation Publishing" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/sitpub_footer.svg">
+                </a>
+                <div class="foot_desc_wrapper">
+                    <p class="foot_desc"><strong>The Register</strong> - Independent news and views for the tech community. Part of Situation Publishing</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="right_block">
+            <div class="newsletter_and_social">
+                <div class="newsletter_signup">
+                    <h4>SIGN UP TO OUR NEWSLETTERS</h4>
+                    <p>Join our daily or weekly newsletters, subscribe to a specific section or set <a class="alt_colour dcl" href="https://account.theregister.co.uk/alert/?create=1">News alerts</a></p>
+                    <a class="reg_btn_secondary subscribe_newsletter_button" href="https://account.theregister.co.uk/register/?product=thereg_daily_newsletter"><strong>SUBSCRIBE</strong><img width="7" height="11" alt="" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_white.svg"></a>
+                </div>
+
+                <div class="social alt_colour dcl">
+                    <div id=follow_btns>
+                        <a id="follow_us_twitter" href="https://twitter.com/intent/user?screen_name=theregister" title="Follow us on twitter" target=_blank class=twit>
+                            <div class="circ">
+                                <img width="18" height="18" alt="Twitter" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg">
+                            </div>
+                        </a>
+                        <a href="https://www.facebook.com/VultureCentral" title="Like us on Facebook" target=_blank class=fbook>
+                            <div class="circ">
+                                <img width="18" height="18" alt="Facebook" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg">
+                            </div>
+                        </a>
+                        <a href="https://www.linkedin.com/company/the-register" title="Follow us on LinkedIn" target="_blank" class="linkin">
+                            <div class="circ">
+                                <img width="18" height="18" alt="LinkedIn" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin_white.svg">
+                            </div>
+                        </a>
+                        <a href="https://www.theregister.co.uk/Design/page/feeds.html" title="Follow our RSS" target=_blank class=rss_feed>
+                            <div class="circ">
+                                <img width="18" height="18" alt="feeds" src="/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/rss.svg">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <noscript><img width="1" height="1" src="/Design/graphics/std/transparent_pixel.png" alt="no-js"></noscript>
+
+    </div></div>
+
+    <div id=foot_btm>
+        <p>Biting the hand that feeds IT © 1998–2020</p>
+        <div class=foot_btm_links>
+            <a href="/Design/page/consent_options.html">Your Consent Options</a>
+
+            
+            <a href="https://www.theregister.co.uk/Profile/cookies/">Cookies</a>
+            <a href="https://www.theregister.co.uk/about/company/privacy/">Privacy</a>
+            <a href="https://www.theregister.co.uk/Profile/terms_and_conditions_of_use/">Ts&amp;Cs</a>
+        </div>
+    </div>
+
+    <div id=end_scripts>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            if ( typeof(RegSendGA) === 'function' )
+                RegSendGA();
+        </script>
+
+<script>if(RegCBWT()){!function(a,e,d,m,t){a.adm={};a.adm.pixid=137060;var o=e.getElementsByTagName("head")[0],c=e.createElement("script");a.adm.json="https://ps.l.admedo.com/e7b7041f-8d65-4024-9168-fd38b9a62669.json",a.adm.pixurl="https://pool.admedo.com",c.src="https://pj.l.admedo.com/admtracker.lib.min.js",c.async=!0,o.appendChild(c)}(window,document);}</script>
+
+
+        <script>
+            $(function() { RegUtils.set_bucket_group(70) });
+        </script>
+        <div id="fb-root"></div>
+    </div></div>
+</body>
+</html>
+
