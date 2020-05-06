@@ -12,7 +12,7 @@
 * advocacy/hmg-briefing - content from HMG
 * advocacy/nhsx-briefing - content from NHSX
 * advocacy/correspondance - 3rd party correspondance, letters to responsible parties etc
-* advocacy/correspondance/org - correspondance from Open Rights Grounp
+* advocacy/correspondance/org - correspondance from Open Rights Group
 * alternate-implementations - source code for alternate implementations
 * alternate-implementations/au - source code for Australian implementations
 * alternate-implementations/opentrace - source code for Open Trace implementations
