@@ -10,3 +10,12 @@
 [submodule "implementation/android/uk.nhs.nhsx.colocate_1.0.0.208"]
 	path = implementation/android/uk.nhs.nhsx.colocate_1.0.0.208
 	url = git@github.com:timb-machine/uk.nhs.nhsx.colocate_1.0.0.208
+[submodule "implementation/android/COVID-19-app-Android-BETA"]
+	path = implementation/android/COVID-19-app-Android-BETA
+	url = https://github.com/nhsx/COVID-19-app-Android-BETA
+[submodule "implementation/ios/COVID-19-app-iOS-BETA"]
+	path = implementation/ios/COVID-19-app-iOS-BETA
+	url = https://github.com/nhsx/COVID-19-app-iOS-BETA
+[submodule "design/COVID-19-app-Documentation-BETA"]
+	path = design/COVID-19-app-Documentation-BETA
+	url = https://github.com/nhsx/COVID-19-app-Documentation-BETA
