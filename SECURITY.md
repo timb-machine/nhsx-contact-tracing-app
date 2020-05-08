@@ -12,13 +12,9 @@ The operators of this repository are not responsible for your actions or any con
 
 ## Reporting a Vulnerability
 
+You can find NHSX's guidance on vulnerability reporting for the app here:
+
+* https://github.com/nhsx/COVID-19-app-iOS-BETA/blob/master/SECURITY.md
+* https://github.com/nhsx/COVID-19-app-Android-BETA/blob/master/SECURITY.md
+
 In the event that you discover a serious, or not so serious security vulnerability with the NHSX contact tracing application, we would recommend that you report this via the proper channels.
-
-NHS Digital can be reached at:
-
-* https://digital.nhs.uk/cyber-and-data-security/incidents-and-alerts/report-an-incident
-* carecert@nhsdigital.nhs.uk.
-
-Alternatively, the NCSC incident team can be reached at:
-
-* https://www.ncsc.gov.uk/section/about-ncsc/incident-management
