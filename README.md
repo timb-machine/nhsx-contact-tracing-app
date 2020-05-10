@@ -6,17 +6,10 @@
 
 ## Structure
 
-* advocacy - non-technical analysis, press briefings etc
-* advocacy/nuffieldbioethics - content from Nuffield Bioethics
-* advocacy/osf - content from Open Society Foundation
-* advocacy/hmg-briefing - content from HMG
-* advocacy/nhsx-briefing - content from NHSX
-* advocacy/correspondance - 3rd party correspondance, letters to responsible parties etc
-* advocacy/correspondance/org - correspondance from Open Rights Group
+* advocacy - analysis, press briefings from informed parties etc
+* advocacy/correspondance - 3rd party correspondance from informed parties to responsible parties etc
 * alternate-implementations - source code for alternate implementations
-* alternate-implementations/au - source code for Australian implementations
-* alternate-implementations/opentrace - source code for Open Trace implementations
-* design - reveiw of design
+* design - review of design
 * design/protocol - review of Bluetooth protocol
 * design/protocol/crypto - review of crypto specific aspects
 * design/use-cases - review of use cases
@@ -28,9 +21,6 @@
 * implementation/android - review of Android implementation
 * opensource-research - any other useful content in the public domain
 * opensource-research/press - content from the press
-* opensource-research/press/theregister - content from The Register
-* opensource-research/press/hsj - content from HSJ
-* opensource-research/press/wired - content from Wired
 
 Suggest we use the issue tracker to document dominant themes and link the the folder contents as appropriate.
 
