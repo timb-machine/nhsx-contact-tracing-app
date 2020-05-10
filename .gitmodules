@@ -19,6 +19,6 @@
 [submodule "design/COVID-19-app-Documentation-BETA"]
 	path = design/COVID-19-app-Documentation-BETA
 	url = https://github.com/nhsx/COVID-19-app-Documentation-BETA
-[submodule "alternate-implementations/Smittestopp-dekompilert"]
+[submodule "alternate-implementations/no/Smittestopp-dekompilert"]
 	path = alternate-implementations/no/Smittestopp-dekompilert
 	url = https://github.com/petterroea/Smittestopp-dekompilert
