@@ -1,0 +1,923 @@
+
+<!doctype html>
+<!--[if lte IE 8 ]><html lang="en" class="ie8"><![endif]-->
+<!--[if lte IE 9 ]><html lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, maximum-scale=1, width=device-width">
+    <title>Data protection impact assessments | ICO</title>
+    <!-- eGov metadata : mandatory data -->
+    <!-- this however is not valid html5 -->
+    <meta name="DC.Subject" content="Data protection impact assessments" />
+    <meta name="DC.Date" content="Wednesday, April 15, 2020" />
+    <meta name="DC.Creator" content="" />
+    <meta name="DC.Publisher" content="ICO" />
+    <meta name="DC.Title" content="Data protection impact assessments" />
+    <meta name="DC.PageID" content="29045" />
+    <!-- / eGov -->
+    <!-- Open Graph etc. -->
+<meta property="og:title" content="Data protection impact assessments" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/" />
+<meta property="og:description" content="A Data Protection Impact Assessment (DPIA) is a process to help you identify and minimise the data protection risks of a project." />
+<meta property="og:image" content="https://ico.org.uk/media/2258851/a-and-g-dpias-1000x671.gif"/>
+<meta name="twitter:title" content="Data protection impact assessments" />
+<meta name="twitter:description" content="A Data Protection Impact Assessment (DPIA) is a process to help you identify and minimise the data protection risks of a project." />
+    <meta name="twitter:image" content="https://ico.org.uk/media/2258851/a-and-g-dpias-1000x671.gif" />
+    <meta name="twitter:card" content="summary_large_image" />
+<!-- / Open Graph etc. -->
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    
+<link href="/cassette.axd/stylesheet/3e5d45bc586964ecef2239a933d5193aea297589/css" type="text/css" rel="stylesheet"/>
+
+
+
+
+    
+<script src="/cassette.axd/script/5ee23aacdf970dd872941ccf4f703a43bccb2949/scripts/responsive-nav.min.js" type="text/javascript"></script>
+<script src="/cassette.axd/script/3931ca66220cf9911d3043ef7abcd67aac6e32cf/scripts/jquery" type="text/javascript"></script>
+<!--[if lte IE 8]>
+<script src="/cassette.axd/script/2f2e856f3b00460e54a01f364f2482acbd54a5fc/scripts/ie" type="text/javascript"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+<script src="/cassette.axd/script/eb24a0e4caf041a10f8dbec19a33d202e3798e6b/scripts/ie9" type="text/javascript"></script>
+<![endif]-->
+
+    <!-- Release: ICOUmbraco.20200331.1-1 -->
+</head>
+<body id="top">
+    <a class="link-skiptocontent invisible" href="#startcontent">Skip to main content <span class="icon-arrow-down"></span></a>
+    <header role="banner">
+        <div class="container-header">
+            <div class="container row">
+                <div class="column column-3 siteheader-logo">
+                    <a href="/"><span class="invisible">ICO: Information Commissioner's Office</span></a>
+                </div>
+                <div class="column column-6 siteheader-strapline h4">
+                    <p>The UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.</p>
+                </div>
+                <a href="" class="button-icon" id="toggle-siteheader-search"><span class="icon-search"></span><span class="invisible">Search</span><span class="icon-close"></span></a>
+                <form action="https://icosearch.ico.org.uk/s/search.html" method="GET" class="column column-3" id="siteheader-search" role="search">
+                    <fieldset>
+                        <legend class="invisible">Search</legend>
+                        <p>
+                            <label for="search" class="invisible">Search</label>
+                            <input type="search" id="search" name="query">
+                            <input type="hidden" name="collection" value="ico-meta" />
+                            <input type="hidden" name="profile" value="_default" />
+                            <span class="button-icon icon-search"></span>
+                            <input type="submit" value="Search">
+                        </p>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+        <div class="container-navigation">
+            <div class="container row">
+                <nav class="column column-12" role="navigation">
+                    <ul>
+    <li class="h3 theme-home">
+        <a href="/">Home<span class="icon-arrow-right"></span></a>
+    </li>
+    <li class="h3 theme-public">
+        <a href="/your-data-matters/">Your data matters<span class="icon-arrow-right"></span></a>
+    </li>
+    <li class="h3 theme-organisations">
+        <a href="/for-organisations/" class="current">For organisations<span class="icon-arrow-right"></span></a>
+    </li>
+    <li class="h3 theme-report">
+        <a href="/make-a-complaint/">Make a complaint<span class="icon-arrow-right"></span></a>
+    </li>
+    <li class="h3 theme-action">
+        <a href="/action-weve-taken/">Action we&#39;ve taken<span class="icon-arrow-right"></span></a>
+    </li>
+    <li class="h3 theme-about">
+        <a href="/about-the-ico/">About the ICO<span class="icon-arrow-right"></span></a>
+    </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+    </header>
+    <a id="startcontent" tabindex="-1"></a>
+    <main role="main" class="theme-organisations">
+        
+<article class="container">
+    <header class="pageheader">
+        <div class="downloadandShare">
+            <div class="row">
+                <div class="column column-8">
+                        <ol class="pageheader-breadcrumb text-small clearfix">
+            <li><a href="/for-organisations/">For organisations</a></li>
+            <li><a href="/for-organisations/guide-to-data-protection/">Guide to Data Protection</a></li>
+            <li><a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/">Guide to the General Data Protection Regulation (GDPR)</a></li>
+            <li><a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/">Accountability and governance</a></li>
+    </ol>
+
+                    <h1 id="multipage-heading">Data protection impact assessments</h1>
+                    <div id="multipage-snippet">
+                        
+
+                    </div>
+                </div>
+                <div class="pageheader-download column column-4 column-indent-1">
+                    <a href="#" id="toggle-hiddenpanel-headershare"><span class="h4">Share<span class="invisible">(Opens Share panel)</span></span><span class="button-circle"><span class="icon-share"></span></span></a>
+                            <a href="#" id="toggle-hiddenpanel-download"><span class="h4">Download options<span class="invisible">(Opens download panel)</span></span><span class="button-circle"><span class="icon-download"></span></span></a>
+
+                </div>
+            </div>
+<div class="hiddenpanel clearfix toggle-right" id="hiddenpanel-headershare" aria-label="panel share" style="display: none;">
+    <h2 class="h4">Share this page</h2>
+    <ul class="clearfix">
+            <li><a href="http://www.reddit.com/submit?url=http:%2f%2fico.org.uk%2ffor-organisations%2fguide-to-data-protection%2fguide-to-the-general-data-protection-regulation-gdpr%2faccountability-and-governance%2fdata-protection-impact-assessments%2f" target="_blank" class="button-circle" title="Share via Reddit"><span class="icon-reddit"></span><span class="invisible">Share via Reddit</span></a></li>
+            <li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Data+protection+impact+assessments&amp;url=http:%2f%2fico.org.uk%2ffor-organisations%2fguide-to-data-protection%2fguide-to-the-general-data-protection-regulation-gdpr%2faccountability-and-governance%2fdata-protection-impact-assessments%2f&amp;source=Ico.org.uk" target="_blank" class="button-circle" title="Share via LinkedIn"><span class="icon-linkedin"></span><span class="invisible">Share via LinkedIn</span></a></li>
+            <li><a href="mailto:?body=http:%2f%2fico.org.uk%2ffor-organisations%2fguide-to-data-protection%2fguide-to-the-general-data-protection-regulation-gdpr%2faccountability-and-governance%2fdata-protection-impact-assessments%2f" target="_blank" class="button-circle" title="Share via email"><span class="icon-envelope"></span><span class="invisible">Share via email</span></a></li>
+    </ul>
+</div>
+
+<div class="hiddenpanel hiddenpanel-options clearfix" id="hiddenpanel-download">
+        <form method="post" action="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/" target="_blank">
+            <fieldset>
+                <legend class="invisible">Download options</legend>
+                <div class="hiddenpanel-options-row">
+                    <h2 class="h4">Pages</h2>
+                    <ul class="form-checkbox-list form-checkbox-list-buttons clearfix">
+                            <li><input type="radio" name="pages" id="pages-all" value="all" checked><label for="pages-all"><span class="icon-files"></span> All pages</label></li>
+                                                    <li><input type="radio" name="pages" id="pages-this" value="this"><label for="pages-this"><span class="icon-file"></span> This page</label></li>
+                    </ul>
+                </div>
+                <div class="hiddenpanel-options-row">
+                    <h2 class="h4">Format</h2>
+                    <ul class="form-checkbox-list form-checkbox-list-buttons clearfix">
+                            <li><input type="radio" name="format" id="format-pdf" value="pdf" checked><label for="format-pdf"><span class="icon-file-pdf"></span> PDF</label></li>
+                        
+                    </ul>
+                </div>
+                <button class="button">Download <span class="icon-download"></span></button>
+            </fieldset>
+        </form>
+</div>
+
+        </div>
+    </header>
+    <div class="row">
+<aside class="toc toc-multipage column column-3">
+    <nav>
+        <form method="GET" class="toc-search">
+            <p>
+                <label for="toc-search" class="invisible">Search article</label>
+                <input type="search" id="toc-search" name="q" placeholder="Search this document">
+                <span class="button-icon icon-search" id="toc-search-button-icon"></span>
+                <span class="button-icon icon-search icon-spinner animate-spin" id="toc-search-progress-icon" style="display: none;"></span>
+                <input type="submit" id="toc-search-button" value="Search">
+            </p>
+        </form>
+                            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/" class="">
+                            About the Guide to the GDPR
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/whats-new/" class="">
+                            What&#39;s new
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/" class="">
+                            Key definitions
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/what-is-personal-data/" class="">
+                            What is personal data?
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/controllers-and-processors/" class="">
+                            Controllers and processors
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/" class="">
+                            Principles
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/lawfulness-fairness-and-transparency/" class="">
+                            Lawfulness, fairness and transparency
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/purpose-limitation/" class="">
+                            Purpose limitation
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/data-minimisation/" class="">
+                            Data minimisation
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/accuracy/" class="">
+                            Accuracy
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/storage-limitation/" class="">
+                            Storage limitation
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/integrity-and-confidentiality-security/" class="">
+                            Integrity and confidentiality (security)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/accountability-principle/" class="">
+                            Accountability principle
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/" class="">
+                            Lawful basis for processing
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/consent/" class="">
+                            Consent
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/" class="">
+                            Contract
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/legal-obligation/" class="">
+                            Legal obligation
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/vital-interests/" class="">
+                            Vital interests
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/public-task/" class="">
+                            Public task
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/legitimate-interests/" class="">
+                            Legitimate interests
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/" class="">
+                            Special category data
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/criminal-offence-data/" class="">
+                            Criminal offence data
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/" class="">
+                            Individual rights
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-be-informed/" class="">
+                            Right to be informed
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-of-access/" class="">
+                            Right of access
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-rectification/" class="">
+                            Right to rectification
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/" class="">
+                            Right to erasure
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-restrict-processing/" class="">
+                            Right to restrict processing
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability/" class="">
+                            Right to data portability
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/" class="">
+                            Right to object
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/rights-related-to-automated-decision-making-including-profiling/" class="">
+                            Rights related to automated decision making including profiling
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/" class="">
+                            Accountability and governance
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/contracts/" class="">
+                            Contracts
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/documentation/" class="">
+                            Documentation
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/" class="">
+                            Data protection by design and default
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/" class="current">
+                            Data protection impact assessments
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers/" class="">
+                            Data protection officers
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/codes-of-conduct/" class="">
+                            Codes of conduct
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/certification/" class="">
+                            Certification
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-fee/" class="">
+                            Data protection fee
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/security/" class="">
+                            Security
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/security/encryption/" class="">
+                            Encryption
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/security/passwords-in-online-services/" class="">
+                            Passwords in online services
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/" class="">
+                            Personal data breaches
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers/" class="">
+                            International transfers
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/" class="">
+                            Exemptions
+                        </a>
+            <ul>
+                    <li>
+                        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/immigration-exemption/" class="">
+                            Immigration exemption
+                        </a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+    </nav>
+</aside>
+
+        <div class="maincolumn column column-8 column-indent-1">
+        <div class="article-content">
+            <p>Click here for a sample <a data-id="36081" href="/media/for-organisations/documents/2553993/dpia-template.docx" target="_blank" class="link-external">DPIA Template<span class="invisible"></span></a><br>Click here to <a href="#dpia5">contact the ICO about your DPIA </a></p>
+<h2>At a glance</h2>
+<ul>
+<li>A Data Protection Impact Assessment (DPIA) is a process to help you identify and minimise the data protection risks of a project.</li>
+<li>You must do a DPIA for processing that is <strong>likely to result in a high risk</strong> to individuals. This includes some specified types of processing. You can use our screening checklists to help you decide when to do a DPIA.</li>
+<li>It is also good practice to do a DPIA for any other major project which requires the processing of personal data.</li>
+<li>Your DPIA must:
+<ul>
+<li>describe the nature, scope, context and purposes of the processing;</li>
+<li>assess necessity, proportionality and compliance measures;</li>
+<li>identify and assess risks to individuals; and</li>
+<li>identify any additional measures to mitigate those risks.</li>
+</ul>
+</li>
+<li>To assess the level of risk, you must consider both the likelihood and the severity of any impact on individuals. High risk could result from either a high probability of some harm, or a lower possibility of serious harm.</li>
+<li>You should consult your data protection officer (if you have one) and, where appropriate, individuals and relevant experts. Any processors may also need to assist you.</li>
+<li>If you identify a high risk that you cannot mitigate, you must consult the ICO before starting the processing.</li>
+<li>If you are processing for law-enforcement purposes, you should read this alongside the <a data-id="30941" href="/for-organisations/guide-to-data-protection/guide-to-law-enforcement-processing/" title="Guide to Law Enforcement Processing (Part 3 of the DP Act 2018)">Guide to Law Enforcement Processing</a>.</li>
+<li>The ICO will give written advice within eight weeks, or 14 weeks in complex cases. If appropriate, we may issue a formal warning not to process the data, or ban the processing altogether.</li>
+</ul>
+<h2><a id="checklists"></a>Checklists</h2>
+<h3>DPIA awareness checklist</h3>
+<div class="example example-letter">
+<p><span>☐ </span>We provide training so that our staff understand the need to consider a DPIA at the early stages of any plan involving personal data.</p>
+<p><span>☐ </span>Our existing policies, processes and procedures include references to DPIA requirements.</p>
+<p><span>☐ </span>We understand the types of processing that require a DPIA, and use the screening checklist to identify the need for a DPIA, where necessary.</p>
+<p><span>☐ </span>We have created and documented a DPIA process.</p>
+<p><span>☐ </span>We provide training for relevant staff on how to carry out a DPIA.</p>
+</div>
+<h3>DPIA screening checklist</h3>
+<div class="example example-letter">
+<p><span>☐ We consider carrying out a DPIA in any major project involving the use of personal data.</span></p>
+<p><span>☐ We consider whether to do a DPIA if we plan to carry out any other:</span></p>
+<p style="padding-left: 30px;"><span>☐ evaluation or scoring;</span></p>
+<p style="padding-left: 30px;"><span>☐ automated decision-making with significant effects;</span></p>
+<p style="padding-left: 30px;"><span>☐ systematic monitoring;</span></p>
+<p style="padding-left: 30px;"><span>☐ processing of sensitive data or data of a highly personal nature;</span></p>
+<p style="padding-left: 30px;"><span>☐ processing on a large scale;</span></p>
+<p style="padding-left: 30px;"><span>☐ processing of data concerning vulnerable data subjects;</span></p>
+<p style="padding-left: 30px;"><span>☐ innovative technological or organisational solutions;</span></p>
+<p style="padding-left: 30px;"><span>☐ processing that involves preventing data subjects from exercising a right or using a service or contract</span>.</p>
+<p><span>☐ We always carry out a DPIA if we plan to</span>:</p>
+<p style="padding-left: 30px;"><span>☐ use systematic and extensive profiling or automated decision-making to make significant decisions about people;</span></p>
+<p style="padding-left: 30px;"><span>☐ process special-category data or criminal-offence data on a large scale;</span></p>
+<p style="padding-left: 30px;"><span>☐ systematically monitor a publicly accessible place on a large scale;</span></p>
+<p style="padding-left: 30px;"><span>☐<span> use innovative technology in combination with any of the criteria in the European guidelines;</span></span></p>
+<p style="padding-left: 30px;"><span>☐ use profiling, automated decision-making or special category data to help make decisions on someone’s access to a service, opportunity or benefit;</span></p>
+<p style="padding-left: 30px;"><span>☐<span> carry out profiling on a large scale</span>;</span></p>
+<p style="padding-left: 30px;"><span>☐ process biometric or genetic data in combination with any of the criteria in the European guidelines;</span></p>
+<p style="padding-left: 30px;"><span>☐<span> combine, compare or match data from multiple sources; </span></span></p>
+<p style="padding-left: 30px;"><span>☐ process personal data without providing a privacy notice directly to the individual in combination with any of the criteria in the European guidelines;</span></p>
+<p style="padding-left: 30px;"><span>☐<span> process personal data in a way that involves tracking individuals’ online or offline location or behaviour, in combination with any of the criteria in the European guidelines</span>;</span></p>
+<p style="padding-left: 30px;"><span>☐<span> process children’s personal data for profiling or automated decision-making or for marketing purposes, or offer online services directly to them;</span></span></p>
+<p style="padding-left: 30px;"><span><span>☐<span> process personal data that could result in a risk of physical harm in the event of a security breach.</span></span></span></p>
+<p><span>☐ We carry out a new DPIA if there is a change to the nature, scope, context or purposes of our processing.</span></p>
+<p><span>☐ </span>If we decide not to carry out a DPIA, we document our reasons.</p>
+</div>
+<h3>DPIA process checklist</h3>
+<div class="example example-letter">
+<p><span>☐ </span>We describe the nature, scope, context and purposes of the processing.</p>
+<p><span>☐ </span>We ask our data processors to help us understand and document their processing activities and identify any associated risks.</p>
+<p><span>☐ </span>We consider how best to consult individuals (or their representatives) and other relevant stakeholders.</p>
+<p><span>☐ </span>We ask for the advice of our data protection officer.</p>
+<p><span>☐ We check that the processing is necessary for and proportionate to our purposes, and describe how we will ensure compliance with data protection principles</span>.</p>
+<p><span>☐ </span>We do an <a href="https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/how-do-we-carry-out-a-dpia/#how9">objective assessment</a> of the likelihood and severity of any risks to individuals’ rights and interests.</p>
+<p><span>☐ </span>We identify measures we can put in place to eliminate or reduce high risks.</p>
+<p><span>☐ We record our decision-making in the outcome of the DPIA, including any difference of opinion with our DPO or individuals consulted.</span></p>
+<p><span>☐ </span>We implement the measures we identified, and integrate them into our project plan.</p>
+<p><span>☐ </span>We consult the ICO before processing, if we cannot mitigate high risks.</p>
+<p><span>☐ </span>We keep our DPIAs under review and revisit them when necessary.</p>
+</div>
+<h3>Have we written a good DPIA?</h3>
+<p>A good DPIA helps you to evidence that:</p>
+<ul>
+<li>you have considered the risks related to your intended processing; and</li>
+<li>you have met your broader data protection obligations.</li>
+</ul>
+<p>This checklist will help ensure you have written a good DPIA.</p>
+<p>We have:</p>
+<div class="example example-letter">
+<p><span>☐ confirmed whether the DPIA is a review of pre-GDPR processing or covers intended processing, including timelines in either case;</span></p>
+<p><span>☐ explained why we needed a DPIA, detailing the types of intended processing that made it a requirement;</span></p>
+<p><span>☐ structured the document clearly, systematically and logically;</span></p>
+<p><span>☐ written the DPIA in plain English, with a non-specialist audience in mind, explaining any technical terms and acronyms we have used;</span></p>
+<p><span>☐ set out clearly the relationships between controllers, processors, data subjects and systems, using both text and data-flow diagrams where appropriate;</span></p>
+<p><span>☐ ensured that the specifics of any flows of personal data between people, systems, organisations and countries have been clearly explained and presented;</span></p>
+<p><span>☐ explicitly stated how we are complying with each of the Data Protection Principles under GDPR and clearly explained our lawful basis for processing (and special category conditions if relevant);</span></p>
+<p><span>☐ explained how we plan to support the relevant information rights of our data subjects;</span></p>
+<p><span>☐ identified all relevant risks to individuals’ rights and freedoms, assessed their likelihood and severity, and detailed all relevant mitigations;</span></p>
+<p><span>☐ explained sufficiently how any proposed mitigation reduces the identified risk in question;</span></p>
+<p><span>☐ evidenced our consideration of any less risky alternatives to achieving the same purposes of the processing, and why we didn’t choose them; </span></p>
+<p><span>☐ given details of stakeholder consultation (e.g. data subjects, representative bodies) and included summaries of findings;</span></p>
+<p><span>☐ attached any relevant additional documents we reference in our DPIA, e.g. Privacy Notices, consent documents;</span></p>
+<p><span>☐ recorded the advice and recommendations of our DPO (where relevant) and ensured the DPIA is signed off by the appropriate people;</span></p>
+<p><span>☐ agreed and documented a schedule for reviewing the DPIA regularly or when we change the nature, scope, context or purposes of the processing;</span></p>
+<p><span>☐ consulted the ICO if there are residual high risks we cannot mitigate<span>.</span></span></p>
+</div>
+<h2><span><span>In brief</span></span></h2>
+<ul>
+<li><a href="#dpia1">What’s new under the GDPR?</a></li>
+<li><a href="#dpia2">What is a DPIA?</a></li>
+<li><a href="#dpia3">When do we need a DPIA?</a></li>
+<li><a href="#dpia4">How do we carry out a DPIA?</a></li>
+<li><a href="#dpia5">Do we need to consult the ICO?</a></li>
+<li><a data-id="31822" href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/" title="Data Protection Impact Assessments (DPIAs)">In more detail</a></li>
+</ul>
+<h3><a id="dpia1"></a>What’s new under the GDPR?</h3>
+<p>The GDPR introduces a new obligation to do a DPIA before carrying out types of processing likely to result in high risk to individuals’ rights and freedoms. If your DPIA identifies a high risk you cannot mitigate, you must consult us.</p>
+<p>This is a key part of the new focus on accountability and data protection by design.</p>
+<p>Some organisations already do privacy impact assessments (PIAs) as a matter of good practice. If so, the concept will be familiar, but you still need to review your processes to make sure they comply with GDPR requirements. DPIAs are now mandatory in some cases, and there are specific legal requirements for content and process.</p>
+<p>If you do not already have a PIA process, you need to design a new DPIA process and embed it into your policies and procedures.</p>
+<p>You also need to review your existing processing operations and decide whether you need to do a DPIA, or review your PIA, for anything that is likely to be high risk. You do not need to do a DPIA if you have already considered the relevant risks and safeguards in another way, unless there has been a significant change to the nature, scope, context or purposes of the processing since that previous assessment.</p>
+<h3><a id="dpia2"></a>What is a DPIA?</h3>
+<p>A DPIA is a way for you to systematically and comprehensively analyse your processing and help you identify and minimise data protection risks.</p>
+<p>DPIAs should consider compliance risks, but also broader risks to the rights and freedoms of individuals, including the potential for any significant social or economic disadvantage. The focus is on the potential for harm – to individuals or to society at large, whether it is physical, material or non-material.</p>
+<p>To assess the level of risk, a DPIA must consider both the likelihood and the severity of any impact on individuals.</p>
+<p>A DPIA does not have to indicate that all risks have been eradicated. But it should help you document them and assess whether or not any remaining risks are justified.</p>
+<p>DPIAs are a legal requirement for processing that is likely to be high risk. But an effective DPIA can also bring broader compliance, financial and reputational benefits, helping you demonstrate accountability and building trust and engagement with individuals.</p>
+<p>A DPIA may cover a single processing operation or a group of similar processing operations. A group of controllers can do a joint DPIA.</p>
+<p>It’s important to embed DPIAs into your organisational processes and ensure the outcome can influence your plans. A DPIA is not a one-off exercise. You should see it as an ongoing process that is subject to regular review.</p>
+<h3><a id="dpia3"></a>When do we need a DPIA?</h3>
+<p>You must do a DPIA before you begin any type of processing that is “likely to result in a high risk”. This means that although you have not yet assessed the actual level of risk, you need to screen for factors that point to the potential for a widespread or serious impact on individuals.</p>
+<p>In particular, the GDPR says you must do a DPIA if you plan to:</p>
+<ul>
+<li>use systematic and extensive profiling with significant effects;</li>
+<li>process special category or criminal offence data on a large scale; or</li>
+<li>systematically monitor publicly accessible places on a large scale.</li>
+</ul>
+<p>When considering if your processing is likely to result in high risk, you should consider the relevant <a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236">European guidelines</a>. These define nine criteria of processing operations likely to result in high risk. While the guidelines suggest that, in most cases, any processing operation involving two or more of these criteria requires a DPIA, you may consider in your case that just meeting one criterion could require a DPIA.</p>
+<p>The ICO also requires you to do a DPIA if you plan to:</p>
+<ul>
+<li>use innovative technology (in combination with any of the criteria from the European guidelines);</li>
+<li>use profiling or special category data to decide on access to services;</li>
+<li>profile individuals on a large scale;</li>
+<li>process biometric data (in combination with any of the criteria from the European guidelines);</li>
+<li>process genetic data (in combination with any of the criteria from the European guidelines);</li>
+<li>match data or combine datasets from different sources;</li>
+<li>collect personal data from a source other than the individual without providing them with a privacy notice (‘invisible processing’) (in combination with any of the criteria from the European guidelines);</li>
+<li>track individuals’ location or behaviour (in combination with any of the criteria from the European guidelines);</li>
+<li>profile children or target marketing or online services at them; or</li>
+<li>process data that might endanger the individual’s physical health or safety in the event of a security breach.</li>
+</ul>
+<p>You should also think carefully about doing a DPIA for any other processing that is large scale, involves profiling or monitoring, decides on access to services or opportunities, or involves sensitive data or vulnerable individuals.</p>
+<p>Even if there is no specific indication of likely high risk, it is good practice to do a DPIA for any major new project involving the use of personal data. You can use or adapt the <a href="#checklists">checklists</a> to help you carry out this screening exercise.</p>
+<h3><a id="dpia4"></a>How do we carry out a DPIA?</h3>
+<p>A DPIA should begin early in the life of a project, before you start your processing, and run alongside the planning and development process. It should include these steps:</p>
+<p><img id="__mcenew" src="/media/images/graphics/2258436/dpia1.png" alt="" data-id="30760"></p>
+<p>You must seek the advice of your data protection officer (if you have one). You should also consult with individuals and other stakeholders throughout this process.</p>
+<p>The process is designed to be flexible and scalable. You can use or adapt our <a data-id="36081" href="/media/for-organisations/documents/2553993/dpia-template.docx" target="_blank" title="DPIA template" class="link-external">sample DPIA template<span class="invisible"></span></a>, or create your own. If you want to create your own, you may want to refer to the European guidelines which set out <a href="http://ec.europa.eu/newsroom/document.cfm?doc_id=47711">Criteria for an acceptable DPIA</a></p>
+<p>Although publishing a DPIA is not a requirement of GDPR, you should actively consider the benefits of publication. As well as demonstrating compliance, publication can help engender trust and confidence.  We would therefore recommend that you publish your DPIAs, where possible, removing sensitive details if necessary.</p>
+<h3><a id="dpia5"></a>Do we need to consult the ICO?</h3>
+<p>You don’t need to send every DPIA to the ICO and we expect the percentage sent to us to be small. But you must consult the ICO if your DPIA identifies a high risk and you cannot take measures to reduce that risk. You cannot begin the processing until you have consulted us.</p>
+<p>If you want your project to proceed effectively then investing time in producing a comprehensive DPIA may prevent any delays later, if you have to consult with the ICO.</p>
+<p>You need to <a href="mailto:dpiaconsultation@ico.org.uk">send us</a> a copy of your DPIA.</p>
+<p>Once we have the information we need, we will generally respond within eight weeks (although we can extend this by a further six weeks in complex cases).</p>
+<p>We will provide you with a written response advising you whether the risks are acceptable, or whether you need to take further action. In some cases we may advise you not to carry out the processing because we consider it would be in breach of the GDPR. In appropriate cases we may issue a formal warning or take action to ban the processing altogether.</p>
+
+        </div>
+<aside class="aside-further">
+        <h2 class="offscreen">Further Reading</h2>
+            <ul>
+                <li>
+                    <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1528874672298&amp;uri=CELEX:02016R0679-20160504" target="_blank">
+                        <h3 class="h4 link-external">Relevant provisions in the GDPR - See Articles 35 and 36 and Recitals 74-77, 84, 89-92, 94 and 95<span class="invisible"></span></h3>
+                            <div class="text-small">
+                                    <p>External link</p>
+                            </div>
+                        <span class="icon-external-link"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.gov.uk/government/publications/data-protection-impact-assessments-for-surveillance-cameras" target="_blank">
+                        <h3 class="h4 link-external">Joint Surveillance Camera Commissioner /ICO guidance on Data protection impact assessments for surveillance camera systems<span class="invisible"></span></h3>
+                            <div class="text-small">
+                                    <p>External link</p>
+                            </div>
+                        <span class="icon-external-link"></span>
+                    </a>
+                </li>
+        </ul>
+</aside>        <div class="article-content">
+            
+<div class="greenBlock">
+<p><strong>In more detail – ICO guidance</strong></p>
+<p>We have published <a data-id="31822" href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/" title="Data Protection Impact Assessments (DPIAs)">more detailed guidance on DPIAs</a>.</p>
+</div>
+<p> </p>
+<div class="amberBlock">
+<p><strong>In more detail – European Data Protection Board </strong></p>
+<p>WP29 produced <a href="https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236">guidelines on data protection impact assessments</a>, which have been endorsed by the EDPB.</p>
+<p>Other relevant guidelines include:</p>
+<p><a href="http://ec.europa.eu/newsroom/document.cfm?doc_id=44100">Guidelines on Data Protection Officers (‘DPOs’) (WP243)</a></p>
+<p><a href="http://ec.europa.eu/newsroom/article29/document.cfm?doc_id=49826">Guidelines on automated individual decision-making and profiling for the purposes of Regulation 2016/679 (WP251)</a></p>
+</div>
+        </div>
+
+<nav class="article-navigation">
+    <a href="#top" class="button-circle" title="Back to top" id="button-top"><span class="icon-arrow-up"></span><span class="invisible">Back to top</span></a>
+        <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/" class="button button-icon-left button-previous"><span class="icon-arrow-left"></span> Previous</a>
+            <a href="/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers/" class="button button-next button-right">Next <span class="icon-arrow-right"></span></a>
+</nav>
+
+        </div>
+
+
+    </div>
+</article>
+
+    </main>
+
+    <footer role="contentinfo">
+    
+
+
+<div class="footer-sociallinks container row">
+    <div class="footer-sociallinks-links footer-sociallinks-links--left column column-2">
+        <ul class="">
+            <li><a href="#" class="button-circle" title="Share this page" id="toggle-hiddenpanel-share"><span class="icon-share"></span><span class="invisible">Share this page (Opens share panel)</span></a></li>
+            <li><a href="javascript:window.print()" class=" button-circle" title="Print this page"><span class="icon-print"></span><span class="invisible">Print this page</span></a></li>
+                <li><a href="/global/rss-feeds/" class="button-circle" title="RSS feeds"><span class="icon-feed"></span><span class="invisible">RSS feeds</span></a></li>
+        </ul>
+    </div>
+
+        <div class="footer-sociallinks-language column column-2 language-dropdown-container" role="navigation">            
+
+            <div class="language-dropdown-tab-controls dropdown" >
+                <a href="#" class="visible-xs mobile-tabcontrol" title="Language Selector" role="button" aria-haspopup="true" aria-expanded="false" data-target="[langSelector__nav]">
+
+                    <ul class="globe-list">
+                        <li class="button-circle globe" title="Language"> <span class="icon-globe"></span></li>
+                    </ul>
+
+                    <span class="dropdown-label">English</span>
+                    <span class="chevron down"></span>
+                </a>
+
+                <ul class="nav nav-tabs" role="tablist" data-name="langSelector__nav">
+                    <li role="presentation" class="tab active">
+                        <a rel="nofollow" href="https://ico.org.uk" name="English" class="content language-item" role="tab">English</a>
+                    </li>
+                    <li role="presentation" class="tab">
+                        <a rel="nofollow" href="https://cy.ico.org.uk" name="Welsh" class="content language-item" role="tab">Cymraeg</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+    <div class="footer-sociallinks-links footer-sociallinks-links--right column column-4">
+        <ul class="clearfix">
+                <li><a href="https://twitter.com/iconews" target="_blank" class="button-circle" title="Follow us on Twitter"><span class="icon-twitter"></span><span class="invisible">Follow us on Twitter</span></a></li>
+                <li><a href="http://facebook.com/ICOnews" target="_blank" class="button-circle" title="Like us on Facebook"><span class="icon-facebook"></span><span class="invisible">Like us on Facebook</span></a></li>
+                <li><a href="http://linkedin.com/company/information-commissioner&#39;s-office" target="_blank" class="button-circle" title="Connect with us on Linkedin"><span class="icon-linkedin"></span><span class="invisible">Connect with us on Linkedin</span></a></li>
+                <li><a href="http://www.youtube.com/user/icocomms" target="_blank" class="button-circle" title="Watch us on YouTube"><span class="icon-youtube"></span><span class="invisible">Watch us on YouTube</span></a></li>
+        </ul>
+
+    </div>
+    <div class="hiddenpanel clearfix" id="hiddenpanel-share">
+        <h2 class="h4">Share this page</h2>
+        <ul class="clearfix">
+                <li><a href="http://www.reddit.com/submit?url=http:%2f%2fico.org.uk%2ffor-organisations%2fguide-to-data-protection%2fguide-to-the-general-data-protection-regulation-gdpr%2fprinciples%2f" target="_blank" class="button-circle" title="Share via Reddit"><span class="icon-reddit"></span><span class="invisible">Share via Reddit</span></a></li>
+                <li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=The+principles&amp;url=http:%2f%2fico.org.uk%2ffor-organisations%2fguide-to-data-protection%2fguide-to-the-general-data-protection-regulation-gdpr%2fprinciples%2f&amp;source=Ico.org.uk" target="_blank" class="button-circle" title="Share via LinkedIn"><span class="icon-linkedin"></span><span class="invisible">Share via LinkedIn</span></a></li>
+                <li><a href="mailto:?body=http:%2f%2fico.org.uk%2ffor-organisations%2fguide-to-data-protection%2fguide-to-the-general-data-protection-regulation-gdpr%2fprinciples%2f" target="_blank" class="button-circle" title="Share via email"><span class="icon-envelope"></span><span class="invisible">Share via email</span></a></li>
+        </ul>
+    </div>
+
+        <a href="/about-the-ico/news-and-events/e-newsletter/" class="footer-sociallinks-newsletter"><span class="h4">Subscribe to our e-newsletter</span><span class="button-circle"><span class="icon-envelope"></span></span></a>
+            <a href="javascript:;" class="footer-sociallinks-listen toggle-browse-aloud"><span class="h4">Listen or translate</span><span class="button-circle"><span class="icon-listen"></span></span></a>
+        <div id="__ba_panel"></div>
+
+        <div class="footer-sociallinks-language--mobile language-dropdown-container" role="navigation">
+
+            <div class="language-dropdown-tab-controls dropdown">
+                <a href="#" class="visible-xs mobile-tabcontrol" title="Language Selector" role="button" aria-haspopup="true" aria-expanded="false" data-target="[langSelector__nav--mobile]">
+
+                    <ul class="globe-list">
+                        <li class="button-circle globe" title="Language"><span class="icon-globe"></span></li>
+                    </ul>
+
+                    <span class="dropdown-label">English</span>
+                    <span class="chevron down"></span>
+                </a>
+
+                <ul class="nav nav-tabs" role="tablist" data-name="langSelector__nav--mobile">
+                    <li role="presentation" class="tab active">
+                        <a rel="nofollow" href="https://ico.org.uk" name="English" class="content language-item" role="tab">English</a>
+                    </li>
+                    <li role="presentation" class="tab">
+                        <a rel="nofollow" href="https://cy.ico.org.uk" name="Welsh" class="content language-item" role="tab">Cymraeg</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+</div>
+
+   
+    <div class="container-sitemap">
+        <div class="container row">
+            <div class="column column-2">
+                <a href="/" class="footer-sitemap-logo"><span class="invisible">ICO: Information Commissioner's Office</span></a>
+            </div>
+                <div class="column column-2">
+                        <h2 class="h4"><a href="/your-data-matters/">Your data matters</a></h2>
+                    <ul class="text-small">
+                            <li><a href="/your-data-matters/official-information/">Official information</a></li>
+                            <li><a href="/your-data-matters/nuisance-calls/">Nuisance calls</a></li>
+                    </ul>
+                </div>
+                <div class="column column-2">
+                        <h2 class="h4"><a href="/for-organisations/">For organisations</a></h2>
+                    <ul class="text-small">
+                            <li><a href="/for-organisations/guide-to-data-protection/">Guide to Data Protection</a></li>
+                            <li><a href="/for-organisations/guide-to-freedom-of-information/">Guide to FOI</a></li>
+                            <li><a href="/for-organisations/guide-to-pecr/">Guide to PECR</a></li>
+                    </ul>
+                </div>
+                <div class="column column-2">
+                        <h2 class="h4"><a href="/action-weve-taken/">Action we&#39;ve taken</a></h2>
+                    <ul class="text-small">
+                            <li><a href="/action-weve-taken/enforcement/">Enforcement action</a></li>
+                            <li><a href="https://icosearch.ico.org.uk/s/search.html?collection=ico-meta&amp;profile=decisions&amp;query">Decision notices</a></li>
+                            <li><a href="/action-weve-taken/audits-and-overview-reports/">Audits</a></li>
+                    </ul>
+                </div>
+                <div class="column column-2">
+                        <h2 class="h4"><a href="/about-the-ico/">About the ICO</a></h2>
+                    <ul class="text-small">
+                            <li><a href="/about-the-ico/who-we-are/">Who we are</a></li>
+                            <li><a href="/about-the-ico/what-we-do/">What we do</a></li>
+                            <li><a href="/about-the-ico/news-and-events/">News and events</a></li>
+                            <li><a href="/about-the-ico/jobs/">Jobs</a></li>
+                    </ul>
+                </div>
+        </div>
+    </div>
+        <div class="container-strapline">
+            <div class="container row">
+                <div class="column column-12 h4">
+                    <p>The UK’s independent authority set up to <a href="/about-the-ico/" title="About the ICO">uphold information rights in the public interest</a>, promoting openness by public bodies and data privacy for individuals.</p>
+                </div>
+            </div>
+        </div>
+    <div class="container-footerlinks">
+        <div class="container row">
+            <div class="column column-12">
+                <ul class="clearfix">
+                        <li><a href="/global/copyright-and-re-use-of-materials/">&#169; Copyright</a></li>
+                        <li><a href="/global/privacy-notice/">Privacy notice</a></li>
+                        <li><a href="/global/cookies/">Cookies</a></li>
+                        <li><a href="/global/disclaimer/">Disclaimer</a></li>
+                        <li><a href="/global/request-publications/">Publications</a></li>
+                        <li><a href="/global/accessibility/">Accessibility</a></li>
+                        <li><a href="/global/contact-us/">Contact us</a></li>
+                </ul>
+                <p class="footerlinks-phone h2"><span class="icon-phone"></span><span class="invisible">Phone:</span> 0303 123 1113</p>
+                <div class="footer-ogl"><span class="invisible">Open Government Licence</span></div>
+                <p class="text-small">All text content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>, except where otherwise stated.
+                </p>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+    
+<script src="/cassette.axd/script/2365e94f8e5df610f06588f7819b8013cd4f685f/scripts" type="text/javascript"></script>
+
+    
+
+
+
+    <script type="text/javascript">
+
+        var config = {
+            apiKey: 'dbf86e044f3ab8c4df852af5c7c6ceb2dd7678dd',
+            product: 'PRO',
+            initialState: "open",
+            necessaryCookies: ["__ba_*", "rwe*", "language"],
+            theme: 'dark',
+            position: 'left',
+            rejectButton: true,
+            closeStyle: 'button',
+            consentCookieExpiry: 90,
+            text: {
+                notifyTitle: "Our use of cookies", notifyDescription: "We use cookies to make the site work and help us make it better. By clicking accept, weâ€™ll set recommended analytics cookies. Or, you can ignore or close this message and weâ€™ll set only the recommended ones.", accept: "Accept", reject: "Reject", settings: "Settings", necessaryTitle: "Necessary cookies", necessaryDescription: "Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.", title: "Our use of cookies", intro: "We use necessary cookies to make our site work. We\u0027d also like to set optional analytics cookies to help us improve it. We won\u0027t set optional cookies unless you enable them. Using this tool will set a cookie on your device to remember your preferences.", acceptRecommended: "", rejectSettings: "", closeLabel: "Save and close",
+            },
+            statement: {
+                description: "For more detailed information about the cookies we use, see our", name: "Cookies page", url: "/global/cookies/", updated: "21/10/2019",
+            },
+
+            branding: {
+                fontFamily: "Verdana, Helvetica, Arial, sans-serif",
+                fontColor: "#FFF",
+                fontSizeTitle: "25px",
+                fontSizeIntro: "15px",
+                fontSizeHeaders: "21px",
+                fontSize: "15px",
+                acceptBackground: "#FFF",
+                backgroundColor: "#0276A5",
+                toggleText: "#FFF",
+                toggleColor: "#0276A5",
+                toggleBackground: "#2F2F5F",
+                removeAbout: true
+            },
+            optionalCookies: [
+                {
+                    name: "analytics", label: "Analytics cookies", description: "We\u0027d like to set Google Analytics cookies to help us to improve our website by collecting and reporting information on how you use it. The cookies collect information in a way that does not directly identify anyone. For more information on how these cookies work, please see our \u0027Cookies page\u0027.", cookies: [[
+                        "_ga",
+                        "_gid",
+                        "_gali",
+                        "_gat",
+                        "__utma",
+                        "__utmt",
+                        "__utmb",
+                        "__utmc",
+                        "__utmz",
+                        "__utmv"
+                    ]], recommendedState: false, onAccept: function () { (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-1036645-1', 'auto'); ga('send', 'pageview'); (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-K2NXSZ2'); if (typeof (BrowseAloud) != "undefined") { BrowseAloud.analytics = BrowseAloud.org_analytics; } }, onRevoke: function () { window['ga-disable-UA-1036645-1'] = true; window['ga-disable-GTM-K2NXSZ2'] = true; if (typeof (BrowseAloud) != "undefined") { BrowseAloud.analytics = BrowseAloud.no_analytics; } }, lawfulBasis: "Consent",
+                },
+            ]
+        };
+
+
+        var loops = 0;
+        var threshold = 30;
+        function CookieControlInit() {
+            if (typeof CookieControl !== "undefined" && window.jQuery && $('#ccc').length > 0) {
+                if ($('header[role=banner]').length > 0) {
+                    $('#ccc').insertBefore($('header[role=banner]'));
+                    $('#ccc').css('z-index', 9999);
+                }
+                $('#ccc-optional-categories .optional-cookie').each(function () {
+                    var label = $('.optional-cookie-header', $(this)).text();
+                    var idAttr = (label.split(' ').join('_')).toLowerCase();
+                    $('<span/>', {
+                        'class': 'invisible',
+                        for: idAttr,
+                        text: label + " toggle",
+                    }).prependTo($('.checkbox-toggle-label', $(this)));
+                    $('.checkbox-toggle-input', $(this)).attr('id', idAttr);
+
+                });
+            }
+            else {
+                if (loops++ < threshold) {
+                    setTimeout(CookieControlInit, 300);
+                }
+            }
+        }
+
+        CookieControl.load(config);
+        CookieControlInit();
+
+
+        var onPageStyle = "";
+        if (config.text.acceptRecommended == "") {
+            onPageStyle += "#ccc-recommended-settings{display:none;}"
+        }
+        if (config.text.rejectSettings == "") {
+            onPageStyle += "#ccc-reject-settings{display:none;}"
+        }
+        if (onPageStyle != "") {
+            var style = document.createElement('style');
+            style.innerHTML = onPageStyle;
+            document.head.appendChild(style);
+        }
+
+    </script>
+
+<script type="text/javascript" src="//www.browsealoud.com/plus/scripts/2.5.6/ba.js" crossorigin="anonymous" integrity="sha256-X8NuYZQC0wqbawr+fUftiUH2ile2SwLdTI+UlA3xi5U= sha384-ICh3cJffpzrVSBzLR9ze6118wczTWv2DKWC2rtwTMn8c0jHcA7TLkcLHi6Taj4Dg sha512-oe6nsb+a1xer0PjQ9ttGY3m1EipoHwgB+DdQERrI7v1ubaHZ+fdrhz6MG1VB+tNiKpNFF4fyVkHbun3IORbJbg=="></script>
+
+    <script>
+        $(document).ready(function () {
+            BrowseAloud.no_analytics = { gaTrackEvent: function () { } };
+            BrowseAloud.org_analytics = BrowseAloud.analytics;
+            BrowseAloud.analytics = BrowseAloud.no_analytics;
+        });
+    </script>
+
+<script>(function () { var v = 1589136806 * 3.1415926535898; v = Math.floor(v); document.cookie = "__zjc1395="+v+"; expires=Sun, 10 May 2020 18:54:26 UTC; path=/"; })()</script></body>
+</html>
