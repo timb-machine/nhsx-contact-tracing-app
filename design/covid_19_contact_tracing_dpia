@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"488e0deb12","applicationID":"54458288","transactionName":"IVcMRUMJCVQDExwUVhNNB0JFSRZQCRY=","queueTime":0,"applicationTime":248,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={licenseKey:"488e0deb12",applicationID:"54458288"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" />
+
+    <title>
+        COVID 19 Contact Tracing DPIA - a Freedom of Information request to NHS England - WhatDoTheyKnow
+    </title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-afe76651f859e6a7b6b153def0358ae1b959842c02fdc46bc3adca58eb6395b2.ico" />
+
+
+      <!--[if LTE IE 7]>
+<link rel="stylesheet" media="all" href="/assets/responsive/application-lte-ie7-001e9f7dd9a069b62adb77fd786ea7cf8ca1500727d6d0228a5d1a0b4763ba4f.css" title="Main" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" media="all" href="/assets/responsive/application-ie8-9493f9ec47613973af39f209e5128254f56b87d305c61e391f313f557399243f.css" title="Main" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" media="all" href="/assets/responsive/application-ie8-9493f9ec47613973af39f209e5128254f56b87d305c61e391f313f557399243f.css" title="Main" />
+<![endif]-->
+
+<!--[if GT IE 8]><!-->
+<link rel="stylesheet" media="all" href="/assets/responsive/application-676ffe8a6464ff266a96a5715dec28ca2c599857ec12d25f9a37c00f7d305ae4.css" title="Main" />
+<!--<![endif]-->
+
+  <link rel="stylesheet" media="print" href="/assets/responsive/print-5515337b7df737e1523494a12aea4979743c6ccdf38f02e4d80f1a24a904564d.css" />
+
+
+        <link rel="alternate" type="application/atom+xml" title="New updates for the request 'COVID 19 Contact Tracing DPIA'" href="https://www.whatdotheyknow.com/feed/request/covid_19_contact_tracing_dpia">
+          <link rel="alternate" type="application/json" title="JSON version of New updates for the request 'COVID 19 Contact Tracing DPIA'" href="https://www.whatdotheyknow.com/feed/request/covid_19_contact_tracing_dpia.json">
+      <link rel="alternate" type="application/json" title="JSON version of this page" href="/request/covid_19_contact_tracing_dpia.json">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+<meta property="og:site_name" content="WhatDoTheyKnow" />
+
+  <meta property="og:title" content="COVID 19 Contact Tracing DPIA - a Freedom of Information request to NHS England" />
+  <meta property="og:type" content="article" />
+
+    <meta property="article:published_time" content="2020-04-29T16:26:46+01:00" />
+    <meta property="article:modified_time" content="2020-04-30T10:12:20+01:00" />
+    <meta property="og:description" content="
+
+Under the Freedom of Information Act 2000, I would like to request the following information:
+
+- Provide the Data Protection Impact Assessment (DPIA) for the COVID 19 Contact Tracking/Tracing app that has been in development by NHSX/NHS England and all associated information where applicable. If no such DPIA is currently present, explain when such one will be undertaken.
+
+- Provide information as to which organisation has performed a security audit otherwise known as &quot;penetration testing&quot; on the mobile application and any documents associated with it where possible.
+
+Yours faithfully,
+James Hemmings" />
+
+
+<meta property="og:image" content="https://www.whatdotheyknow.com/assets/logo-opengraph-7364e4f88fa3b9c60585896328afc549e121122d9e60b50dae573856772700f1.png" />
+<meta property="og:url" content="https://www.whatdotheyknow.com/request/covid_19_contact_tracing_dpia" />
+<meta property="og:image:width" content="256" />
+<meta property="og:image:height" content="256" />
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic' rel='stylesheet' type='text/css'>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57-304bd40da32195818bca2e18ca98fdc3a49888b576ce34af4cb6d6c892adf6a6.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/apple-touch-icon-60x60-4d5d77febe927a43b18fb847478dc95edbf17b7d8495f68acab043e85718581e.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon-72x72-31289f93cc88a550f49fff3e7c7a7917a2d08d8b1e27d93f79d59bb8736047cc.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/apple-touch-icon-76x76-57649f2fe461cedab452e1653f895354409cd9b7f64151459c1354c0888a0c49.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-114x114-d68b5eeeb0a995c1192621999096b11984755cdfc4409deb89f3b35b5e12070a.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/apple-touch-icon-120x120-8a239d5ee0f2f2f19237d1c1456b3954fc59279a4abf766b512e4a0f481b8a57.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-touch-icon-144x144-798d38e2c500eb26a604205b3e219330442127e8b09c0bea8b4a9a64b1807807.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-touch-icon-152x152-9c4fc8071aba0792e2b4bc4545a7ab73c8d91febcedd0eeb9fd068f9e20b2080.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon-180x180-19e51deb3c587b182086e7bd3b8858ef6401808376234870308d8ef869d84cfe.png" />
+<link rel="icon" type="image/png" href="/assets/favicon-32x32-215bb6a85e6b72ea0070966acac11dc2f4f18c6b179fc8799bb98b0b2989b48e.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/android-chrome-192x192-b7acfae912c5e7cdf83f33f385587f0b66242b3469a28badf839c5e16ad43ed3.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/favicon-96x96-eff95a88a9abaec5a521de2fec7677360a21811e4ee07b05000302533992d6fe.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/favicon-16x16-e38ba65468d18740d207daf98636545a4131fa37a2d3a6bc251c055f2d1d07f2.png" sizes="16x16">
+<link rel="manifest" href="/assets/manifest-e83baaa6f19a46b1b8722ecc1556029a61b4a6a7e173e21d963822432433b8b6.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/assets/mstile-144x144-255eacfff7df363a8d9b7c39fe04c4cdde301ccc79647ffd9c68ff1d853cd329.png">
+<meta name="msapplication-config" content="/assets/browserconfig-d192bb83a2aa383764622bbd1dcf8fdd99b5243f65ae35b8e0d0002d23cf22b0.xml">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="google-site-verification" content="DbAHEzh0igI0rZziSexQh5fTrbRfNPSw8BdmrmNY_70" />
+
+    <!-- Replace the html tag's no-js class with js -->
+    <script>
+      (function(H){
+        H.className = H.className.replace(/\bno-js\b/,'js-loaded')
+      })(document.documentElement);
+    </script>
+    
+  </head>
+  <body class=" ">
+    <div class="entirebody">
+
+    <a href="#content" class="show-with-keyboard-focus-only skip-to-link" tabindex="0">Skip to content</a>
+      <!-- begin popups -->
+        <div class="popup popup--popup popup--standard" role="alert" id="standard-popup">
+  <div class="row">
+    <div class="popup__content">
+      <strong>Delays expected - </strong>
+      The Coronavirus (COVID-19) pandemic is having an impact on response times to requests. <a href="https://www.mysociety.org/2020/04/02/freedom-of-information-during-the-pandemic/" alt="See our blog post on mySociety's website for more information (opens in a new window)">See our blog post for more information</a>.
+      <a class="popup__close js-popup__close" aria-label="Close" data-remote="true" rel="nofollow" data-method="delete" href="/announcements/15">
+        <span aria-hidden="true">&times;</span>
+</a>    </div>
+  </div>
+</div>
+
+        <div id="country-message">
+        </div>
+      <!-- end popups -->
+
+      <div class="only-show-for-print">
+  <p class="print-information">Printed from https://www.whatdotheyknow.com/request/covid_19_contact_tracing_dpia on May 10, 2020 19:58</p>
+</div>
+<div id="banner" class="banner " role="banner">
+  <div id="banner_inner" class="banner_inner">
+    <div id="banner_content" class="banner_content">
+      <div class="banner_site-title">
+        <h1><a id="logo" class="site-title__logo" href="/">WhatDoTheyKnow</a></h1>
+      </div>
+
+      <div class="rsp_menu_button">
+        <a href="#banner" class="open"> <i class="icon-menu"></i> Menu </a>
+        <a href="#" class="close"> <i class="icon-menu"></i> Close </a>
+      </div>
+
+      <div id="user_locale_switcher" class="locale-list">
+    <p class="locale-list-trigger ">
+      <strong class="current-locale">English</strong>
+    </p>
+
+    <ul class="available-languages">
+        <li class="available-languages__item">
+          <a href="/cy/request/covid_19_contact_tracing_dpia">Cymraeg</a>
+        </li>
+    </ul>
+  </div>
+        <div id="logged_in_bar" class="logged_in_bar account-link-menu-item">
+  <a class="sign_in_link" href="/profile/sign_in?r=%2Frequest%2Fcovid_19_contact_tracing_dpia">Sign in or sign up</a>
+</div>
+
+      <div id="navigation_search" class="navigation_search">
+        <form id="navigation_search_form" class="navigation_search_form" method="get" action="/search" role="search">
+          <label class="visually-hidden" for="navigation_search_button">
+            Search
+          </label>
+          <input type="search" name="query" id="navigation_search_button" class="navigation_search_button" placeholder="Search" title="type your search term here" />
+          <button type="submit">
+            <span class="visually-hidden">
+              Submit Search
+            </span>
+          </button>
+        </form>
+      </div>
+    </div>
+
+    <div id="topnav" class="topnav ">
+  <ul id="navigation" class="navigation" role="navigation">
+
+      <li class="">
+  <a id="make-request-link" href="/select_authority">Make a request</a>
+</li>
+
+<li class="selected">
+  <a href="/list/successful">Browse requests</a>
+</li>
+
+<li class="">
+  <a href="/body/list/all">View authorities</a>
+</li>
+
+  <li class=""><a href="/blog">Read blog</a></li>
+
+<li class="">
+  <a href="/help/about">Help</a>
+</li>
+
+<li class="">
+  <a href="/help/volunteers">Volunteer</a>
+</li>
+
+  </ul>
+</div>
+
+  </div>
+</div>
+
+
+
+      <div id="wrapper">
+        <div id="content" role="main">
+
+          <div id="request_show" class="controller_request">
+            
+
+
+
+
+
+
+
+
+
+  <div class="describe_state_form box" id="describe_state_form_1">
+        We don't know whether the most recent response to this request contains
+    information or not
+        &ndash;
+	if you are <a href="/user/james_hemmings">James Hemmings</a> please <a href="https://www.whatdotheyknow.com/profile/sign_in?r=%2Frequest%2Fcovid_19_contact_tracing_dpia">sign in</a> and let everyone know.
+
+
+  </div>
+
+<div class="request-header">
+  <div class="row">
+    <h1>COVID 19 Contact Tracing DPIA</h1>
+
+    <div class="request-header__action-bar-container">
+      <div class="request-header__action-bar">
+
+        <p class="request-header__subtitle ">
+              <a href="/user/james_hemmings">James Hemmings</a> made this Freedom of Information request to <a href="/body/nhs_england">NHS England</a>
+
+
+
+
+        </p>
+
+          <div class="request-header__action-bar__actions ">
+              <div id="after_actions" class="after-actions">
+  <ul class="action-menu after-actions__action-menu">
+    <li>
+      <a href="#" class="action-menu__button">Actions</a>
+
+      <ul class="action-menu__menu">
+          <li class="action-menu__menu__item">
+            <span class="action-menu__menu__heading">
+              James Hemmings
+            </span>
+
+            <ul class="action-menu__menu__submenu owner_actions">
+              <li>
+                  <a href="/request/661330/followups/new/1565846#followup">Write a reply</a>
+              </li>
+
+                <li>
+                  <a href="/request/covid_19_contact_tracing_dpia?update_status=1">Update the status of this request</a>
+                </li>
+
+              <li>
+                <a href="/request/661330/followups/new?internal_review=1#followup">Request an internal review</a>
+              </li>
+            </ul>
+          </li>
+
+        <li class="action-menu__menu__item">
+          <span class="action-menu__menu__heading">
+            NHS England
+          </span>
+
+          <ul class="action-menu__menu__submenu public_body_actions">
+            <li>
+              <a href="/upload/request/covid_19_contact_tracing_dpia">Respond to request</a>
+            </li>
+          </ul>
+        </li>
+
+        <li class="action-menu__menu__item">
+          <ul class="action-menu__menu__submenu anyone_actions">
+
+              <li>
+               <a href="/request/covid_19_contact_tracing_dpia/report/new">Report this request</a><span class="action-menu__info-link">
+                <a href="/help/about#reporting">Help</a>
+              </span>
+              </li>
+
+              <li>
+                <a href="/annotate/request/covid_19_contact_tracing_dpia">Add an annotation</a>
+              </li>
+
+
+            <li>
+              <a href="/request/covid_19_contact_tracing_dpia/download">Download a zip file of all correspondence</a>
+            </li>
+
+            <li>
+              <a href="/details/request/covid_19_contact_tracing_dpia">View event history details</a>
+            </li>
+
+            <li>
+              <a tabindex="0" class="js-collapsable-trigger-all" data-text-expanded="Collapse all correspondence" data-text-collapsed="Expand all correspondence">Collapse all correspondence</a>
+            </li>
+
+            <li>
+              <div class="feed_link feed_link_action-menu">
+  <a href="/feed/request/covid_19_contact_tracing_dpia">RSS feed</a>
+  <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" alt=""><path fill="#777777" fill-rule="evenodd" d="M.9 3.04a4.07 4.07 0 0 1 4.06 4.08.6.6 0 0 1-1.2 0A2.88 2.88 0 0 0 .9 4.22a.6.6 0 0 1 0-1.19zM.9 0C4.82 0 8 3.2 8 7.12a.6.6 0 0 1-1.19 0A5.93 5.93 0 0 0 .9 1.19.6.6 0 1 1 .9 0zm.14 5.91a1.04 1.04 0 1 1 0 2.09 1.04 1.04 0 0 1 0-2.09z"/></svg>
+</div>
+
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+
+                <div class="action-bar__follow">
+    <div class="action-bar__follow-button">
+      <div class="feed_link feed_link_toolbar">
+        <a class="link_button_green track__action" href="/track/request/covid_19_contact_tracing_dpia">Follow</a>
+      </div>
+    </div>
+    <div class="action-bar__follower-count">
+      <span id="follow_count">1</span> follower
+    </div>
+  </div>
+
+          </div>
+      </div>
+    </div>
+
+    <div class="request-status">
+      <div id="request_status" class="request-status-message request-status-message--waiting_classification">
+        <i class="icon-standalone icon_waiting_classification"></i>
+
+        <p>
+          We're waiting for <a href="/user/james_hemmings">James Hemmings</a> to read a recent response and update the status.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="left_column" class="left_column">
+      <div class="ff-print-fix"></div>
+  <div class="outgoing correspondence js-collapsable" id="outgoing-1020438">
+    
+
+
+
+    <div class="correspondence__header correspondence__header--with-delivery-status">
+      <span class="correspondence__header__author js-collapsable-trigger">
+        James Hemmings
+      </span>
+
+      <a class="correspondence__header__date" href="/request/covid_19_contact_tracing_dpia#outgoing-1020438">
+          <time datetime="2020-04-29T16:26:46+01:00" title="2020-04-29 16:26:46 +0100">29 April 2020</time>
+</a>
+        <div class="correspondence__header__delivery-status">
+          <a class="toggle-delivery-log toggle-delivery-log--delivered js-toggle-delivery-log" data-delivery-status="delivered" href="/outgoing_messages/1020438/delivery_status">            Delivered</a>        </div>
+    </div>
+
+    <div class="js-delivery-log-ajax-error" hidden aria-hidden="true" style="display: none; visibility: hidden;">
+      <p>We couldn’t load the mail server logs for this message.</p>
+      <p><a target="_blank" href="/outgoing_messages/1020438/delivery_status">Try opening the logs in a new window.</a></p>
+    </div>
+
+    <div class="correspondence_text">
+
+  <p><p>Dear NHS England,</p>
+
+<p>Under the Freedom of Information Act 2000, I would like to request the following information:</p>
+
+<p>- Provide the Data Protection Impact Assessment (DPIA) for the COVID 19 Contact Tracking/Tracing app that has been in development by NHSX/NHS England and all associated information where applicable. If no such DPIA is currently present, explain when such one will be undertaken.</p>
+
+<p>- Provide information as to which organisation has performed a security audit otherwise known as "penetration testing" on the mobile application and any documents associated with it where possible.</p>
+
+<p>Yours faithfully,
+<br />James Hemmings</p></p>
+</div>
+
+
+    <p class="event_actions">
+
+      </p>
+
+      <div class="correspondence__footer">
+          <div class="correspondence__footer__cplink">
+            <input type="text" id="cplink__field" class="cplink__field" value="https://www.whatdotheyknow.com/request/covid_19_contact_tracing_dpia#outgoing-1020438">
+            <a class="cplink__button">Link to this</a>
+
+            <a class="cplink__button" href="/request/covid_19_contact_tracing_dpia/report/new?outgoing_message_id=1020438">Report</a>
+          </div>
+      </div>
+
+</div>
+
+
+      <div class="ff-print-fix"></div>
+  <div class="incoming correspondence normal js-collapsable" id="incoming-1565680">
+  <div class="correspondence__header">
+    <span class="correspondence__header__author js-collapsable-trigger">
+        CONTACTUS, England (NHS ENGLAND &amp; NHS IMPROVEMENT - X24),
+        NHS England
+    </span>
+
+    <a class="correspondence__header__date" href="/request/covid_19_contact_tracing_dpia#incoming-1565680">
+      <time datetime="2020-04-29T16:26:51+01:00" title="2020-04-29 16:26:51 +0100">29 April 2020</time>
+</a>  </div>
+
+    
+
+    <div class="correspondence_text">
+
+  <p><p>Dear Customer,
+<br />  
+<br /> Thank you for your email.
+<br />  
+<br /> Due to the coronavirus (COVID-19) outbreak, NHS England has paused the
+<br /> investigation of new and existing complaints. This enables clinical staff,
+<br /> including GPs, to focus on front line patient care. It also enables our
+<br /> complaints teams to provide vital support to the NHS.</p>
+
+<p> We will continue to review and acknowledge all new complaints and will act
+<br /> upon any concerns about patient safety or safeguarding. However, we will
+<br /> not investigate the complaint or respond until further notice.</p>
+
+<p> All customers awaiting a response to a complaint will be notified that the
+<br /> investigation is on hold.</p>
+
+<p>  </p>
+
+<p> We will resume our complaints service as soon as possible. In the
+<br /> meantime, thank you for your patience and understanding.</p>
+
+<p> We are currently receiving a higher than usual volume of emails so it may
+<br /> take us a little longer to respond. In the meantime, you may find the
+<br /> following information helpful.
+<br /> Please note: our normal working hours are 08:00 to 18:00 from Monday to
+<br /> Friday (excluding Bank Holidays). Emails received at the weekend will not
+<br /> be reviewed until the next working day.
+<br /> How can the Customer Contact Centre help me?
+<br /> NHS England commissions or buys primary care services; for example, GPs,
+<br /> dentists, opticians, and pharmacy services. We are also responsible for
+<br /> prison healthcare, military health services, and some specialised
+<br /> services. We can provide advice about accessing, giving feedback or making
+<br /> a complaint about these services.
+<br /> You may be able to find the answer you are looking for in our Frequently
+<br /> Asked Questions&lt;<a href="https://www.england.nhs.uk/contact-us/how-can-we-help/">https://www.england.nhs.uk/contact-us/ho...</a>&gt;
+<br /> and our website explains how to share feedback or make a
+<br /> complaint.&lt;<a href="https://www.england.nhs.uk/contact-us/complaint/">https://www.england.nhs.uk/contact-us/co...</a>&gt;
+<br /> What if I have an enquiry or complaint about hospital care, NHS 111 or
+<br /> out-of-hours GP services?
+<br /> If your enquiry or complaint is about secondary care, this includes
+<br /> hospitals, NHS 111, mental health services, out-of-hours services and
+<br /> community services such as district nursing, you will need to contact the
+<br /> organisation that provided the service. All hospitals have a Patient
+<br /> Advice and Liaison Service
+<br /> (PALS)&lt;<a href="https://www.nhs.uk/common-health-questions/nhs-services-and-treatments/what-is-pals-patient-advice-and-liaison-service/">https://www.nhs.uk/common-health-questio...</a>&gt;.
+<br /> Alternatively, you can contact your local Clinical Commissioning Group
+<br /> (CCG). You can find their contact details on the NHS
+<br /> website&lt;<a href="https://www.nhs.uk/Service-Search/Clinical%20Commissioning%20Group/LocationSearch/1">https://www.nhs.uk/Service-Search/Clinic...</a>&gt;
+<br /> Does the NHS England Customer Contact Centre provide medical advice?
+<br /> No. Our advisors are not clinically trained and are unable to provide
+<br /> medical advice. If you require emergency medical attention, dial 999 or
+<br /> attend your local Accident and Emergency department if you are able to do
+<br /> so.
+<br /> If you require non-urgent medical advice please contact your GP, local
+<br /> walk-in or urgent healthcare centre, or call NHS 111. Calls are free from
+<br /> landlines and mobile phones.</p>
+
+<p> How do I report a change of name or address?
+<br /> You should report a change of name or address to your GP practice so they
+<br /> can update their records. If your new address is outside the practice’s
+<br /> catchment area you may be asked to register with a new GP practice.
+<br /> You should also advise your dentist or optician of a change of name or
+<br /> address as they keep their own records.</p>
+
+<p> Where can I find further information about NHS England?
+<br /> You can find information about NHS England and our work on our
+<br /> website&lt;<a href="https://www.england.nhs.uk/about/">https://www.england.nhs.uk/about/</a>&gt;
+<br /> How do you use my information?
+<br /> NHS England’s privacy notice explains how we use, share and store your
+<br /> personal information. You can find this on our
+<br /> website.&lt;<a href="https://www.england.nhs.uk/contact-us/privacy-notice/">https://www.england.nhs.uk/contact-us/pr...</a>&gt;
+<br /> NHS England Customer Contact Centre</p>
+
+<p><span class="unfold_link"><a href="?unfold=1#incoming-1565680">show quoted sections</a></span></p></p>
+</div>
+
+
+    <p class="event_actions">
+    </p>
+
+    <div class="correspondence__footer">
+        <div class="correspondence__footer__cplink">
+          <input type="text" id="cplink__field" class="cplink__field" value="https://www.whatdotheyknow.com/request/covid_19_contact_tracing_dpia#incoming-1565680">
+          <a class="cplink__button">Link to this</a>
+
+          <a class="cplink__button" href="/request/covid_19_contact_tracing_dpia/report/new?incoming_message_id=1565680">Report</a>
+        </div>
+    </div>
+
+</div>
+
+
+      <div class="ff-print-fix"></div>
+
+      <div class="ff-print-fix"></div>
+  <div class="incoming correspondence normal js-collapsable" id="incoming-1565846">
+  <div class="correspondence__header">
+    <span class="correspondence__header__author js-collapsable-trigger">
+        FOITEAMCRMMAILBOX (NHS ENGLAND &amp; NHS IMPROVEMENT - X24),
+        NHS England
+    </span>
+
+    <a class="correspondence__header__date" href="/request/covid_19_contact_tracing_dpia#incoming-1565846">
+      <time datetime="2020-04-30T10:12:05+01:00" title="2020-04-30 10:12:05 +0100">30 April 2020</time>
+</a>  </div>
+
+    
+
+    <div class="correspondence_text">
+
+  <p><p>Dear  James Hemmings ,</p>
+
+<p> Thank you for your communication dated 29 April 2020.</p>
+
+<p> NHS England has assessed your communication as a request under the Freedom
+<br /> of Information (FOI) Act 2000. As such, please be assured that your
+<br /> request is being dealt with under the terms of the FOI Act and will be
+<br /> answered within twenty working days.</p>
+
+<p> For further information regarding the FOI Act, please refer to the
+<br /> Information Commissioner’s Office (ICO) website. For further information
+<br /> regarding NHS England and the information it publishes please visit our
+<br /> website here.</p>
+
+<p> If you have any queries about this request or wish to contact us again,
+<br /> please email [1][NHS England request email] and the message will be
+<br /> forwarded appropriately. Please remember to quote the above reference
+<br /> number in any future communications.</p>
+
+<p> Please do not reply to this email. This message has been sent from a
+<br /> central mailbox. To communicate with NHS England regarding Freedom of
+<br /> Information (FOI) requests, enquiries or complaints we ask these are sent
+<br /> directly to NHS England’s customer contact centre. This is to ensure all
+<br /> communications are progressed correctly. Their postal address, telephone
+<br /> number and email details are as follows:- PO Box 16738, Redditch, B97 9PT;
+<br /> 0300 3 11 22 33,
+<br /> [2][NHS England request email].</p>
+
+<p> Yours sincerely, </p>
+
+<p> Freedom of Information
+<br /> Corporate Communications Team
+<br /> Transformation and Corporate Operations Directorate
+<br /> NHS England
+<br /> PO Box 16738
+<br /> REDDITCH
+<br /> B97 9PT
+<br /> Tel: 0300 311 22 33
+<br /> Email: [3][NHS England request email]</p>
+
+<p> ‘High quality care for all, now and for future generations’</p>
+
+<p>  </p>
+
+<p><span class="unfold_link"><a href="?unfold=1#incoming-1565846">show quoted sections</a></span></p></p>
+</div>
+
+
+    <p class="event_actions">
+    </p>
+
+    <div class="correspondence__footer">
+        <div class="correspondence__footer__cplink">
+          <input type="text" id="cplink__field" class="cplink__field" value="https://www.whatdotheyknow.com/request/covid_19_contact_tracing_dpia#incoming-1565846">
+          <a class="cplink__button">Link to this</a>
+
+          <a class="cplink__button" href="/request/covid_19_contact_tracing_dpia/report/new?incoming_message_id=1565846">Report</a>
+        </div>
+    </div>
+
+</div>
+
+
+
+    <div class="describe_state_form box" id="describe_state_form_2">
+          We don't know whether the most recent response to this request contains
+    information or not
+        &ndash;
+	if you are <a href="/user/james_hemmings">James Hemmings</a> please <a href="https://www.whatdotheyknow.com/profile/sign_in?r=%2Frequest%2Fcovid_19_contact_tracing_dpia">sign in</a> and let everyone know.
+
+
+    </div>
+
+    <div class="request-footer__action-bar-container">
+      <div class="request-footer__action-bar__actions">
+          <div id="after_actions" class="after-actions">
+  <ul class="action-menu after-actions__action-menu">
+    <li>
+      <a href="#" class="action-menu__button">Actions</a>
+
+      <ul class="action-menu__menu">
+          <li class="action-menu__menu__item">
+            <span class="action-menu__menu__heading">
+              James Hemmings
+            </span>
+
+            <ul class="action-menu__menu__submenu owner_actions">
+              <li>
+                  <a href="/request/661330/followups/new/1565846#followup">Write a reply</a>
+              </li>
+
+                <li>
+                  <a href="/request/covid_19_contact_tracing_dpia?update_status=1">Update the status of this request</a>
+                </li>
+
+              <li>
+                <a href="/request/661330/followups/new?internal_review=1#followup">Request an internal review</a>
+              </li>
+            </ul>
+          </li>
+
+        <li class="action-menu__menu__item">
+          <span class="action-menu__menu__heading">
+            NHS England
+          </span>
+
+          <ul class="action-menu__menu__submenu public_body_actions">
+            <li>
+              <a href="/upload/request/covid_19_contact_tracing_dpia">Respond to request</a>
+            </li>
+          </ul>
+        </li>
+
+        <li class="action-menu__menu__item">
+          <ul class="action-menu__menu__submenu anyone_actions">
+
+              <li>
+               <a href="/request/covid_19_contact_tracing_dpia/report/new">Report this request</a><span class="action-menu__info-link">
+                <a href="/help/about#reporting">Help</a>
+              </span>
+              </li>
+
+              <li>
+                <a href="/annotate/request/covid_19_contact_tracing_dpia">Add an annotation</a>
+              </li>
+
+
+            <li>
+              <a href="/request/covid_19_contact_tracing_dpia/download">Download a zip file of all correspondence</a>
+            </li>
+
+            <li>
+              <a href="/details/request/covid_19_contact_tracing_dpia">View event history details</a>
+            </li>
+
+            <li>
+              <a tabindex="0" class="js-collapsable-trigger-all" data-text-expanded="Collapse all correspondence" data-text-collapsed="Expand all correspondence">Collapse all correspondence</a>
+            </li>
+
+            <li>
+              <div class="feed_link feed_link_action-menu">
+  <a href="/feed/request/covid_19_contact_tracing_dpia">RSS feed</a>
+  <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" alt=""><path fill="#777777" fill-rule="evenodd" d="M.9 3.04a4.07 4.07 0 0 1 4.06 4.08.6.6 0 0 1-1.2 0A2.88 2.88 0 0 0 .9 4.22a.6.6 0 0 1 0-1.19zM.9 0C4.82 0 8 3.2 8 7.12a.6.6 0 0 1-1.19 0A5.93 5.93 0 0 0 .9 1.19.6.6 0 1 1 .9 0zm.14 5.91a1.04 1.04 0 1 1 0 2.09 1.04 1.04 0 0 1 0-2.09z"/></svg>
+</div>
+
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+
+            <div class="action-bar__follow">
+    <div class="action-bar__follow-button">
+      <div class="feed_link feed_link_toolbar">
+        <a class="link_button_green track__action" href="/track/request/covid_19_contact_tracing_dpia">Follow</a>
+      </div>
+    </div>
+    <div class="action-bar__follower-count">
+      <span id="follow_count">1</span> follower
+    </div>
+  </div>
+
+      </div>
+    </div>
+
+    <div class="donate-cta">
+      <h2 class="donate-cta__header">We work to defend the right to FOI for everyone</h2>
+      <p class="donate-cta__para">Help us protect your right to hold public authorities to account. Donate and support our work.</p>
+      <a class="button donate-cta__button" href="http://www.mysociety.org/donate/?utm_campaign=foi_request_page&amp;utm_content=experiment_no_0&amp;utm_medium=link&amp;utm_source=whatdotheyknow.com">Donate Now</a>
+
+    </div>
+
+</div>
+
+  <div id="right_column" class="sidebar right_column" role="complementary">
+    <div class="sidebar__section pro-upsell">
+    <strong><a href="/pro">WhatDoTheyKnow Pro</a></strong> is a powerful, fully-featured FOI toolkit for journalists.
+  </div>
+
+
+
+
+  <div class="sidebar__section next-actions">
+    <h2>Act on what you've learnt</h2>
+
+<div class="act_link">
+  <i class="act-link-icon act-link-icon--twitter"></i>
+
+  <a onclick="if (ga) { ga(&#39;send&#39;,&#39;event&#39;,&#39;Outbound Link&#39;,&#39;Twitter Exit&#39;,&#39;Request sidebar&#39;,1) };" href="https://twitter.com/share?related=mySociety%3AHelping+people+set+up+sites+like+WhatDoTheyKnow+all+over+the+world&amp;text=%27COVID+19+Contact+Tracing+DPIA%27&amp;url=https%3A%2F%2Fwww.whatdotheyknow.com%2Frequest%2Fcovid_19_contact_tracing_dpia&amp;via=whatdotheyknow">Tweet this request</a>
+</div>
+
+<div class="act_link">
+  <i class="act-link-icon act-link-icon--facebook"></i>
+  <a onclick="if (ga) { ga(&#39;send&#39;,&#39;event&#39;,&#39;Outbound Link&#39;,&#39;Facebook Exit&#39;,&#39;Request sidebar&#39;,1) };" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.whatdotheyknow.com%2Frequest%2Fcovid_19_contact_tracing_dpia">Share on Facebook</a>
+</div>
+
+<div class="act_link">
+  <i class="act-link-icon act-link-icon--medium"></i>
+  <a onclick="if (ga) { ga(&#39;send&#39;,&#39;event&#39;,&#39;Outbound Link&#39;,&#39;Medium Exit&#39;,&#39;Request sidebar&#39;,1) };" href="http://medium.com/">Write about this on Medium</a>
+</div>
+
+
+
+    <div class="act_link">
+  <i class="act-link-icon act-link-icon--write"></i>
+  <a onclick="if (ga) { ga(&#39;send&#39;,&#39;event&#39;,&#39;Outbound Link&#39;,&#39;Write To Them Exit&#39;,&#39;Request sidebar&#39;,1) };" href="http://www.writetothem.com">Write to your politician</a>
+</div>
+
+  </div>
+
+  
+
+  <div class="sidebar__section citations">
+    
+
+  </div>
+
+    <div class="sidebar__section sidebar__similar-requests">
+  <h2>Requests like this</h2>
+
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/request_for_emails_of_ceos?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Request for emails of CEOs
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/regarding_the_cost_of_emergency?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Regarding the cost of emergency hospitals
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/data_request_re_list_of_gp_feder?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Data request re: List of GP Federations and Alliance groups within England
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/ppe_orders_between_march_1st_201?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      PPE Orders Between March 1st 2019 &amp; April 10th 2020
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/aborted_babies_used_in_vaccines?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Aborted Babies Used in Vaccines
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/deaths_in_the_uk?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Deaths in The UK
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/covid_19_hospital_cases_by_age?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      COVID 19 hospital cases by age
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/age_of_people_who_have_died_of_c?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Age of people who have died of coronavirus to date in the UK
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/agreements_with_palantir_on_pala_2?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Agreements with Palantir on Palantir Foundry
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+    
+<div class="request_short_listing">
+  <h3 class="request_short_listing__title">
+    <a href="/request/confirmed_v_assumed_covid_19_dea?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">
+      Confirmed v assumed covid 19 deaths in England
+</a>  </h3>
+
+  <p class="request_short_listing__authority">
+    <a href="/body/nhs_england">NHS England</a>
+  </p>
+</div>
+
+
+    <p class="sidebar_similar_requests__more-link">
+      <a href="/similar/request/covid_19_contact_tracing_dpia?utm_campaign=alaveteli-experiments-87&amp;utm_content=sidebar_similar_requests&amp;utm_medium=link&amp;utm_source=whatdotheyknow">More similar requests</a>
+    </p>
+</div>
+
+
+  <div class="sidebar__section">
+    <!-- this link with this wording is here for legal reasons, discuss with
+         board and our lawyer before changing or removing it -->
+    <p class="copyright-notice">
+      <small>
+        <a href="/help/officers#copyright">Are you the owner of any commercial copyright on this page?</a>
+      </small>
+    </p>
+  </div>
+</div>
+
+
+
+          </div>
+          <div style="clear:both"></div>
+        </div>
+      </div>
+
+      <div class="mysoc-footer" role="contentinfo">
+    <div class="row">
+
+        <div class="col-sm-5">
+            <h2 class="mysoc-footer__site-name">WhatDoTheyKnow</h2>
+            <div class="mysoc-footer__site-description">
+                <p>A site to help anyone submit a Freedom of Information request. WhatDoTheyKnow also publishes and archives requests and responses, building a massive archive of information.</p>
+                <p><a href="/help/credits#helpus">Run by Volunteers</a> and powered by <a href="/help/alaveteli">Alaveteli</a>.</p>
+                <p>Dedicated to <a href="http://mk.ucant.org/archives/000129.html">Chris Lightfoot</a>.</p>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <nav class="mysoc-footer__links">
+                <ul>
+                    <li role="presentation"><a href="/select_authority">Make a request</a></li>
+                    <li role="presentation"><a href="/list/successful">Browse requests</a></li>
+                    <li role="presentation"><a href="/body/list/all">View authorities</a></li>
+                    <li role="presentation"><a href="/pro">Journalist?</a></li>
+                </ul>
+                <ul>
+                    <li role="presentation"><a href="/help">Help</a></li>
+                    <li role="presentation"><a href="/help/contact">Contact us</a></li>
+                    <li role="presentation"><a href="/help/volunteers">Become a volunteer</a></li>
+                    <li role="presentation"><a href="/help/privacy">Privacy and cookies</a></li>
+                    <li role="presentation"><a href="/help/api">API</a></li>
+                      <li>
+                        <a href="/pro/pages/legal">Pro Terms</a>
+                      </li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="mysoc-footer__donate">
+                <p>Your donations keep this site and others like it running</p>
+                <a href="http://www.mysociety.org/donate/?utm_campaign=mysoc_footer&amp;utm_content=footer+donate+now&amp;utm_medium=link&amp;utm_source=whatdotheyknow.com" class="mysoc-footer__donate__button">Donate now</a>
+            </div>
+        </div>
+    </div>
+    <hr class="mysoc-footer__divider" role="presentation">
+    <div class="row">
+        <div class="col-sm-5">
+            <div class="mysoc-footer__orgs">
+                <p class="mysoc-footer__org">
+                    Built by
+                    <a href="https://mysociety.org?utm_source=whatdotheyknow.com&utm_content=footer+logo&utm_medium=link&utm_campaign=mysoc_footer" class="mysoc-footer__org__logo mysoc-footer__org__logo--mysociety">mySociety</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <div class="mysoc-footer__legal">
+                <p>mySociety is a project of UK Citizens Online Democracy, a registered charity in England and Wales. For full details visit <a href="https://www.mysociety.org?utm_source=whatdotheyknow.com&utm_content=footer+full+legal+details&utm_medium=link&utm_campaign=mysoc_footer">mysociety.org</a>.</p>
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <ul class="mysoc-footer__badges">
+                <li role="presentation"><a href="https://github.com/mysociety/whatdotheyknow-theme" class="mysoc-footer__badge mysoc-footer__badge--github">Github</a></li>
+                <li role="presentation">
+                  <a href="https://twitter.com/whatdotheyknow" class="mysoc-footer__badge mysoc-footer__badge--twitter" onclick="if (ga) { ga(&#39;send&#39;,&#39;event&#39;,&#39;Outbound Link&#39;,&#39;Twitter Exit&#39;,&#39;Footer link&#39;,1) };">@whatdotheyknow</a>
+                </li>
+                <li role="presentation"><a href="https://facebook.com/whatdotheyknowcom" class="mysoc-footer__badge mysoc-footer__badge--facebook" onclick="if (ga) { ga(&#39;send&#39;,&#39;event&#39;,&#39;Outbound Link&#39;,&#39;Facebook Exit&#39;,&#39;Footer link&#39;,1) };">Facebook</a></li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+    </div>
+
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24614779-1', {'storage': 'none'});
+  ga('set', 'anonymizeIp', true);
+
+      window.dataLayer = window.dataLayer || [];
+  ga('require', 'GTM-53XVLCX');
+    ga('send', 'pageview', '/request/covid_19_contact_tracing_dpia');
+
+  </script>
+
+
+    <script src="/assets/application-b779d2a1207bdb4c74978b732ec5c3736a8ac90dd3a9c3ab075e4fe7d53e58c7.js"></script>
+
+    
+  <script src="/assets/request-attachments-a3d5a3e8d543511fd05dcf61bda6cecc106315f8a2de930aa79b0a92aae9572f.js"></script>
+
+
+    <script>
+  jQuery('#user_locale_switcher').find('.locale-list-trigger').each(function() {
+    jQuery(this).click(function(){
+      jQuery(this).parent().toggleClass('active');
+    });
+  });
+</script>
+
+
+
+    <a href="#content" class="show-with-keyboard-focus-only skip-to-link">
+      Back to content
+    </a>
+  </body>
+</html>
