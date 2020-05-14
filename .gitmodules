@@ -22,3 +22,9 @@
 [submodule "alternate-implementations/no/Smittestopp-dekompilert"]
 	path = alternate-implementations/no/Smittestopp-dekompilert
 	url = https://github.com/petterroea/Smittestopp-dekompilert
+[submodule "alternate-implementations/au/android/mobile-android"]
+	path = alternate-implementations/au/android/mobile-android
+	url = https://github.com/AU-COVIDSafe/mobile-android
+[submodule "alternate-implementations/au/ios/mobile-ios"]
+	path = alternate-implementations/au/ios/mobile-ios
+	url = https://github.com/AU-COVIDSafe/mobile-ios
