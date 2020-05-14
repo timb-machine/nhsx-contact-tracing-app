@@ -5,7 +5,7 @@
 	path = alternate-implementations/opentrace/opentrace-ios
 	url = https://github.com/opentrace-community/opentrace-ios
 [submodule "alternate-implementations/au/COVIDSafe_1.0.11.apk"]
-	path = alternate-implementations/au/COVIDSafe_1.0.11.apk
+	path = alternate-implementations/au/android/COVIDSafe_1.0.11.apk
 	url = https://git.sr.ht/~ghuntley/COVIDSafe_1.0.11.apk
 [submodule "implementation/android/uk.nhs.nhsx.colocate_1.0.0.208"]
 	path = implementation/android/uk.nhs.nhsx.colocate_1.0.0.208
