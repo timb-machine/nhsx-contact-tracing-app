@@ -1,0 +1,452 @@
+		<!DOCTYPE html>
+		<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+		<head>
+			<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- <meta http-equiv="Pragma" content="no-cache" /> -->
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="robots" content="noindex, nofollow" />
+
+			<title>#2. NHSX - Proximity (Contact Tracing) App Development and Deployment, contract with Go Pivotal (UK) Ltd - Contracts Finder</title>
+			<link href="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/styles/govuk/favicon/govuk.ico?v=MjQ1MjA=" rel="shortcut icon" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed apple-touch-icon" sizes="152x152" href="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/styles/govuk/favicon/govuk-touch-icon-152x152.png?v=MjQ1MjA=">
+<link rel="apple-touch-icon-precomposed apple-touch-icon" sizes="120x120" href="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/styles/govuk/favicon/govuk-touch-icon-120x120.png?v=MjQ1MjA=">
+<link rel="apple-touch-icon-precomposed apple-touch-icon" sizes="76x76" href="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/styles/govuk/favicon/govuk-touch-icon-76x76.png?v=MjQ1MjA=">
+<link rel="apple-touch-icon-precomposed apple-touch-icon" href="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/styles/govuk/favicon/govuk-touch-icon-60x60.png?v=MjQ1MjA=">
+<link rel="stylesheet" type="text/css" href="/libraries/base-noticing/stylesheets/govuk-frontend-3.0.0.min.css?v=MjQ1MjA=">
+<link href="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/stylesheets/style.css?v=MjQ1MjA=" media="all" rel="stylesheet" type="text/css" />
+<link href="https://www.contractsfinder.service.gov.uk/stylesheets/style.css?v=MjQ1MjA=" media="all" rel="stylesheet" type="text/css" />
+		<link href="https://www.contractsfinder.service.gov.uk/stylesheets/print_notice.css?v=MjQ1MjA=" media="print" rel="stylesheet" type="text/css" />
+				<script>const COOKIE_PREFIX = 'NQCSCRIM';</script>
+	<script src="https://www.contractsfinder.service.gov.uk/javascripts/jquery.js?v=MjQ1MjA="></script>
+	<script src="https://www.contractsfinder.service.gov.uk/javascripts/jqueryuieffects.js?v=MjQ1MjA="></script>
+	<script src="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/javascripts/global.js?v=MjQ1MjA="></script>
+	<script src="https://www.contractsfinder.service.gov.uk/javascripts/global.js?v=MjQ1MjA="></script>
+	<script src="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/javascripts/popup_dialog.js?v=MjQ1MjA="></script>
+
+	
+	<script src="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/javascripts/gadgetcontrols.js?v=MjQ1MjA="></script>
+	<script src="https://www.contractsfinder.service.gov.uk/javascripts/gadgetcontrols.js?v=MjQ1MjA="></script>
+	
+	
+	
+		<script>
+	  dataLayer = [{"loggedIn":false,"orgRole":"Not logged in"}];
+	</script>
+
+				<script src="https://www.contractsfinder.service.gov.uk/javascripts/contractfinder.js?v=MjQ1MjA="></script>
+			
+			<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-M3QPS23');</script>
+		<!-- End Google Tag Manager -->
+				<script>
+		function getCookie(n){var i,t;for(n=n+"=",i=document.cookie.split(";"),t=0;t<i.length;t++){while(i[t].charAt(0)===" ")i[t]=i[t].substring(1);if(i[t].indexOf(n)===0)return i[t].split("=")[1]}return""}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-87418217-1', 'auto');
+
+		var ranking = getCookie('ga_search_result');
+		if (ranking !== '') {
+			var query = getCookie('ga_search_result_query');
+			ga('set', 'dimension1', '' + ranking);
+			ga('set', 'dimension2', query);
+			ga('set', 'metric1', '' + ranking);
+
+			// Delete the cookie
+			document.cookie = 'ga_search_result=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC';
+			document.cookie = 'ga_search_result_query=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC';
+		}
+		ga('set', 'anonymizeIp', true);
+		ga('send', 'pageview');
+		</script>
+			</head>
+<body class="skin-contractfinder style-govuk body-ltr">
+	<div id="skiplink-container" class="help-page">
+		<div>
+					<a href="#all-content-wrapper" class="skiplink">
+	Skip to main content</a>		
+		</div>
+	</div>
+			<div id="govuk-cookie-message-holder">
+			<div class="govuk-width-container" id="govuk-cookie-message">
+			<p>GOV.UK uses cookies to make the site simpler. 		<a href="https://www.contractsfinder.service.gov.uk/Home/Cookies" class="govuk-link">
+	Find out more about cookies</a>.</p>			</div>
+		</div>
+		<div id="standard-holder">
+		<div id="header">
+			<div id="govuk-global-header" role="banner">
+				<header class="govuk-header " data-module="govuk-header">
+	<div class="govuk-header__container govuk-width-container">
+		<div class="govuk-header__logo">
+					<a href="http://gov.uk" title="Go to home page" class="govuk-header__link govuk-header__link--homepage" >
+	<span class="govuk-header__logotype">
+					<svg role="presentation" class="govuk-header__logotype-crown" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 132 97" height="30" width="36">
+						<path fill="currentColor" fill-rule="evenodd" d="M25 30.2c3.5 1.5 7.7-.2 9.1-3.7 1.5-3.6-.2-7.8-3.9-9.2-3.6-1.4-7.6.3-9.1 3.9-1.4 3.5.3 7.5 3.9 9zM9 39.5c3.6 1.5 7.8-.2 9.2-3.7 1.5-3.6-.2-7.8-3.9-9.1-3.6-1.5-7.6.2-9.1 3.8-1.4 3.5.3 7.5 3.8 9zM4.4 57.2c3.5 1.5 7.7-.2 9.1-3.8 1.5-3.6-.2-7.7-3.9-9.1-3.5-1.5-7.6.3-9.1 3.8-1.4 3.5.3 7.6 3.9 9.1zm38.3-21.4c3.5 1.5 7.7-.2 9.1-3.8 1.5-3.6-.2-7.7-3.9-9.1-3.6-1.5-7.6.3-9.1 3.8-1.3 3.6.4 7.7 3.9 9.1zm64.4-5.6c-3.6 1.5-7.8-.2-9.1-3.7-1.5-3.6.2-7.8 3.8-9.2 3.6-1.4 7.7.3 9.2 3.9 1.3 3.5-.4 7.5-3.9 9zm15.9 9.3c-3.6 1.5-7.7-.2-9.1-3.7-1.5-3.6.2-7.8 3.7-9.1 3.6-1.5 7.7.2 9.2 3.8 1.5 3.5-.3 7.5-3.8 9zm4.7 17.7c-3.6 1.5-7.8-.2-9.2-3.8-1.5-3.6.2-7.7 3.9-9.1 3.6-1.5 7.7.3 9.2 3.8 1.3 3.5-.4 7.6-3.9 9.1zM89.3 35.8c-3.6 1.5-7.8-.2-9.2-3.8-1.4-3.6.2-7.7 3.9-9.1 3.6-1.5 7.7.3 9.2 3.8 1.4 3.6-.3 7.7-3.9 9.1zM69.7 17.7l8.9 4.7V9.3l-8.9 2.8c-.2-.3-.5-.6-.9-.9L72.4 0H59.6l3.5 11.2c-.3.3-.6.5-.9.9l-8.8-2.8v13.1l8.8-4.7c.3.3.6.7.9.9l-5 15.4v.1c-.2.8-.4 1.6-.4 2.4 0 4.1 3.1 7.5 7 8.1h.2c.3 0 .7.1 1 .1.4 0 .7 0 1-.1h.2c4-.6 7.1-4.1 7.1-8.1 0-.8-.1-1.7-.4-2.4V34l-5.1-15.4c.4-.2.7-.6 1-.9zM66 92.8c16.9 0 32.8 1.1 47.1 3.2 4-16.9 8.9-26.7 14-33.5l-9.6-3.4c1 4.9 1.1 7.2 0 10.2-1.5-1.4-3-4.3-4.2-8.7L108.6 76c2.8-2 5-3.2 7.5-3.3-4.4 9.4-10 11.9-13.6 11.2-4.3-.8-6.3-4.6-5.6-7.9 1-4.7 5.7-5.9 8-.5 4.3-8.7-3-11.4-7.6-8.8 7.1-7.2 7.9-13.5 2.1-21.1-8 6.1-8.1 12.3-4.5 20.8-4.7-5.4-12.1-2.5-9.5 6.2 3.4-5.2 7.9-2 7.2 3.1-.6 4.3-6.4 7.8-13.5 7.2-10.3-.9-10.9-8-11.2-13.8 2.5-.5 7.1 1.8 11 7.3L80.2 60c-4.1 4.4-8 5.3-12.3 5.4 1.4-4.4 8-11.6 8-11.6H55.5s6.4 7.2 7.9 11.6c-4.2-.1-8-1-12.3-5.4l1.4 16.4c3.9-5.5 8.5-7.7 10.9-7.3-.3 5.8-.9 12.8-11.1 13.8-7.2.6-12.9-2.9-13.5-7.2-.7-5 3.8-8.3 7.1-3.1 2.7-8.7-4.6-11.6-9.4-6.2 3.7-8.5 3.6-14.7-4.6-20.8-5.8 7.6-5 13.9 2.2 21.1-4.7-2.6-11.9.1-7.7 8.8 2.3-5.5 7.1-4.2 8.1.5.7 3.3-1.3 7.1-5.7 7.9-3.5.7-9-1.8-13.5-11.2 2.5.1 4.7 1.3 7.5 3.3l-4.7-15.4c-1.2 4.4-2.7 7.2-4.3 8.7-1.1-3-.9-5.3 0-10.2l-9.5 3.4c5 6.9 9.9 16.7 14 33.5 14.8-2.1 30.8-3.2 47.7-3.2z"></path>
+						<image src="/libraries/base-noticing/images/govuk-logotype-crown.png" xlink:href="" class="govuk-header__logotype-crown-fallback-image" width="36" height="32" style="margin-top: -4px" ></image>
+					</svg>
+					<span class="govuk-header__logotype-text">
+						GOV.UK
+					</span>
+				</span>
+</a>					</div>
+		<div class="govuk-header__content">
+					<h2>
+						<a href="https://www.contractsfinder.service.gov.uk" class="govuk-header__link govuk-header__link--service-name" >
+	Contracts Finder</a>	
+			</h2>
+				</div>
+					<div id="mobile-menu-header" class="gadget-header-hamburger-container gadget-header-main-hamburger-container" role="group">
+						<button id="mobile-menu" class="popup-button gadget-header-hamburger-button" aria-expanded="false">Menu</button>
+					<div id="mobile-menu-container" class="gadget-header-verb-container">
+					<div class="gadget-header-verb-padding">
+						<span class="standard-header-verb-link" >		<a href="/organisation/register" class=" govuk-link">
+	Register</a></span><span class="standard-header-verb-link" >		<a href="/login" class=" govuk-link">
+	Sign in</a></span>					</div>
+				</div>
+			</div>
+			</div>
+</header>
+
+			</div>
+				    <div class="user-research-banner">
+	  	<div id="user-research-inner">
+    		<p class="banner-text-padding govuk-width-container">
+      			<strong class="banner-heading">Help us improve Contracts Finder</strong>
+						<button class="govuk-link link-button govuk-link-white banner-close align-right">Close</button>
+	    		</p>
+    		<p class="banner-text-padding govuk-width-container">
+						<a href="/Home/SignUpForUserTesting" class="govuk-link govuk-link-white">
+	Sign up for user testing</a>    		</p>
+  		</div>
+	</div>
+					<div id="header-holder">
+				<div class="canvas main-page-top">
+			<div id="nav-bar" class="margin-xa govuk-width-container" role="navigation">
+					<div id="header-menu-left" class="header-item">
+					<div class="nav-bar-icon govuk-beta">BETA</div>
+				<span class="nav-bar-message">This is a new service - your 
+						<a href="https://www.smartsurvey.co.uk/s/4R6GC/" target="_blank" class="govuk-link" >
+	feedback</a>	
+				 will help us improve it.</span>
+						</div>
+										<div id="header-menu-right" class="header-item">
+						<div id="header-menu-navigation-holder" class="header-menu-navigation-holder-unscrolled">
+															
+							<ul id="header-menu-navigation">		<li  class="header-menu-navigation-first header-menu-navigation-sign-in">
+					<a accesskey="R" href="https://www.contractsfinder.service.gov.uk/organisation/register " class="govuk-link" >
+	Register</a>		</li>
+				<li  class="header-menu-navigation-sign-in">
+					<a href="https://www.contractsfinder.service.gov.uk/login " class="govuk-link" >
+	Sign in</a>		</li>
+		</ul>						</div>
+					</div>
+								<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+		</div>
+		<div class="canvas">
+			<div id="body-inner-canvas" class="govuk-width-container body-inner-canvas-unscrolled body-inner-canvas-motd">
+				<div id="standard-body" class="standard-body-plain">
+											<ol class="standard-breadcrumbs"> <li title="Home">		<a href="/contractfinder" class="govuk-link">
+	<span title="Home">Home</span></a></li> <li class="standard-breadcrumbs-separator"></li> <li title="#2. NHSX - Proximity (Contact Tracing) App Development and Deployment, contract with Go Pivotal (UK) Ltd">#2. NHSX - Proximity (Contact Tracing) App Development and Deployment, contract with Go Pivotal (UK) Ltd</li></ol><div id='all-content-wrapper'><h1 class='breadcrumb-title '>#2. NHSX - Proximity (Contact Tracing) App Development and Deployment, contract with Go Pivotal (UK) Ltd</h1><div id="home-breadcrumb-description" class="standard-col" style="min-height:0;"><h2 class='breadcrumb-description'>Department of Health and Social Care</h2></div><div class="standard-col"></div>										<div id="content" class="goveuk-main-wrapper" role="main">
+
+					<div class="clear"></div>
+					<div class="js-hide" id="site-timeout-warning-holder"></div>
+
+<div id="standard-left-col" class="standard-col">
+	<div class="standard-col-content search-no-top-margin">
+		<div id="content-holder-left" class="content-holder content-holder-view-notice">
+			<div id="content-block-left">
+				<p class="search-no-top-margin">Published date: 05 May 2020</p>
+								<br />
+				<p>Awarded opportunity - This means that the contract has been awarded to a supplier.</p>			</div>
+			<div id="content-block-mobile" class="mobile-show">
+										<button href="#" id="5ebe8ab5a7adb" class="pd-open govuk-button" data-popup-open="popup-dialog-2" aria-haspopup="dialog">Watch this notice</button>
+							<button id="5ebe8ab5a7b9f" class="print govuk-button">Print this notice</button>
+					</br>Closing date: 23 March 2020			</div>
+			<div class="content-block">
+				<h3>Contract summary</h3>
+				<p></p>
+
+				<h4><strong>Industry</strong></h4>
+				
+				<!-- Print out industries in form opener if more than three values -->
+				<ul>
+																			<li><p>IT services: consulting, software development, Internet and support - 72000000</p></li>
+							
+																						</ul>
+								<h4><strong>Location of contract</strong></h4>
+				<p><span title="SW1H 0EU">SW1H 0EU</span></p>
+
+									<h4><strong>Value of contract</strong></h4>
+					<p>
+						&pound;1.3m					</p>
+				
+				<h4><strong>Published date</strong></h4>
+				<p>05 May 2020</p>
+
+									<h4><strong>Closing date</strong></h4>
+					<p>23 March 2020</p>
+									<h4><strong>Contract start date</strong></h4>
+					<p>23 March 2020</p>
+					<h4><strong>Contract end date</strong></h4>
+					<p>30 April 2020</p>
+								
+									<h4><strong>Contract is suitable for SMEs?</strong></h4>
+					<p>No</p>
+					<h4><strong>Contract is suitable for VCSEs?</strong></h4>
+					<p>No</p>
+							</div>
+			
+			<div class="content-block">
+				<hr class="content-line">
+				<h3>Description</h3>
+				<p></p>
+				<p style="text-align:justify;">Contract Award Notice following a G-Cloud 11 Award to Go Pivotal (UK) Ltd:  #2. NHSX - Proximity (Contact Tracing) Development and Deployment of MVP and App to market</p>
+			</div>
+			<div class="content-block">
+				<hr class="content-line">
+				<h3>About the buyer</h3>
+				<p></p>
+									<h4><strong>Contact name</strong></h4>
+					<p>Mr Sachin Joshi</p>
+								<h4><strong>Address</strong></h4>
+								<p>Department of Health and Social Care, 39 Victoria Street, Westminster<br>London<br>SW1H 0EU<br>England</p>
+								<h4><strong>Email</strong></h4>
+				<p>
+						<a href="mailto:sachin.joshi@dhsc.gov.uk" id="5ebe8ab5a86c6" class="govuk-link">
+	sachin.joshi@dhsc.gov.uk</a>				</p>
+			</div>
+							<div class="content-block">
+					<hr class="content-line">
+					<h3>Awarded Information</h3>
+					<h4><strong>Awarded date</strong></h4>
+					<p>23 March 2020</p>
+					<h4><strong>Contract start date</strong></h4>
+					<p>23 March 2020</p>
+					<h4><strong>Contract end date</strong></h4>
+					<p>30 April 2020</p>
+					<h4><strong>Total value of contract</strong></h4>
+					<p>&pound;1.3m</p>
+					<p>This contract was awarded to <strong>1</strong> supplier.</p>
+						<div class="form-opener" role="group">
+				<button id="show_supplier_information_link" class="form-opener-button open" aria-expanded="true"><span class="form-opener-button-span" data-label-show="Show supplier information" data-label-hide="Hide supplier information" >Hide supplier information</span></button>
+			<div class="form-opener-container form-opener-container-hidden-text" style="display: block;">
+			<span class="clear"></span>	<div class="standard-form-option " >
+				<div id=""  ><h4><strong>Supplier name</strong></h4><p>Go Pivotal (UK) Limited</p><h4><strong>Supplier address</strong></h4><p>The Warehouse, 211 Old Street, London, EC1V 9NR, UK</p><h4><strong>Supplier references</strong></h4><p>Companies House number: 08195391</p><h4><strong>Value of contract</strong></h4><p>--</p><h4><strong>Supplier is SME?</strong></h4><p>No</p><h4><strong>Supplier is VCSE?</strong></h4><p>No</p></div>
+			</div>
+			</div>
+	</div>
+					</div>
+						<div class="content-block">
+				<hr class="content-line">
+				<h3>Other information</h3>
+				<p></p>
+									<h4><strong>Attachments</strong></h4>
+					<p>#2 Pivotal Redacted Contract</p><p> 		<a href="https://www.contractsfinder.service.gov.uk/Notice/Attachment/242423" id="5ebe8ab5a92a0" class="govuk-link download">
+	20200331_Pivotal App Devt contract V4 Final Signed_Redacted.pdf</a> </p><p></p>			</div>
+							<div class="content-block no-print">
+		<hr class="content-line">
+		<h2 class="share-this-notice">Share this notice</h2>
+			<div class="social">
+		<ul>
+			<li>		<a href="#" id="5ebe8ab5a95e0" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.contractsfinder.service.gov.uk%2FNotice%2Fca3887ff-9485-4729-aa30-faff9ea894ec;text=Contracts+Finder+-+%232.+NHSX+-+Proximity+%28Contact+Tracing%29+App+Development+and+Deployment%2C+contract+with+Go+Pivotal+%28UK%29+Ltd','Twitter', 'status=1,width=575,height=400');return false;" style="padding-top: 5px" class="twitter govuk-link">
+	Twitter</a></li>
+			<li>		<a href="#" id="5ebe8ab5a9627" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.contractsfinder.service.gov.uk%2FNotice%2Fca3887ff-9485-4729-aa30-faff9ea894ec&amp;title=Contracts+Finder+-+%232.+NHSX+-+Proximity+%28Contact+Tracing%29+App+Development+and+Deployment%2C+contract+with+Go+Pivotal+%28UK%29+Ltd&amp;summary=Contract+Award+Notice+following+a+G-Cloud+11+Award+to+Go+Pivotal+%28UK%29+Ltd%3A++%232.+NHSX+-+Proximity+%28Contact+Tracing%29+Development+and+Deployment+of+MVP+and+App+to+market&amp;source=Contracts%20Finder','LinkedIn', 'status=1,width=1040,height=570');return false;" style="padding-top: 5px" class="linkedin govuk-link">
+	LinkedIn</a></li>
+			<li>		<a href="mailto:?subject=A Contracts Finder notice has been shared with you&amp;body=Contracts Finder notice reference URL: https://www.contractsfinder.service.gov.uk/Notice/ca3887ff-9485-4729-aa30-faff9ea894ec" id="5ebe8ab5a9672" style="padding-top: 5px" class="email govuk-link">
+	Email</a></li>
+		</ul>
+	</div>
+		</div>
+	
+					<button href="#" id="5ebe8ab5a97c9" class="pd-open govuk-button" data-popup-open="popup-dialog-2" aria-haspopup="dialog">Watch this notice</button>
+				<span class="clear"></span>
+					<button id="5ebe8ab5a989e" class="print govuk-button">Print this notice</button>
+				<span class="clear"></span>
+			Closing date: 23 March 2020
+			<span class="clear"></span>
+			<div class="content-block no-print">
+				<p>
+						<button href="#" id="5ebe8ab5a9a28" class="pd-open govuk-link link-button" data-popup-open="popup-dialog-0" aria-haspopup="dialog">Is there anything wrong with this page?</button>
+					</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="standard-right-col" role="complementary" class="standard-col">
+	<div class="standard-col-content">
+		<div id="content-holder-right" class="content-holder">
+			<div id="content-block-right" class="mobile-hidden">
+										<button href="#" id="5ebe8ab5a9af8" class="pd-open govuk-button" data-popup-open="popup-dialog-2" aria-haspopup="dialog">Watch this notice</button>
+							<button id="5ebe8ab5a9bb9" class="print govuk-button">Print this notice</button>
+					</br>
+				<p>
+					Closing date: 23 March 2020				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+			</div>
+			</div>
+			</div>
+						<span class="clear"></span>
+		</div>
+	</div>
+	<div class="js-hide" id="site-timeout-warning">
+			<div id="_infobox2187" class="standard-infobox standard-infobox-attention">
+		<div class="standard-infobox-padding">
+						<div class="standard-infobox-body">
+		Your session will end unless we detect browser activity within 2 minutes.				<span class="clear"></span>
+			</div>
+		</div>
+				<div class="gadget-footer-notice">
+								</div>
+	</div>
+	<span class="clear"></span>
+		</div>
+	<div id="footer-container">
+				<span id="js-plt" class="js-only">1589545653</span>
+						<span id='js-rwh' class='js-only'>/Search/Results?page=#ca3887ff-9485-4729-aa30-faff9ea894ec</span>								<span id='js-chat-refresh' class='js-only'></span>		<span id='js-chat-user' class='js-only'>1</span><span id='js-chat-win-height' class='js-only'>820</span><span id='js-chat-win-width' class='js-only'>350</span>								<div id="govuk-footer" role="contentinfo">
+				<div class="govuk-footer-wrapper">
+					<div class="cf-footer-wrapper">
+							 <div class="footer-left">
+								<ul class="govuk-foooter-links">
+									<li>
+												<a href="https://www.contractsfinder.service.gov.uk/Search" class="govuk-link">
+	Search</a>	
+									</li>
+																		<li>
+												<a href="https://www.contractsfinder.service.gov.uk/login" class="govuk-link">
+	Sign in/Register</a>	
+									</li>
+																		<li>
+												<a href="https://www.gov.uk/government/organisations/crown-commercial-service" class="govuk-link">
+	About</a>	
+									</li>
+									<li>
+												<a href="https://www.contractsfinder.service.gov.uk/Home/Contact" class="govuk-link">
+	Contact us</a>	
+									</li>
+									<li>
+												<a href="https://www.contractsfinder.service.gov.uk/Home/TermsAndConditions" class="govuk-link">
+	Terms and conditions</a>	
+									</li>
+									<li>
+												<a href="https://www.gov.uk/government/publications/crown-commercial-service-privacy-notice/crown-commercial-service-privacy-notice" class="govuk-link">
+	Privacy notice</a>	
+									</li>
+									<li>
+												<a href="https://www.contractsfinder.service.gov.uk/Home/Cookies" class="govuk-link">
+	Cookies</a>	
+									</li>
+								</ul>
+								<p class="govuk-foooter-links-ogl"><img src="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/skins/contractfinder/OGL.png" alt="" style="margin-bottom: -3px" />All content is available under the 
+											<a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3" class="govuk-link">
+	Open Government Licence v3.0</a> except where otherwise stated.</p>
+							</div>
+							<div class="footer-right">
+								<a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm" class="govuk-link" target="_blank">
+									<img width="125" height="102" src="https://www.contractsfinder.service.gov.uk/libraries/base-noticing/images/skins/contractfinder/crown_copyright.png" alt="" />
+									<p>&copy; Crown copyright</p>
+								</a>
+							</div>
+						</div>
+									</div>
+			</div>
+			</div>
+</div>
+
+			<div class="popup-dialog" id="popup-dialog-0" >
+				<div role="dialog" aria-live='polite' class="pd-inner">
+						<div class="pd-content pd-header">
+		<h2 id="popup-dialog-0-title">Concerned about public procurement practices?</h2>
+				<button id="popup-dialog-0-close" class="pd-close pd-close-button" aria-label="Close dialog"></button>
+		</div>
+	<div class="pd-content">
+		<p>If you are having technical problems you can contact our service support team at 		<a href="mailto:ContractsFinder@crowncommercial.gov.uk" target="_blank" class="govuk-link">
+	ContractsFinder@crowncommercial.gov.uk</a>.</p>
+		<p>If you have any concerns about procurement practices, including late payment, you can contact the Public Procurement Review Service at 		<a href="mailto:publicprocurementreview@cabinetoffice.gov.uk" class="govuk-link">
+	publicprocurementreview@cabinetoffice.gov.uk</a>.</p>
+		<p>The role of the service is to:</p>
+		<ul class="online-bullets">
+			<li>provide a clear, structured and direct route for suppliers to raise concerns about public procurement practice</li>
+			<li>offer feedback to enquirers on their concerns</li>
+		</ul>
+		 <p>Find out more on the 		<a href="https://www.gov.uk/government/publications/public-procurement-review-service-scope-and-remit" target="_blank" class="govuk-link">
+	Public Procurement Review Service website</a>.</p>
+		 		<button id="close" name="close" class="govuk-button pd-close">Close</button>
+			<span class="clear"></span>
+	</div>
+	
+				</div>
+			</div>
+		
+			<div class="popup-dialog" id="popup-dialog-1" >
+				<div role="dialog" aria-live='polite' class="pd-inner">
+						<div class="pd-content pd-header">
+		<h2 id="popup-dialog-1-title">Saved to watched notices list</h2>
+				<button id="popup-dialog-1-close" class="pd-close pd-close-button" aria-label="Close dialog"></button>
+		</div>
+	<div class="pd-content">
+		<p>This item has been successfully added to your watched notices list.</p>
+		<p class="spaced">Select &#039;Return to watched notice&#039; to view the item.</p>
+				<button href="#" class="pd-close govuk-button" aria-label="Close dialog">Return to watched notice</button>
+			<span class="clear"></span>
+		<p class="spaced">Select &#039;Go to your account page&#039; for everything else.</p>
+				<a href="https://www.contractsfinder.service.gov.uk/Manage/WatchedNotices" class="govuk-button">
+	Go to your account page</a>		<span class="clear"></span>
+	</div>
+	
+				</div>
+			</div>
+		
+			<div class="popup-dialog" id="popup-dialog-2" >
+				<div role="dialog" aria-live='polite' class="pd-inner">
+							<div class="pd-content pd-header">
+			<h2 id="popup-dialog-2-title">Sign in to watch this notice</h2>
+					<button id="popup-dialog-2-close" class="pd-close pd-close-button" aria-label="Close dialog"></button>
+			</div>
+		<div class="pd-content">
+			<p>This feature is only available for registered users.</p>
+			<p>To sign in to your account or request to register select &#039;Sign in&#039; below.</p>
+					<button id="sign_in" onclick="window.location='https://www.contractsfinder.service.gov.uk/login'" class="govuk-button">Sign in</button>
+				<span class="clear"></span>
+			<p></p>
+			<p>Select &#039;Return to notice&#039; to return to the notice.</p>
+					<button class="pd-close govuk-button" aria-label="Close dialog">Return to notice</button>
+				<span class="clear"></span>
+		</div>
+	
+				</div>
+			</div>
+		
+			<div class="popup-dialog" id="main-confirm-popup" data-pre-open-func="populate_main_confirm_dialog" data-vertical-center="">
+				<div role="dialog" aria-live='polite' class="pd-inner">
+						<div class="pd-content pd-header">
+		<h2 id="main-confirm-popup-title">Confirm</h2>
+				<button id="main-confirm-popup-close" class="pd-close pd-close-button" aria-label="Close dialog"></button>
+		</div>
+	<div class="pd-content">
+		<div class="confirm-question-holder"></div>
+	
+		<div class="flex">
+					<a class="govuk-button confirm-yes align-right">
+	Yes</a>		<a class="govuk-button confirm-no pd-close">
+	No</a>		</div>
+	</div>
+	
+				</div>
+			</div>
+		</body>
+</html>
