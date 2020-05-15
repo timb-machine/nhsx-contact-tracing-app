@@ -28,3 +28,6 @@
 [submodule "alternate-implementations/au/ios/mobile-ios"]
 	path = alternate-implementations/au/ios/mobile-ios
 	url = https://github.com/AU-COVIDSafe/mobile-ios
+[submodule "opensource-research/press/covid-19_instant_tracing"]
+	path = opensource-research/press/covid-19_instant_tracing
+	url = https://github.com/BDI-pathogens/covid-19_instant_tracing
